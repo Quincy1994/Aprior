@@ -1,0 +1,3 @@
+D0901695`Linux-进入单人维护模式-修改root口令
+D0926737`因修改/etc/sudoers权限导致sudo和su不能使用的解决方法
+D0489835`/etc/passwd_详细解释

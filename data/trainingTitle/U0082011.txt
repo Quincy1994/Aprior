@@ -1,0 +1,24 @@
+D0774812`Qt5制作类似QQ好友鼠标悬停显示好友信息的ToolTip
+D0052834`QtAndroid详解(3)：startActivity实战Android拍照功能
+D0183296`Ubuntu 手机开发培训准备
+D0423058`Qt实战一二三
+D0116290`QtAndroid详解(2)：startActivity和它的小伙伴们
+D0446246`Qt实战之开发CSDN下载助手 （2）
+D0848391`QT实现局域网聊天工具(带UDP文件传输)
+D0114332`Qt5.3.0的移植安装与测试(交叉编译，用于arm,支持tslib触摸屏)
+D0127261`QtAndroid详解(1)：QAndroidJniObject
+D0841236`Qt Creator管理多个项目
+D0757272`酷我音乐歌手写真接口分享
+D0397557`C++11多线程学习记录（一）
+D0180478`QtAndroid详解(6)：集成信鸽推送
+D0699415`QT仿酷狗
+D0201233`Qt Quick里的粒子系统
+D0335257`Qt实战之开发软件数据获取助手
+D0787912`adb简介
+D0346974`Qt 3D的研究（四）：指定渲染的材质以及效果
+D0221762`QtAndroid详解(4)：JNI调用Android系统功能(1)
+D0621623`Qt实战之酷狗音乐
+D0477719`libzplay库
+D0456069`Qt 5的git源码编译
+D0453759`如何在QML中使用ListView并导航到其它页面中
+D0699415`QT仿酷狗

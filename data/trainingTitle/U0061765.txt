@@ -1,0 +1,15 @@
+D0781459`hadoop2.6 命令行方式运行WordCount
+D0245050`微信调用jssdk在网页端实现调用扫一扫，java+jsp
+D0536920`两个Mapper初始化输出类错误的心得：Unable to initialize any output collector
+D0671974`Myeclipse编译Maven项目并Tomcat部署
+D0924840`asm.jar使用不了，Error:Could not find adb, please install Android SDK and set path to adb
+D0390323`微信公众平台 java示例 接收消息并回复
+D0805218`解决maven Unable to update index for central|http://repo1.maven.org/maven2 的问题
+D0607814`Java 通过 JNA 调用 DLL 返回 char * 字符串乱码问题的解决
+D0407569`Ubuntu14.04下hadoop-2.6.0单机配置和伪分布式配置
+D0919563`从Java代码远程提交YARN MapReduce任务
+D0245050`微信调用jssdk在网页端实现调用扫一扫，java+jsp
+D0781459`hadoop2.6 命令行方式运行WordCount
+D0778489`Mahout快速入门教程
+D0346215`Hadoop常见错误及解决办法汇总
+D0797212`LeetCode 234` Palindrome Linked List （回文链表）

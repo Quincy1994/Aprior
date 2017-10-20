@@ -1,0 +1,25 @@
+D0413848`Android实战 - 音心音乐播发器 （主界面实现）
+D0370115`InstallShield Limited Edition for Visual Studio 2013 图文教程（教你如何打包.NET程序）
+D0653099`【C#】表达式
+D0422577`Fragment跳转时传递参数及结果回传的方法
+D0568636`C#程序员开发WinForm必须知道的 Window 消息大全
+D0784150`Android实战 - 音心播放器 （项目总结，应用打包发布）
+D0675509`Android实战 - 音心播发器 （MusicService ,Notification, MainActivity 总结）
+D0484296`Android实战 - 音心播放器 （通知实现音乐的播放/暂停/下一曲控制）
+D0160273`c# winform 打包(带数据库安装)
+D0522117`【C#】流控制
+D0576006`【Language】.NET和C#概述
+D0209957`Android系统移植与调试之------->如何添加一个adb wifi无线调试的功能【开发者选项】-【Wifi调试】
+D0486458`Android实战 - 音心播放器 （Music Service 实现）
+D0626350`深入理解Android系列书籍资源分享更新
+D0331497`android java unicode 之间的关系
+D0299129`合理利用“泛在式” - 手机促使人群分化
+D0443316`[javase学习笔记]-5.6 二维数组
+D0424510`(NO.00005)iOS实现炸弹人游戏(二):素材选择的取舍
+D0444724`《Android源码设计模式解析与实战》读书笔记（七）
+D0356993`【C#】数据类型
+D0477432`[javase学习笔记]-6.6 基本数据类型参数与引用数据类型参数的传递过程
+D0116200`Fragment详解之五——Fragment间参数传递
+D0182661`鼠标事件比较与鼠标位置
+D0251040`PDB文件：每个开发人员都必须知道的
+D0002786`深入理解Android之Java虚拟机Dalvik

@@ -1,0 +1,25 @@
+D0089861`C++中static关键字的总结
+D0410992`设计模式之抽象工厂
+D0159375`为什么C++编译器不支持模板头文件和实现代码分离的编译
+D0367999`复制构造函数 与 赋值函数 的区别以及应该注意的问题
+D0684624`python 与hadoop之pyhdfs的使用
+D0538978`函数的参数传值
+D0416214`python 之运维
+D0015774`C/C++内存管理详解
+D0059932`主流网站开发语言
+D0443380`设计模式之Builder
+D0557556`python 与hadoop之pyhdfs的append
+D0694021`python 与hadoop之pyhdfs库安装
+D0439015`文件读取之getline函数
+D0084223`返回类型和return语句
+D0694021`python 与hadoop之pyhdfs库安装
+D0410992`设计模式之抽象工厂
+D0159375`为什么C++编译器不支持模板头文件和实现代码分离的编译
+D0209044`第五部分 架构篇 第十二章 MongoDB Replica Sets 架构（简介）
+D0367999`复制构造函数 与 赋值函数 的区别以及应该注意的问题
+D0538978`函数的参数传值
+D0416214`python 之运维
+D0684624`python 与hadoop之pyhdfs的使用
+D0443380`设计模式之Builder
+D0439015`文件读取之getline函数
+D0557556`python 与hadoop之pyhdfs的append

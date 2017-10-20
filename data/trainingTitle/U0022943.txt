@@ -1,0 +1,13 @@
+D0705051`invalid use of incomplete struct \
+D0397608`C++中的namespace
+D0306244`Linux下 配置Coovachilli 作为 Web认证Portal和网关
+D0740856`ibox4412 移植ubuntu（kernel3.8.13+13.10 from FriendlyArm and odroid）
+D0300910`Linux设备驱动开发详解：基于最新的Linux 4.0内核——互动出版网
+D0117674`3g android4 移植 飞思卡尔i.MX 6Quad Android 4.2.2的中兴和Ublox 3G驱动移植  Android——4.2 - 3G移植之路之 reference-ril .p
+D0210625`Linux shell 之 提取文件名和目录名的一些方法
+D0575331`FFMPEG研究`ubuntu下录制/dev/video0/设备视频保存为mp4格式
+D0542740`Linux下ME3760_v2驱动移植方式，中兴4G网卡移植
+D0206627`android ble蓝牙开发略解
+D0095843`Shell细小问题汇总
+D0417482`数据分析与R语言学习笔记（1）
+D0037145`从需求的角度去理解Linux系列：总线、设备和驱动

@@ -1,0 +1,18 @@
+D0117110`android 控件属性大全
+D0666898`安卓通过PHP实现文件上传下载
+D0792536`仿微信/支付宝的密码输入框效果 android
+D0826744`仿微信/支付宝的密码输入框效果 android
+D0519047`【采摘】CSDN谚语
+D0738094`Android 按两次返回键完全退出程序
+D0681957`Android实现Banner界面广告图片循环轮播（包括实现手动滑动循环）
+D0841447`自定义ScrollView，实现ScrollView滑动监听并记录滑动位置。
+D0910916`Android问题集锦之二十八：You need to use a Theme.AppCompat theme (or descendant) with this activity.
+D0110481`手把手教你打造android侧滑框架
+D0411406`Android控件GridView之仿支付宝钱包首页带有分割线的GridView九宫格的完美实现
+D0057949`程序员如何爱护自己的眼睛
+D0584222`开源中国源码学习（二）——Splash界面
+D0284978`安卓开发——关于图片的三级缓存策略（内存LruCache+磁盘DiskLruCache+网络Volley）
+D0488768`Android图片上传（头像裁切+原图原样）
+D0143207`Android图片上传（头像裁切+原图原样）
+D0084501`Android DiskLruCache 源码解析 硬盘缓存的绝佳方案
+D0899270`Android学习资源

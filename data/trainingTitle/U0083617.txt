@@ -1,0 +1,25 @@
+D0219800`windows+caffe+vs2013+cuda6.5配置记录
+D0269278`Fast-RCNN解析：训练阶段代码导读
+D0765738`安装配置cuda6.5以及vs2012的环境
+D0071174`理解dropout
+D0151307`caffe源码解析 — caffe.proto
+D0175840`（全面 经典 管用）Windows7 64位+Cuda6.5+vs2012 的caffe配置历程
+D0792326`Caffe for windows使用matlab运行RCNN demo
+D0722629`cuda-convnet2与caffe对比
+D0179446`VS2013配置编译Caffe-Win10_X64
+D0606896`Windows下编译Caffe并编译Matlab接口
+D0221175`Centos6.5+CUDA6.5+caffe安装配置及可能遇到问题解答
+D0170245`【转】Caffe Windows版本的编译
+D0293707`Caffe安装教程（Ubuntu15.04+CUDA7.5)
+D0056562`深度卷积网络CNN与图像语义分割
+D0439280`Caffe —— Deep learning in Practice
+D0489118`谈谈如何训练一个性能不错的深度神经网络
+D0723716`TensorFlow安装配置，茫茫人海中一瞥
+D0876602`caffe python visualization程序解析
+D0622379`[caffe]深度学习之图像分类模型VGG解读
+D0915153`hdf5格式的matlab读写操作
+D0373068`论文笔记（1）DenseBox`Unifying Landmark Localization with End to End Object Detection
+D0524897`caffe配置问题，win7(64bit)+vs2013+cuda7.5
+D0245045`如何快糙好猛地在Windows下编译CAFFE并使用其matlab和python接口
+D0281882`caffe安装系列——安装cuda和cudnn
+D0483778`在MATLAB下调试Caffe

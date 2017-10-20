@@ -1,0 +1,54 @@
+D0776992`MySql之慢查询
+D0336878`Caffe安装手记【Ubuntu15.04、CUDA7、OpenBlas、OpenCV、cuDNN】
+D0840927`MySql之索引
+D0367640`面试题之概率统计
+D0450947`Caffe安装问题汇总
+D0620480`Caffe提取任意层特征并进行可视化
+D0450947`Caffe安装问题汇总
+D0857481`caffe make runtest error（core dumped）Check failed`status == CUDNN_STATUS_SUCCESS (6 vs. 0)
+D0712972`caffe 训练测试自己的数据集
+D0008830`【王晓刚】深度学习在图像识别中的研究进展与展望
+D0089522`深度学习研究理解10：Very Deep Convolutional Networks for Large-Scale Image Recognition
+D0224264`触发JVM进行Full GC的情况及应对策略
+D0183233`Ubuntu14.04 +caffe+cuda 7.0
+D0086814`机器学习算法概览
+D0356212`Caffe3——ImageNet数据集创建lmdb类型的数据
+D0722629`cuda-convnet2与caffe对比
+D0433800`数据库-索引（概念，优缺点，分类）
+D0296110`Caffe 跑自己的数据和训练
+D0663894`Caffe学习：Data
+D0114398`假如你想成为全栈工程师…
+D0486129`有关Caffe训练好的模型在Python接口下使用分类不准确的问题解决
+D0074213`笔记本+Ubuntu14.04+cuda6.5+caffe的配置详解
+D0888629`【Linux】CentOS安装Chrome浏览器
+D0776992`MySql之慢查询
+D0336878`Caffe安装手记【Ubuntu15.04、CUDA7、OpenBlas、OpenCV、cuDNN】
+D0500278`Image classification with deep learning常用模型
+D0188416`Caffe安装过程记录（CentOS，无独立显卡，无GPU）
+D0500528`基于caffe的特征可视化
+D0840927`MySql之索引
+D0814079`程序员编程艺术：面试和算法心得
+D0005380`神经网络训练中的Tricks之高效BP（反向传播算法）
+D0641002`Caffe学习：Forward and Backward
+D0211268`Caffe学习：Solver
+D0202529`caffe框架翻译和理解
+D0097300`深度学习笔记1(卷积神经网络)
+D0206688`【Spring】Spring在JavaWeb工程中整合log4j
+D0008849`【王晓刚】深度学习在图像识别中的研究进展与展望
+D0439280`Caffe —— Deep learning in Practice
+D0234752`Caffe学习：Blobs, Layers, and Nets
+D0349108`JVM内存区域划分Eden Space、Survivor Space、Tenured Gen，Perm Gen解释
+D0876602`caffe python visualization程序解析
+D0190390`caffe 学习笔记（一）
+D0354593`caffe示例实现之10LeNet的python接口
+D0286161`对 CNN 中 dropout layer 的理解
+D0777266`boost.python编译及示例
+D0839428`cuda-convnet2与caffe对比
+D0367640`面试题之概率统计
+D0567912`Caffe学习：Loss
+D0077674`深度学习研究理解5：Visualizing and Understanding Convolutional Networks
+D0426088`caffe源码解析 — solver.cpp
+D0467899`caffe-parallel 使用总结（ONLY_CPU）
+D0299707`Thrift介绍加DEMO解析
+D0633755`【大数据处理】键值对数据库Leveldb
+D0783058`caffe python批量抽取图像特征

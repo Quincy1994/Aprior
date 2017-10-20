@@ -1,0 +1,207 @@
+D0890950`ListView中item与控件抢夺焦点解决办法
+D0493645`Android基础入门教程——7.1.4 Android HTTP请求方式-HttpClient
+D0140336`Android基础入门教程——6.2 数据存储与访问之——SharedPreferences保存用户偏好参数
+D0341660`【凯子哥带你夯实应用层】读 Develop API Guides 有感(一)
+D0249621`Android基础入门教程——4.1.2 Activity初窥门径
+D0278992`Android基础入门教程——1.7 界面原型设计
+D0402787`Android基础入门教程——2.3.6 开关按钮ToggleButton和开关Switch
+D0625543`Android万能适配器Adapter-android学习之旅(74)
+D0113715`Android 携程动态加载框架的打包流程分析
+D0026302`自定义控件其实很简单7/12
+D0273102`Android基础入门教程——1.4 Genymotion模拟器安装
+D0297109`Android基础入门教程——5.2.4 Fragment实例精讲——底部导航栏+ViewPager滑动切换页面
+D0683582`Android开发相关的Blog推荐——跟随大神的脚步才能成长为大神
+D0322683`Android基础入门教程——3.3 Handler消息传递机制浅析
+D0280826`android继续探索Fresco
+D0278676`Android基础入门教程——7.4 Android调用WebService
+D0460803`Android基础入门教程——2.5.1 Toast(吐司)的基本使用
+D0090179`【Android开发经验】兼容不同的屏幕大小(推荐，最官方的适应屏幕大小的经验)
+D0337265`Android基础入门教程——8.3.7 Paint API之—— Xfermode与PorterDuff详解(四)
+D0480304`Android基础入门教程——7.2.1 Android XML数据解析
+D0395220`Android基础入门教程——2.5.5 PopupWindow(悬浮框)的基本使用
+D0354809`Android基础入门教程——2.2.2 RelativeLayout(相对布局)
+D0589918`Google官方网络框架-Volley的使用解析Json以及加载网络图片方法
+D0414979`Android基础入门教程——5.2.2 Fragment实例精讲——底部导航栏的实现(方法2)
+D0614705`Android QQ、微信聊天消息界面设计原理与实现
+D0392584`Android基础入门教程——7.5.2 WebView和JavaScrip交互基础
+D0098599`Android基础入门教程——7.5.1 WebView(网页视图)基本用法
+D0538903`Android基础入门教程——1.3 SDK更新不了问题解决
+D0131169`Android翻页效果原理实现之曲线的实现
+D0364870`Android基础入门教程——2.4.13 ViewFlipper(翻转视图)的基本使用
+D0209697`Android基础入门教程——2.2.1 LinearLayout(线性布局)
+D0564809`【FastDev4Android框架开发】非常漂亮的进度指示器AVLoadingIndicatorView的使用讲解(十八)
+D0216347`【Android开源项目解析】RecyclerView侧滑删除粒子效果实现——初探Android开源粒子库 Leonids
+D0389535`开源基于Face++的Android应用刷脸神器(HowOld)
+D0411406`Android控件GridView之仿支付宝钱包首页带有分割线的GridView九宫格的完美实现
+D0054241`《Android源码设计模式解析》读书笔记——Android中你应该知道的设计模式
+D0051457`[深入理解Android卷一全文-第一章]阅读前的准备工作
+D0301926`Android基础入门教程——2.1 View与ViewGroup的概念
+D0481865`Android基础入门教程——2.3.11 Date & Time组件(上)
+D0357488`Android基础入门教程——2.4.10 Spinner(列表选项框)的基本使用
+D0365045`欢迎使用CSDN-markdown编辑器
+D0832430`Error:Execution failed for task ':app:compileDebugAidl'. > aidl is missing（Android Studio编译错误）
+D0039946`Android最佳性能实践(一)——合理管理内存
+D0147901`Android基础入门教程——4.5.2 Intent之复杂数据的传递
+D0482350`Android基础入门教程——2.4.8 ListView Item多布局的实现
+D0218763`一个绚丽的loading动效分析与实现！
+D0288052`Android基础入门教程——1.2.1 使用Eclipse + ADT + SDK开发Android APP
+D0376374`【Android界面实现】关于Android中9patch图的一点小解释
+D0250781`Android快速自定义控件+实战演示（二）组合自定义view+回调
+D0138827`Android基础入门教程——7.1.3 Android HTTP请求方式-HttpURLConnection
+D0068401`一个IT老兵六年的折腾之路！
+D0159196`Android基础入门教程——8.1.1 Android中的13种Drawable小结 Part 1
+D0071279`Android最佳性能实践(三)——高性能编码优化
+D0059684`Android翻页效果原理实现之翻页的尝试
+D0552670`【凯子哥带你夯实应用层】还在用XListView？试试更漂亮的AutoLoadListView吧！
+D0552585`Android基础入门教程——2.4.4 ListView的焦点问题
+D0475291`Android基础入门教程——2.4.3 BaseAdapter优化
+D0026013`Android性能优化之使用线程池处理异步任务
+D0283452`Android基础入门教程——2.3.3 Button(按钮)与ImageButton(图像按钮)
+D0337000`Android基础入门教程——1.6 .9(九妹)图片怎么玩
+D0063470`一个Android开发者开博一周年的成长日记——送给不知如何下手的【初级开发者】和【在校生】
+D0120334`【Android开发经验】APP的缓存文件到底应该存在哪？看完这篇文章你应该就自己清楚了
+D0105310`【Android界面实现】ZListView，一个最强大的刷新、加载、滑动删除的ListView控件（二）
+D0215491`【Android开发经验】来来来，同学，咱们讨论一下“只能在UI主线程更新View”这件小事
+D0147489`Android基础入门教程——3.7 AnsyncTask异步任务
+D0290040`Android基础入门教程——1.9 Android程序签名打包
+D0322975`Android 关于GridView那些事
+D0344377`Android基础入门教程——8.3.3 Paint API之—— MaskFilter(面具)
+D0093043`【Android】开源　闲暇(Leisure) 阅读类应用的开发
+D0028060`自定义控件其实很简单2/3
+D0176689`Android基础入门教程——1.8 工程相关解析(各种文件，资源访问)
+D0194566`每个Android开发者都应该了解的资源列表
+D0502778`Android基础入门教程——7.6.3 基于TCP协议的Socket通信(2)
+D0518110`Android基础入门教程——7.6.4 基于UDP协议的Socket通信
+D0334811`在Android加入和使用Realm
+D0241952`Android基础入门教程——4.4.1 ContentProvider初探
+D0095799`Android中Canvas绘图之MaskFilter图文详解（附源码下载）
+D0130315`【凯子哥带你夯实应用层】都说“知乎”逼格高，我们来实现“知乎”回答详情页动画效果
+D0307810`Android基础入门教程——7.5.3 Android 4.4后WebView的一些注意事项
+D0131383`Android基础入门教程——4.1.1 Activity初学乍练
+D0260804`【Android开发经验】关于“多线程断点续传下载”功能的一个简单实现和讲解
+D0284214`Android基础入门教程——2.2.4 FrameLayout(帧布局)
+D0872049`Android利用ViewPager仿微信主界面-android学习之旅(78)
+D0172146`Android OkHttp完全解析 是时候来了解OkHttp了
+D0312497`Android基础入门教程——2.4.2 ListView简单使用
+D0625439`【凯子哥带你夯实应用层】新手必备的常用代码片段整理（二）
+D0640336`【有人@我】Android中高亮变色显示文本中的关键字
+D0288270`Android基础入门教程——8.3.2 绘图类实战示例
+D0040001`Android基础入门教程——4.2.3 Service精通
+D0119422`Android基础入门教程——1.5.1 Git使用教程之本地仓库的基本操作
+D0483549`Android基础入门教程——2.4.5 ListView之checkbox错位问题解决
+D0213567`Android基础入门教程——2.2.3 TableLayout(表格布局)
+D0554032`Android基础入门教程——2.5.4 其他几种常用对话框基本使用
+D0197317`SpannableString使用详解
+D0138168`Android基础入门教程——7.1.2 Android Http请求头与响应头的学习
+D0289896`Android基础入门教程——8.3.5 Paint API之—— Xfermode与PorterDuff详解(二)
+D0779962`Android 判断 网络连接  Internet访问 工具类
+D0172231`【Android界面实现】ZListView，一个最强大的刷新、加载、滑动删除的ListView控件（一）
+D0192322`Android基础入门教程——6.3.2 数据存储与访问之——又见SQLite数据库
+D0298160`Android基础入门教程——1.2 开发环境搭建
+D0182429`Android基础入门教程——8.2.1 Bitmap(位图)详解
+D0249749`Android基础入门教程——6.1 数据存储与访问之——文件存储读写
+D0503872`Android基础入门教程——7.5.4 WebView文件下载
+D0188190`PhotoView开源项目剖析
+D0928470`android photoview 图片放大缩放功能 ImageView
+D0113127`Android基础入门教程——8.3.1 三个绘图工具类详解
+D0472516`Android基础入门教程——2.4.11 AutoCompleteTextView(自动完成文本框)的基本使用
+D0253738`JDK 源码解析 —— Java 内存模型
+D0829330`MPAndroidChart开源图表库（一）之饼状图
+D0011605`[深入理解Android卷一 全文-第二章]深入理解JNI
+D0238740`Android基础入门教程——3.2 基于回调的事件处理机制
+D0164914`Android自定义View——自定义搜索框（SearchView）
+D0118605`Android基础入门教程——7.1.1 Android网络编程要学的东西与Http协议学习
+D0128092`Android基础入门教程——4.2.2 Service进阶
+D0163115`Android翻页效果原理实现之模拟扭曲
+D0108300`Android基础入门教程——4.2.1 Service初涉
+D0242815`Android基础入门教程——8.3.9 Paint API之—— ColorFilter(颜色过滤器)(1-3)
+D0618347`Android基础入门教程——1.2.2 使用Android Studio开发Android APP
+D0267676`Android基础入门教程——5.2.1 Fragment实例精讲——底部导航栏的实现(方法1)
+D0542857`Android基础入门教程——3.5 监听EditText的内容变化
+D0420399`Android基础入门教程——2.2.5 GridLayout(网格布局)
+D0057346`Android基础入门教程——4.1.3 Activity登堂入室
+D0301522`Android基础入门教程——1.10 反编译APK获取代码&资源
+D0544968`Android基础入门教程——7.5.6 WebView处理网页返回的错误码信息
+D0237940`Android基础入门教程——8.1.3 Android中的13种Drawable小结 Part 3
+D0388072`Android基础入门教程——4.3.2 BroadcastReceiver庖丁解牛
+D0151988`Android基础入门教程——2.5.2 Notification(状态栏通知)详解
+D0393394`Android基础入门教程——3.6 响应系统设置的事件(Configuration类)
+D0268444`Android基础入门教程——10.3 AudioManager(音频管理器)
+D0434579`Android基础入门教程——2.4.12 ExpandableListView(可折叠列表)的基本使用
+D0032283`Android翻页效果原理实现之引入折线
+D0433911`Android基础入门教程——2.2.6 AbsoluteLayout(绝对布局)
+D0244784`Android基础入门教程——1.5.2 Git之使用GitHub搭建远程仓库
+D0633402`【凯子哥带你夯实应用层】使用ActionProvider实现子菜单时遇到的一个坑
+D0082870`Android基础入门教程——2.3.1 TextView(文本框)详解
+D0160871`【Android效果集】下雨效果
+D0154100`Android基础入门教程——10.5 AlarmManager(闹钟服务)
+D0102898`Android AutoLayout全新的适配方式 堪称适配终结者
+D0171990`Android基础入门教程——4.3.1 BroadcastReceiver牛刀小试
+D0335656`开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载
+D0166223`【Android开源项目解析】QQ“一键下班”功能实现解析——学习Path及贝塞尔曲线的基本使用
+D0346460`Android基础入门教程——2.4.7 构建一个可复用的自定义BaseAdapter
+D0297079`Android基础入门教程——3.4 TouchListener PK OnTouchEvent + 多点触碰
+D0242822`Android基础入门教程——2.4.15 DrawerLayout(官方侧滑菜单)的简单使用
+D0438132`Android基础入门教程——2.3.10 ScrollView(滚动条)
+D0217342`【FastDev4Android框架开发】HorizontalScrollView,Fragment,FragmentStatePagerAdapter打造网易新闻Tab及滑动页面效果(三十六)
+D0291152`Android基础入门教程——3.1 基于监听的事件处理机制
+D0431226`Android基础入门教程——2.5.3 AlertDialog(对话框)详解
+D0411445`Android基础入门教程——10.4 Vibrator(振动器)
+D0251282`Android基础入门教程——2.3.7 ProgressBar(进度条)
+D0118551`Android基础入门教程——2.3.2 EditText(输入框)详解
+D0386409`A022-列表容器之ExpandableListView
+D0250729`Android基础入门教程——7.3.3 Android 文件下载（2）
+D0090940`【凯子哥带你夯实应用层】滚来滚去，滚来滚去...Scroller相关类使用大揭秘！！！
+D0291033`Android基础入门教程——2.3.5.RadioButton(单选按钮)&Checkbox(复选框)
+D0203545`Android基础入门教程——8.1.2 Android中的13种Drawable小结 Part 2
+D0353500`Android基础入门教程——5.2.3 Fragment实例精讲——底部导航栏的实现(方法3)
+D0295875`Android快速自定义控件+实战演示（三）完整键盘和组合回调！
+D0662094`Android实现仿电脑的ip地址输入
+D0667033`Android内存泄漏检测-LeakCanary
+D0604255`Android listview中使用checkbox
+D0185333`Android基础入门教程——2.4.1 Adapter基础讲解
+D0174387`Android基础入门教程——3.8 Gestures(手势)
+D0328998`Android基础入门教程——7.2.2 Android JSON数据解析
+D0484820`Android基础入门教程——5.2.5 Fragment实例精讲——新闻(购物)类App列表Fragment的简单实现
+D0546914`Android获取SD卡上所有图片、视频缩略图和音乐专辑封面
+D0328254`Android基础入门教程——10.12 传感器专题(3)——加速度-陀螺仪传感器
+D0854229`This Activity already has an action bar supplied by the window decor
+D0377193`Android ColorMatrix类图像颜色处理-黑白老照片、泛黄旧照片、高对比度等效果
+D0114398`假如你想成为全栈工程师…
+D0685947`【码农福音】说自己英文不好而不去看英文网站的同学看过来！
+D0164783`Android基础入门教程——4.4.2 ContentProvider再探——Ducument Provider
+D0051669`自定义控件其实很简单1/2
+D0293200`Android基础入门教程——1.1 背景相关与系统架构分析
+D0308394`Android基础入门教程——8.3.6 Paint API之—— Xfermode与PorterDuff详解(三)
+D0625766`【Android】Android聊天机器人实现
+D0241515`【Android开发经验】Bitmap高效显示系列——如何有效的加载大尺寸Bitmap
+D0855644`Android相关问题的好文章整理——温故而知新，可以为师矣
+D0029376`Android最佳性能实践(二)——分析内存的使用情况
+D0112194`【Android效果集】弹幕效果
+D0425666`Android应用发布后的统计——百度移动统计的应用
+D0081288`【凯子哥带你做高仿】“煎蛋”Android版的高仿及优化（一）——逆向工程及TcpDump抓包入门
+D0193606`Android基础入门教程——7.5.5 WebView缓存问题
+D0615350`Android基础入门教程——7.3.1 Android 文件上传
+D0184858`Android基础入门教程——8.2.2 Bitmap引起的OOM问题
+D0303936`Android基础入门教程——7.6.2 基于TCP协议的Socket通信(1)
+D0140243`Android基础入门教程——2.3.4 ImageView(图像视图)
+D0423577`Andbase应用开发框架
+D0274879`Android基础入门教程——2.4.6 ListView的数据更新问题
+D0008129`Android屏幕适配全攻略(最权威的官方适配指导)
+D0069480`【Android开源项目解析】仿支付宝付款成功及\
+D0142901`Android基础入门教程——2.4.14 ViewPager的简单使用
+D0297520`Android基础入门教程——10.2 SmsManager(短信管理器)
+D0053258`Android学习路线指南
+D0753649`TabLayout：另一种Tab的实现方式
+D0827637`【凯子哥带你夯实应用层】新手必备的常用代码片段整理（一）
+D0047141`FaceBook推出的Android图片加载库-Fresco
+D0041134`自定义控件其实很简单3/4
+D0598833`Android基础入门教程——2.4.9 GridView(网格视图)的基本使用
+D0417143`android 初识Fresco
+D0805328`MPAndroidChart开源图表库（二）之折线图
+D0232203`【Android开发经验】设置用户头像并裁剪，仅仅是这么简单？
+D0138633`Android Fragment 你应该知道的一切
+D0373675`Android基础入门教程——4.5.1 Intent的基本使用
+D0238853`Android基础入门教程——8.3.4 Paint API之—— Xfermode与PorterDuff详解(一)
+D0094332`【FastDev4Android框架开发】Volley完全解析之基础使用(二十六)
+D0160871`【Android效果集】下雨效果

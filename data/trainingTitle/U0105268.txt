@@ -1,0 +1,6 @@
+D0305800`Andrew Ng机器学习公开课笔记 — 线性回归和梯度下降
+D0518265`随机梯度下降法
+D0801583`《R语言入门》如何在Windows下安装R语言编程环境
+D0401751`Python快速教程
+D0606529`Android中弹出菜单PopupWindow的使用
+D0222467`Python机器学习库scikit-learn实践

@@ -1,0 +1,34 @@
+D0107488`Shiny应用基础（3）：页面布局
+D0490460`Shiny应用基础（8）：杂项
+D0697394`使用JabRef命令行方式下载文献记录
+D0267111`Shiny应用基础（1）：导言
+D0252899`Shiny应用基础（6）：数据响应的触发与阻止
+D0369111`Shiny应用基础（2）：HTML元素产生方法
+D0654869`Debian Xfce4键盘快捷键设置与修改
+D0600398`柱形图阴影线的绘制方法
+D0483200`Debian系统升级：从Wheezy到Jessie
+D0914876`tm中使用Perl正则表达式秒杀stopwords
+D0226922`Shiny应用基础（7）：图像互动
+D0422873`orgmode文档直接knitr输出HTML或PDF
+D0194932`Shiny应用基础（5）：数据获取与响应
+D0154048`Shiny应用基础（4）：数据与图像输出
+D0593007`Debian 6(Squeeze)升级至Debian 7(Wheezy)
+D0107488`Shiny应用基础（3）：页面布局
+D0493553`debian 8 Jessie配置
+D0483200`Debian系统升级：从Wheezy到Jessie
+D0697394`使用JabRef命令行方式下载文献记录
+D0267111`Shiny应用基础（1）：导言
+D0252899`Shiny应用基础（6）：数据响应的触发与阻止
+D0561808`hdu1253（胜利大逃亡）
+D0489805`R（2）时间序列分析及应用之TSA安装（R语言）
+D0369111`Shiny应用基础（2）：HTML元素产生方法
+D0654869`Debian Xfce4键盘快捷键设置与修改
+D0600398`柱形图阴影线的绘制方法
+D0226922`Shiny应用基础（7）：图像互动
+D0914876`tm中使用Perl正则表达式秒杀stopwords
+D0490460`Shiny应用基础（8）：杂项
+D0581273`用R来进行股票分析
+D0261077`JAVA调用R语言
+D0154048`Shiny应用基础（4）：数据与图像输出
+D0194932`Shiny应用基础（5）：数据获取与响应
+D0422873`orgmode文档直接knitr输出HTML或PDF

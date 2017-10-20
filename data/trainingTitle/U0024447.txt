@@ -1,0 +1,33 @@
+D0413509`负载平衡
+D0426569`欧拉图
+D0883351`图中的PATH的问题
+D0595131`FAST RCNN安装配置精华
+D0634684`DeepLearnToolBox中CNN源码解析
+D0033620`Adaboost 算法实例解析
+D0538335`RCNN的安装与简单使用
+D0220327`使用CNN（convolutional neural nets）检测脸部关键点教程（四）:学习率，学习势，dropout
+D0392896`Ubuntu14.04安装Theano详细教程
+D0782710`Eclipse安装Activiti Designer插件
+D0360279`DeepLearning tutorial（2）机器学习算法在训练过程中保存参数
+D0591021`Ubuntu14.04下配置SSH以支持远程putty登录
+D0486129`有关Caffe训练好的模型在Python接口下使用分类不准确的问题解决
+D0129388`使用CNN（convolutional neural nets）检测脸部关键点教程（三）:卷积神经网络训练和数据扩充
+D0036640`Yoshua Bengio等大神传授：26条深度学习经验
+D0384205`为什么正交匹配追踪(OMP)一定能恢复信号？
+D0188416`Caffe安装过程记录（CentOS，无独立显卡，无GPU）
+D0344662`深度学习工具caffe详细安装指南
+D0167902`CART分类回归树算法
+D0174344`8大经典数据挖掘算法
+D0448489`压缩感知重构算法之正交匹配追踪(OMP)
+D0395090`深度学习(deep learning)之一步一步实现编写深度神经网络（DNN)
+D0706417`matplotlib 使用和学习的资料
+D0423349`softmax回归
+D0665306`JS判断字符串变量是否含有某个字串的方法
+D0668995`win7/64位下python2.7、easy_install、numpy安装经验
+D0219614`使用CNN（convolutional neural nets）检测脸部关键点教程（五）:通过前训练（pre-train）训练专项网络
+D0345498`使用CNN（convolutional neural nets）检测脸部关键点教程（一）:环境搭建和数据
+D0325371`基于Linux CentOS的Python科学计算环境搭建
+D0246750`使用CNN（convolutional neural nets）检测脸部关键点教程（二）:浅层网络训练和测试
+D0333716`2015.08.17 Ubuntu 14.04+cuda 7.5+caffe安装配置
+D0029439`CNN神经网络层次分析
+D0891830`MatLab自带的SVM，快速入门使用

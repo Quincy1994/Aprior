@@ -1,0 +1,23 @@
+D0684553`Error:Execution failed for task ':app:dexDebug'. > com.android.ide.common.process.ProcessException
+D0681957`Android实现Banner界面广告图片循环轮播（包括实现手动滑动循环）
+D0255993`Android 沉浸式状态栏攻略 让你的状态栏变色吧
+D0157461`黑马程序员------异常
+D0869809`android新特性页面，ViewPager拖拽到最后一页再拖拽打开其他Activity
+D0244921`Android 自己实现 NavigationView [Design Support Library(1)]
+D0530318`Java编程思想(十八) —— 再谈反射
+D0501920`android 仿易讯客户端loading效果
+D0086070`Android RecyclerView 使用完全解析 体验艺术般的控件
+D0611629`2015年CSDN博客排名第一名，何方神圣？
+D0513058`开源一个基于ViewPager的无限轮循动画指示器
+D0150540`Android SurfaceView实战 带你玩转flabby bird （上）
+D0225695`ViewPager实现左右循环滑动及轮播效果（广告栏效果）
+D0192596`Android5.x 新控件之RecyclerView，CardView，Palette的使用
+D0727591`Error:Execution failed for task '`:dexDebug'. > com.android.ide.common.process.ProcessException`or
+D0094036`黑马程序员——IO流详解
+D0706323`TabLayout的简单使用
+D0175890`黑马程序员第九季——高新技术——反射
+D0135592`黑马程序员——多线程
+D0194149`Android M新控件之FloatingActionButton，TextInputLayout，Snackbar，TabLayout的使用
+D0743941`【Android】Error:Execution failed for task ':app:mergeDebugResources'. > String index out of range`0
+D0188132`Android M新控件之AppBarLayout，NavigationView，CoordinatorLayout，CollapsingToolbarLayout的使用
+D0194149`Android M新控件之FloatingActionButton，TextInputLayout，Snackbar，TabLayout的使用

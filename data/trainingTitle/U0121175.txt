@@ -1,0 +1,41 @@
+D0810333`解决ECLIPSE 卡死的方法
+D0420875`找对象需要单例模式吗？
+D0836607`Android存储数据的方法----SharedPreferences的使用
+D0789506`仿微信/支付宝的密码输入框效果 android
+D0162904`为什么优秀的程序员既懒又笨
+D0824538`AS快捷键
+D0756651`最小费用最大流 【模板】
+D0340852`Android4.4 wpa_supplicant深入分析之wpa_supplicant初始化流程
+D0564017`Java中实现CallBack功能
+D0565837`android 的导入crosswalk 用xwalkview 替换webview
+D0894348`解决android studio创建新项目时一直卡在Building \
+D0348265`android 屏幕分辨率总结
+D0692952`可滑动关闭的对话框(二)
+D0679121`打开链接公众号发送红包php版
+D0057733`Android应用Preference相关及源码浅析(SharePreferences篇)
+D0038826`程序员的年龄天花板
+D0088377`android 项目实战——打造超级课程表一键提取课表功能
+D0730684`【剑指Offer】第一个只出现一次的字符位置
+D0149760`【Android效果集】学习ExplosionField之粒子破碎效果
+D0285522`胖虎谈ImageLoader框架(一)
+D0053819`谈软件测试---一年测试工作总结
+D0451286`Android入门：广播发送者与广播接收者
+D0008129`Android屏幕适配全攻略(最权威的官方适配指导)
+D0794066`第二十七篇：QQ好友列表，UITableViewHeaderFooterView用法
+D0416826`张全蛋和李小花的故事——“代理模式”
+D0797711`Android上实现仿IOS的导航栏TitleBar
+D0329593`三分钟理解“工厂模式”——设计模式轻松掌握
+D0290997`Activity的Launch mode详解
+D0566943`Android之监听手机软键盘弹起与关闭
+D0450804`android 4.0以上WebView不能全屏播放视频的解决办法
+D0431774`ListView的使用方法
+D0050882`六大设计原则--接口隔离原则【 Interface Segregation Principle】
+D0269073`IOS四种保存文件的方式
+D0661207`对Android自定义控件中的onMeasure方法的理解
+D0549149`Android UI - 实现广告Banner轮播效果
+D0832430`Error:Execution failed for task ':app:compileDebugAidl'. > aidl is missing（Android Studio编译错误）
+D0785608`Android获取手机方向
+D0172146`Android OkHttp完全解析 是时候来了解OkHttp了
+D0431774`ListView的使用方法
+D0008106`Android屏幕适配全攻略(最权威的官方适配指导)
+D0785608`Android获取手机方向

@@ -1,0 +1,14 @@
+D0684553`Error:Execution failed for task ':app:dexDebug'. > com.android.ide.common.process.ProcessException
+D0752483`解决aapt \
+D0165209`Android基础入门教程——9.1 使用SoundPool播放音效(Duang~)
+D0151988`Android基础入门教程——2.5.2 Notification(状态栏通知)详解
+D0157352`Material Design设计规范
+D0820474`Android Studio编译大工程报错：java.exe'' finished with non-zero exit value 1
+D0720275`Android实战技巧之十二：Android Studio导入第三方类库、jar包和so库
+D0361132`Android Studio开发第2篇版本管理Git
+D0691094`mipmap 和 drawable 的区别
+D0858508`安装OS X虚拟机错误vcpu-0:VERIFY vmcore/vmm/main/physMem_monitor.c:1123
+D0166255`Google推荐的图片加载库Glide介绍
+D0175359`Android 高清加载巨图方案 拒绝压缩图片
+D0685662`黑马ios2期视频，传智播客ios,黑马android最新，云计算最新视频教程
+D0081288`【凯子哥带你做高仿】“煎蛋”Android版的高仿及优化（一）——逆向工程及TcpDump抓包入门

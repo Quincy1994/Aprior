@@ -1,0 +1,9 @@
+D0882256`Linux改为单臂路由器
+D0804313`使用buildroot编译和使用开发板上的gcc[native gcc]
+D0874855`用ser2net和 kmod-usb-serial改造mt7620a成为串口服务器
+D0795674`linux将虚拟地址转物理地址的过程探索[页表]
+D0828795`Linux I2C 对16位寄存器地址 进行读写操作
+D0773824`利用第三方服务器做双内网透传实验
+D0924650`Android:mtp驱动和usb驱动交互的过程
+D0804313`使用buildroot编译和使用开发板上的gcc[native gcc]
+D0773824`利用第三方服务器做双内网透传实验

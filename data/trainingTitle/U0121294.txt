@@ -1,0 +1,34 @@
+D0896103`lucene系列-facet搜索
+D0387183`Lucene系列-index弹性扩展
+D0673695`Lucene系列-Fieldcache
+D0590005`Lucene系列-DocValues
+D0167635`WebCollector java爬虫使用笔记
+D0688386`高仿QQ源码下载 （android前端+JAVA后台+spark<windows版聊天>）方便集成到自己系统
+D0334222`用WebCollector 2.x爬取新浪微博（无需手动获取cookie)
+D0417738`Android开发—引入开源项目(gradle)
+D0590005`Lucene系列-DocValues
+D0722814`Flarum 安装
+D0828490`mysql安装一 rpm包安装
+D0286468`linear-regression预测算法C++实现
+D0006087`Kafka深度解析
+D0176932`GBDT理解二三事
+D0463489`Lucene系列-近实时搜索(1)
+D0848830`ionic项目之ngcordova插件之camera
+D0140539`【学习排序】 Learning to Rank 中Listwise关于ListNet算法讲解及实现
+D0601579`我的shiro之旅`十四 shiro 自动登录
+D0473572`spring session入门
+D0673695`Lucene系列-Fieldcache
+D0102391`Better ELK, 新浪实时日志分析服务进化
+D0676588`ionic的侧滑和下拉刷新效果
+D0734286`Lucene系列-facet
+D0333145`AngularJS最佳实践`请小心使用 ng-repeat 中的 $index
+D0872423`Android-PullToRefresh下拉刷新库基本用法
+D0750372`第一个Ionic项目
+D0896103`lucene系列-facet搜索
+D0387183`Lucene系列-index弹性扩展
+D0102586`【学习排序】 Learning to Rank中Pointwise关于PRank算法源码实现
+D0025895`神经网络和机器学习基础入门分享
+D0194149`Android M新控件之FloatingActionButton，TextInputLayout，Snackbar，TabLayout的使用
+D0470499`ionic框架对Android返回键的处理
+D0055294`知识图谱相关会议之观后感分享与学习总结
+D0387183`Lucene系列-index弹性扩展

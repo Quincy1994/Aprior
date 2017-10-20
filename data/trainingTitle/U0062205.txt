@@ -1,0 +1,14 @@
+D0655211`百度之星 2015 初赛(1) 1003 序列变换
+D0861827`LeetCode (20) house robber （数组不相邻元素最大值）
+D0209899`2015年百度之星程序设计大赛 - 初赛(1) 【题解】
+D0884789`Windows下安装pip管理scikit-learn
+D0906495`leetCode198-House Robber
+D0837810`【百度之星初赛2】序列变换（最长上升子序列）
+D0785044`使用Httpclient实现SSL双向认证
+D0535881`开源机器学习工具scikit-learn入门
+D0773810`安装python包, 还是用pip最好, easy_install该退休了
+D0734324`【LeetCode】Course Schedule 解题报告
+D0856425`百度之星 2015 初赛(2) 1005 序列变换
+D0270870`sklearn学习(1)  数据集
+D0163495`网络爬虫框架scrapy介绍及应用——抓取新浪新闻的标题内容评论
+D0899841`leetcode Minimum Height Trees

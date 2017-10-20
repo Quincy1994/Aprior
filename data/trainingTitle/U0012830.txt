@@ -1,0 +1,31 @@
+D0109961`Android组件——使用DrawerLayout仿网易新闻v4.4侧滑菜单
+D0684553`Error:Execution failed for task ':app:dexDebug'. > com.android.ide.common.process.ProcessException
+D0255993`Android 沉浸式状态栏攻略 让你的状态栏变色吧
+D0667205`Subversion代码提交中的org.apache.subversion.javahl.ClientException`svn`E200007`Commit failed异常解决
+D0415775`Android在mac osx下混淆打包和反编译
+D0488768`Android图片上传（头像裁切+原图原样）
+D0756473`android studio 代码混淆如何忽略第三方jar包
+D0649185`Android使用Gradle进行打包混淆，包括依赖Library
+D0765220`mac 安装Navicat Premium 注册机
+D0248204`Android 打造形形色色的进度条  实现可以如此简单
+D0091257`Android 屏幕适配方案
+D0568772`【java】微信支付生成签名的过程
+D0436338`Android之zxing二维码生成与识别
+D0376953`新东西003--android Gridview控制显示高度
+D0470489`真正的中国天气api接口xml，json（求加精） ...
+D0392180`MAC上反编译android apk---apktool, dex2jar, jd-jui安装使用(含手动签名)
+D0353678`Android Studio 快捷键 for Mac OS X
+D0713482`Android之QQ授权登录获取用户信息
+D0620199`开源Android-PullToRefresh下拉刷新源码分析
+D0121859`Android用户首次打开APP的使用教学蒙板效果实现
+D0895890`android:hint属性对TextView的影响
+D0283321`开源项目源码解析-Android Lock Pattern 源码解析
+D0911412`Implicit intents with startService are not safe错误的解决方式
+D0429313`Android记录20-获取缓存大小和清除缓存功能
+D0858566`Android各种屏幕的分布率以及自适应各种屏幕的开发研究
+D0868299`Android 禁止输入emoji表情符号
+D0611264`将Eclipse项目迁移到Android Studio中
+D0752869`android 实现代码混淆
+D0411406`Android控件GridView之仿支付宝钱包首页带有分割线的GridView九宫格的完美实现
+D0699939`Android：自定义PopupMenu的样式（显示图标/设置RadioButton图标）
+D0855404`［Android Studio 权威教程］Windows下安装Android Studio

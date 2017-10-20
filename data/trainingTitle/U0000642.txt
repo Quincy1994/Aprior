@@ -1,0 +1,19 @@
+D0309282`黑马程序员--Java基础Day02
+D0091405`毕向东25天学习目录
+D0368061`AndroidManifest.xml——文件详解（二）
+D0253630`Oracle 数据库导出数据泵（EXPDP）文件存放的位置
+D0896009`用 Visual Studio 2013 编译 libevent-2.0.22-stable
+D0190872`AndroidManifest.xml——文件详解（三）
+D0855076`面向对象(内部类访问规则)
+D0398275`黑马程序员——Java概述
+D0045174`J哥---------北京Android各招聘公司面试实战总结2
+D0279482`黑马程序员--Java基础Day01
+D0429347`Xamarin介绍和Windows环境搭建
+D0405294`安卓开发前期所有准备
+D0107411`物联网管理软件的设计
+D0374152`【安卓开发】Android系统中Parcelable和Serializable的区别
+D0753222`[android] 瀑布流布局——分页加载（详细代码）
+D0033877`彻底搞懂字符编码(unicode,mbcs,utf-8,utf-16,utf-32,big endian,little endian...)
+D0598601`window 搭建android cocos2dx开发环境
+D0215915`AndroidManifest.xml——activity（五）
+D0173247`2015推荐的Android框架

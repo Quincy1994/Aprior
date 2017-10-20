@@ -1,0 +1,22 @@
+D0435558`Python两个内置函数——locals 和globals (学习笔记)
+D0445052`用Wireshark从http数据包中得到用户的登录信息
+D0883537`Python中map()函数
+D0344491`大数运算
+D0018879`软件测试，想说爱你不容易
+D0888830`Python 获得命令行参数的方法
+D0819251`Python的with...as的用法
+D0177211`核函数（Kernels）
+D0387761`1、在Java中调用matlab函数 2、Java调用Matlab_Jar时报错Failed to find the library mclmcrrt7_17.dll
+D0200923`一般PNG图片压缩的Java实现
+D0711051`python2.7下的windows安装virtualenv和flask
+D0331109`【剑指offer】整数中1出现的次数
+D0539258`python的sys.stdout重定向
+D0867225`给定一个数组a[N]，我们希望构造数组b[N]。。（2013腾讯实习生笔试题）
+D0435558`Python两个内置函数——locals 和globals (学习笔记)
+D0819251`Python的with...as的用法
+D0883537`Python中map()函数
+D0169473`python 单下划线/双下划线使用总结
+D0888830`Python 获得命令行参数的方法
+D0200923`一般PNG图片压缩的Java实现
+D0711051`python2.7下的windows安装virtualenv和flask
+D0539258`python的sys.stdout重定向

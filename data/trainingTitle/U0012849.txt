@@ -1,0 +1,11 @@
+D0237879`Android Studio 设置内存大小及原理
+D0583354`新版ADT创建项目时出现appcompat_v7\\bin(missing),ppcompat_v7/gen(missing)的问题
+D0625044`Android 分享功能实现与 QQ 纯文本分享
+D0184610`Github开源Android资源整理（九）公共库，高版本向低版本兼容，多媒体相关，事件总线(订阅者模式)，传感器
+D0910916`Android问题集锦之二十八：You need to use a Theme.AppCompat theme (or descendant) with this activity.
+D0637356`【Android自定义控件】仿IOS风格的搜索框
+D0086070`Android RecyclerView 使用完全解析 体验艺术般的控件
+D0255398`从AndroidStudio的启动参数了解到的下JVM的一些东西（内存使用，JIT等）
+D0684553`Error:Execution failed for task ':app:dexDebug'. > com.android.ide.common.process.ProcessException
+D0573523`Android4.4 Launcher3的IconCache分析
+D0429313`Android记录20-获取缓存大小和清除缓存功能

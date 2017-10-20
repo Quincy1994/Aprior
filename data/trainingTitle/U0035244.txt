@@ -1,0 +1,326 @@
+D0130998`Android学习之 WebView使用小结
+D0061819`转载： Hibernate中SessionFactory配置
+D0112204`java保留两位小数
+D0354156`Android  SharedPreferences Api
+D0679515`基于struts 的FormFile实现文件的上传功能
+D0469340`Android拷贝工程不覆盖原工程的配置方法
+D0856857`android  java.lang.NoClassDefFoundError:xx.xx.xx
+D0791164`Android Theme的设置
+D0563990`android Menu详解 onCreateOptionsMenu()
+D0225620`android 动态背景的实现以及SurfaceView中添加EditText控件
+D0240923`Android 依据变量来获得资源R中的id值
+D0342678`android二级listview列表
+D0094280`android 仿QQ界面
+D0288234`Android Handler ExecutorService(线程池)  缓存模式
+D0082433`Android  布局优化
+D0030049`Android界面开发
+D0139565`Android 基于google Zxing实现二维码、条形码扫描，仿微信二维码扫描效果
+D0270838`SpannableStringBuilder  SpannableString
+D0199462`Android推送 百度云推送 入门篇
+D0709848`android 消息提示框点击“确定”按钮后，不能及时关闭提示框的解决方案
+D0152953`Android SparseArray ArrayMap
+D0005824`Java 设计模式
+D0841724`android bundle存放数据详解
+D0555863`Android之ViewGroup实现可拖动的GridView
+D0568711`android Listview，gridview局部刷新，部分刷新
+D0262162`Android Sutdio NDK教程（一）
+D0879544`intent 启动模式(FLAG_ACTIVITY_CLEAR_TOP和FLAG_ACTIVITY_REORDER_TO_FRONT）
+D0168415`Android将程序崩溃信息保存本地文件
+D0642924`使用GridView实现九宫格的菜单
+D0651276`关于ExpandableListView用法的一个简单小例子
+D0857903`Android 自定义软键盘
+D0166391`Android 实现ListView的A-Z字母排序和过滤搜索功能，实现汉字转成拼音
+D0666670`Android 向下弹出式对话框
+D0367467`Android项目Tab类型主界面大总结 Fragment+TabPageIndicator+ViewPager
+D0103019`Android 之UI自适应解决方案
+D0074925`android wheelView
+D0371327`Android - 百度地图打包之后出现的问题
+D0256755`android 框架
+D0021787`Android 进程间通信
+D0605476`android实现向右滑动返回功能
+D0256861`Android设计中的.9.png
+D0315959`Android JNI NDK
+D0350751`Android 解决BitmapFactory.decodeFile(file) 报OOM问题
+D0354490`Android 摄像头
+D0672630`android handle实现倒计时
+D0722101`edittext 被软键盘挡住
+D0485465`android 自定义progressDialog实现
+D0345413`android Rect的使用
+D0412290`android之ScrollView里嵌套ListView
+D0695006`android-【DDMS->heap->MAT】工具-内存分析工具
+D0741702`js实现两个列表框交换数据
+D0090052`加密算法 java实现
+D0339704`android 倒计时控件
+D0663944`android ViewFlipper
+D0597635`Android之EditText特殊小技巧
+D0508203`关于异常“The specified child already has a parent. You must call removeView\
+D0247156`Android:WebService
+D0410935`Android之消息推送聊天实现
+D0595708`android 如何设置图片颜色的透明度
+D0735720`android使用webview加载网页
+D0482492`Android Application使用
+D0725282`android PopupWindow实现从底部弹出或滑出选择菜单或窗口
+D0906840`android Toast大全（五种情形）建立属于你自己的Toast
+D0072780`js事件大全
+D0230073`Android之Handler用法总结
+D0188384`Android开发规范
+D0444342`Android Studio使用新的Gradle构建工具配置NDK环境
+D0477888`Junit 单元测试
+D0470709`html5调用手机摄像头，实现拍照上传功能
+D0050374`Android实现推送方式解决方案
+D0352332`消息推送系统——（一）概念与原理
+D0431418`JsonUtil
+D0758009`超炫button按钮动画效果
+D0438062`java文件编译后，同一个文件出现\
+D0750306`gen already exists but is not a source folder. Convert to a source folder or rename it.
+D0876314`Android Chronometer(定时器)
+D0295633`android fragment activity详解
+D0736823`快速生成findviewbyid
+D0106536`五步搞定Android开发环境部署——非常详细的Android开发环境搭建教程
+D0675012`关于Android圆形图片的一种优化方案
+D0067090`android 开发规范
+D0191199`Android 屏幕适配
+D0752621`Android (shape,gradient)详解
+D0861901`ExpandableListView小图标替换
+D0892867`ZXing解析二维码
+D0208975`常用的正则表达式大全
+D0130574`oracle 数据库创建 删除
+D0391569`android 中一个工程引用另一个工程
+D0260327`工具整理
+D0237249`socket
+D0561071`Android之编译打包apk时几个常用的技巧
+D0717792`Android 工程图片资源命名禁忌
+D0296736`在Eclipse或者ADT中使用ButterKnifeZelezny,Android组件初始化从此变得简单易懂！！！！，androideclipseadt 一、起因 想必使用And
+D0340269`android定位和地图开发实例
+D0551703`Android 三种播放视频的方式
+D0116082`飞机大战
+D0229708`Android  横竖屏处理
+D0580553`Android onLayout、layout区别
+D0087086`ListView UI 混乱问题
+D0545281`Android 利用addView 动态给Activity添加View组件
+D0141575`android draw9patch介绍和使用说明
+D0326037`Android：Layout_weight的深刻理解
+D0113895`Android屏幕适配
+D0215405`Android中处理崩溃异常
+D0206706`正确理解ThreadLoal
+D0382478`android 动态创建控件并设置布局
+D0400436`Mac Adobe CS6 完美破解激活（免替换文件/可更新）详细图文教程
+D0923866`拖拽tr 改变tr顺序
+D0550147`Android禁止ViewPager的左右滑动
+D0537699`iOS开发之XCode快捷键
+D0177420`WebView使用详解
+D0665226`github badgeView
+D0480758`Android线程的创建与销毁
+D0110843`android 动画
+D0741607`CSS鼠标样式
+D0109761`Android Studio 导入项目的几种方法
+D0199251`java 抽象类和接口
+D0744060`android icon 大小设计原则
+D0428072`android获取string.xml的值
+D0106751`Android消息推送
+D0195688`android intent
+D0240558`页面的缓存与不缓存设置
+D0608467`android 自定义edittext
+D0386469`Hibernate工作原理
+D0326207`service使用以及startService,stopService,bindService,unbindService方法比较
+D0132145`JAVA字符串格式化-String.format()的使用
+D0062159`SQLite的使用
+D0045384`Java Socket编程
+D0607420`Android Environment.getExternalStorageState使用
+D0087213`Android 内存优化
+D0670120`修改Eclipse为黑色主题
+D0626739`Java实现二维码QRCode的编码和解码
+D0606758`ScrollView内嵌套EditText导致EditText无法滑动
+D0478802`Java中匿名类的两种实现方式
+D0029898`android dialog使用详情
+D0239991`hibernate 使用延迟加载产生的问题以及对应的解决方法
+D0233451`java 反射
+D0159532`五笔
+D0177557`查看LogCat日志
+D0174308`19 个 Android 开发工具
+D0859679`使用http协议获取网络图片
+D0382315`使用HMAILSERVER搭建邮件服务器
+D0716046`Android ListViewitem滑动出现删除按钮
+D0718485`Android平台利用ZXING生成二维码图片
+D0596772`android中listview分页加载数据
+D0178107`Android 高仿微信实时聊天 基于百度云推送
+D0840801`android抽屉实现
+D0686611`android shape
+D0013763`Android数据库ORMlite框架详解
+D0142017`Android TextView属性详解
+D0765958`android gridview listview控件内容刷新 而不是整个页面刷新
+D0436657`在android布局中使用include和merge标签
+D0133051`Android布局优化
+D0917843`Android ListView拖动时背景变黑的问题
+D0096147`为什么调用 FragmentPagerAdapter.notifyDataSetChanged() 并不能更新其 Fragment？
+D0633483`Android之TextView实现文字过长时省略部分或者滚动显示
+D0868509`java中List对象转换为JSON对象
+D0023578`Android面试题精选，自己收藏下
+D0398325`Viewpager之notifyDataSetChanged无刷新
+D0353369`android:TableLayout表格布局详解
+D0207642`Android之指南针学习
+D0069368`移动应用界面设计的尺寸设置及规范
+D0648497`android layout_gravity失效的问题
+D0512823`Android 自定义日历控件
+D0795315`Android程序的MVC模型
+D0700854`view not attached to windows manager与This Toast was not created with Toast.makeText()
+D0786611`Android TextView内容过长加省略号
+D0883269`android MotionEvent中getX()和getRawX()的区别
+D0561687`Android setImageResource、setImageBitmap、setImageDrawable区别
+D0006658`GitHub 优秀的 Android 开源项目
+D0158499`log4j.properties详解与例子
+D0222968`Android ListView CheckBox状态错乱解析
+D0624855`android-整体UI设计-（滑动导航栏+滚动页面）
+D0501209`viewpager + fragmentpageradapter 切换fragment产生的问题
+D0717505`Webview--如何让加载进来的页面自适应手机屏幕分辨率居中
+D0089242`android Application类的详细介绍
+D0106709`枚举类
+D0619747`Android UI开发篇之 ViewPager+九宫格布局 实现左右滑动
+D0310954`Android maxEms和maxLength
+D0608764`Oracle中sequence的使用方法
+D0736117`Android AsyncTask完全解析
+D0102936`内存溢出和内存泄露的区别
+D0252631`Android 自定义控件打造史上最简单的侧滑菜单
+D0516109`使用自定义的BaseAdapter实现 onitemclickListener
+D0144583`Android ViewPager使用
+D0678222`Android动态改变GridView的值【安卓进化二十二】
+D0139705`Android系统原理与源码分析（1）：利用Java反射技术阻止通过按钮关闭对话框
+D0299859`android 布局
+D0851253`eclipse 调整代码提示速度
+D0220772`Android Layout_weight属性完全解析以及使用ListView来实现表格
+D0093173`JSP Cookie详解
+D0438184`android heap 检测内存
+D0382215`Android  Activity的销毁和重建
+D0444199`android 开发之蜂鸣提示音和震动提示的实现原理与参考代码
+D0374213`Java基本类型变量与引用类型变量
+D0215245`Android Studio  Gradle基础
+D0218380`java web 防止表单重复提交解决方案
+D0366576`html 定位
+D0089195`Java List Set Map 总结
+D0082519`Android中的布局优化方法
+D0867337`Android中notifyDataSetInvalidated()和notifyDataSetChanged()有什么区别
+D0599756`android项目包名修改
+D0672432`Android中selector背景选择器
+D0288493`使用ViewPager实现左右滑动效果
+D0271232`android 新交互方式
+D0681500`Eclipse下配置主题颜色
+D0925642`Android反编译工具Apktool使用
+D0341894`Android 对程序异常崩溃的捕捉
+D0008260`Android屏幕适配全攻略
+D0909280`android badgeview
+D0588863`android语音识别技术
+D0152281`Android Studio 快捷键大全
+D0677993`android Scaletype
+D0375616`解决 input密码框自动填充
+D0052379`hibernate 延迟加载
+D0072101`Android中SQLite应用详解
+D0792457`Eclipse ctrl+shift+r
+D0817610`Android  proguard with ormlite
+D0117086`学习电子书收藏
+D0506175`java 集合小结
+D0072454`Android事件分发机制完全解析，带你从源码的角度彻底理解(上)
+D0929271`android 自定义属性
+D0481677`ListView滑动删除 ，仿腾讯QQ
+D0035541`UML详解
+D0059559`java 过滤器 监听器 详解
+D0327821`Android开发之SoundPool使用详解
+D0129428`强引用 弱引用 软引用区分
+D0460340`Android简单定位实例
+D0018752`Android四大基本组件详解
+D0615475`android 制作倒计时遇到的问题小结
+D0582090`基于HttpClient的HttpUtils(后台访问URL)
+D0207511`android users-permission
+D0370209`使用SQLite本地数据库
+D0865316`Android的Fragment中onActivityResult不被调用的解决方案(绝对管用)
+D0146939`hibernate session.flush()的使用
+D0499696`android minSdkVersion和targetSdkVersion含义
+D0123309`HttpServletRequest对象
+D0851708`ImageView src Background 的区别
+D0247844`Windows下搭建IOS开发环境(二）
+D0676319`android spinner用法
+D0043816`Sqlite 索引的使用、索引的优缺点
+D0608393`Android下的实现对本地指定和筛选文件的目录显示
+D0597058`Android笔记：invalidate()和postInvalidate() 的区别及使用
+D0334456`android sdk 代理
+D0198773`百度定位SDK使用V4.0
+D0288396`android定位的实现
+D0853804`Android界面之间的跳转和返回
+D0114839`android Hierarchy Viewer
+D0742895`Android中通过GPS或NetWork获取当前位置的经纬度
+D0690977`Android点击EditText文本框之外任何地方隐藏键盘的解决办法
+D0202023`Android 通过WebService进行网络编程，使用工具类轻松实现
+D0425595`android shape渐变详解
+D0704818`android error
+D0423171`Android 文字自动滚动（跑马灯）效果的两种实现方法
+D0028052`Struts1.1应用初步
+D0747611`Android studio中正确引入so文件的方法
+D0130998`Android学习之 WebView使用小结
+D0444342`Android Studio使用新的Gradle构建工具配置NDK环境
+D0921635`AndroidStudio-Parcelable自动生成代码插件安装和使用
+D0117086`学习电子书收藏
+D0639914`强烈推荐android studio用的几个插件
+D0717792`Android 工程图片资源命名禁忌
+D0139419`Android 打造编译时注解解析框架   这只是一个开始
+D0240923`Android 依据变量来获得资源R中的id值
+D0672432`Android中selector背景选择器
+D0874140`技术牛人的Blog和一些知名的技术网站
+D0414741`mac下安装android studio 遇到问题及解决方案
+D0736823`快速生成findviewbyid
+D0675012`关于Android圆形图片的一种优化方案
+D0067090`android 开发规范
+D0327821`Android开发之SoundPool使用详解
+D0772010`android自定义动态滚动tab+viewpager+fragment
+D0178107`Android 高仿微信实时聊天 基于百度云推送
+D0677993`android Scaletype
+D0260327`工具整理
+D0561071`Android之编译打包apk时几个常用的技巧
+D0013763`Android数据库ORMlite框架详解
+D0116082`飞机大战
+D0296736`在Eclipse或者ADT中使用ButterKnifeZelezny,Android组件初始化从此变得简单易懂！！！！，androideclipseadt 一、起因 想必使用And
+D0635308`Android studio导入eclipse项目且不改变目录结构
+D0841724`android bundle存放数据详解
+D0792457`Eclipse ctrl+shift+r
+D0555863`Android之ViewGroup实现可拖动的GridView
+D0929271`android 自定义属性
+D0174308`19 个 Android 开发工具
+D0105974`我的2014年总结 - 一些失败的面试经历
+D0312869`在Eclipse或者ADT中使用ButterKnifeZelezny,Android组件初始化从此变得简单易懂！！！！
+D0251954`开源中国源码学习（六）——ButterKnife的使用
+D0545281`Android 利用addView 动态给Activity添加View组件
+D0347796`Spring MVC 4.1.3 + MyBatis 零基础搭建Web开发框架(注解模式哦)
+D0666670`Android 向下弹出式对话框
+D0074925`android wheelView
+D0113896`Android 打造炫目的圆形菜单  秒秒钟高仿建行圆形菜单
+D0215405`Android中处理崩溃异常
+D0605476`android实现向右滑动返回功能
+D0748525`facebook的Android调试工具Stetho介绍
+D0059559`java 过滤器 监听器 详解
+D0256861`Android设计中的.9.png
+D0315959`Android JNI NDK
+D0730035`CI源码分析(三)—DB事务
+D0354490`Android 摄像头
+D0872423`Android-PullToRefresh下拉刷新库基本用法
+D0158499`log4j.properties详解与例子
+D0537699`iOS开发之XCode快捷键
+D0177420`WebView使用详解
+D0717505`Webview--如何让加载进来的页面自适应手机屏幕分辨率居中
+D0695006`android-【DDMS->heap->MAT】工具-内存分析工具
+D0510182`Android 快速实现 ViewPager 滑动页卡切换（可用作整个 app上导航）
+D0742210`facebook的Android调试工具Stetho介绍
+D0199251`java 抽象类和接口
+D0159933`五笔打字:速成手册---半小时学会五笔打字
+D0736117`Android AsyncTask完全解析
+D0301299`打造你的开发神器——介绍Android Studio上的几个插件
+D0269054`Android studio 导入github工程
+D0268572`Android studio 导入github工程
+D0608467`android 自定义edittext
+D0735720`android使用webview加载网页
+D0425595`android shape渐变详解
+D0139705`Android系统原理与源码分析（1）：利用Java反射技术阻止通过按钮关闭对话框
+D0423171`Android 文字自动滚动（跑马灯）效果的两种实现方法
+D0129683`教你写Android网络框架之Request、Response类与请求队列
+D0753649`TabLayout：另一种Tab的实现方式
+D0437103`Android入门实战AS重制版
+D0841545`个人创业了，做了个网站和App，www.91tianwu.com
+D0121668`Android SurfaceView实战 带你玩转flabby bird （下）
+D0423952`Activity简单几步支持向右滑动返回

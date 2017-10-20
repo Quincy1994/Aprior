@@ -1,0 +1,13 @@
+D0792469`java 静态类
+D0426442`hadoop2.6.0版本搭建伪分布式环境
+D0241859`为什么volatile不能保证原子性而Atomic可以
+D0286412`Python标准库：内置函数open(file, mode='r', buffering=-1, encoding=None, errors=None, newline=None, closefd=T
+D0791897`pycharm git merge实战
+D0647250`ubuntu的recovery mode
+D0881330`[Hadoop]Hadoop2.6.0的eclipse插件编译
+D0611552`hadoop2.6.0的eclipse插件编译和设置
+D0243194`IntelliJ Idea+GitHub设置同步工程
+D0903328`Eclipse maven 导入父模块和子模块
+D0407569`Ubuntu14.04下hadoop-2.6.0单机配置和伪分布式配置
+D0863443`hive 启动问题记录 及解决方法
+D0448923`hadoop学习(六)--------eclipse远程调试

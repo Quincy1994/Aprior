@@ -1,0 +1,11 @@
+D0326440`IOS开发  IOS9.0上遇到的一些新问题
+D0534187`IOS-按钮 设置背景图片 被切割 了 问题
+D0453382`IOS挂起程序，当程序到后台，继续完成主线程相应的存档操作
+D0872693`IOS 后台挂起，向IOS申请后台无限时间
+D0453382`IOS挂起程序，当程序到后台，继续完成主线程相应的存档操作
+D0872693`IOS 后台挂起，向IOS申请后台无限时间
+D0712042`AVAudioSessionPortOverrideSpeaker 和 AVAudioSessionCategoryOptionDefaultToSpeaker区别
+D0326440`IOS开发  IOS9.0上遇到的一些新问题
+D0534187`IOS-按钮 设置背景图片 被切割 了 问题
+D0299043`Xcode调试技巧
+D0895768`使用真机调试时的问题。

@@ -1,0 +1,17 @@
+D0760970`hadoop集群搭建——轻松版
+D0243411`Hadoop运行包含第三方依赖库的MapReduce作业
+D0013554`师兄教你和面试官扯淡
+D0013568`探索推荐引擎内部的秘密，第 3 部分`深入推荐引擎相关算法 - 聚类
+D0607352`[程序员面试题精选100题]58.八皇后问题
+D0098631`Hbase属性说明及与关系型数据库区别
+D0167423`18大经典数据挖掘算法小结
+D0288953`Linux操作系统下/etc/hosts文件详解
+D0404756`在hadoop2.0上使用mahout1.0(-SNAPSHOT)提供的lda
+D0157624`Mahout案例实战--Dating Recommender 系统
+D0111330`2015阿里数据分析师校招面试经历
+D0800659`Spark java.lang.NoClassDefFoundError`com/google/common/util/concurrent/ThreadFactoryBuilder
+D0230147`阿里暑期实习生面试经验-数据分析岗位
+D0760970`hadoop集群搭建——轻松版
+D0154479`Hive数据倾斜
+D0154479`Hive数据倾斜
+D0163828`Hadoop大数据平台运维工程师须掌握的基本命令集分享

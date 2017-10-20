@@ -1,0 +1,8 @@
+D0057708`当你在浏览器地址栏输入一个URL后回车，将会发生的事情？
+D0001686`转载（添加自己的理解）：  支持向量机通俗导论（理解SVM的三层境界）
+D0462017`利用Python PIL、cPickle读取和保存图像数据库
+D0892573`Ubuntu14.04  64 位系统 安装 Cuda 6.5
+D0343717`DeepLearning tutorial（1）Softmax回归原理简介+代码详解
+D0344662`深度学习工具caffe详细安装指南
+D0657459`QtSoap开发web services客户端程序
+D0058964`DeepLearning tutorial（5）CNN卷积神经网络应用于人脸识别（详细流程+代码实现）

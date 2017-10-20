@@ -1,0 +1,33 @@
+D0351999`IPtables中SNAT和MASQUERADE的区别
+D0088821`Retrofit是一个不错的网络请求库
+D0098211`图片加载和处理的又一个神器 Fresco 的使用摘要记录
+D0584771`转：自动挂断电话
+D0393091`151228 侧滑菜单：Drawerlayout和ActionBar 一起使用的，侧滑菜单：SlidingPaneLayout，NavigationView，TabLayout
+D0244047`Picasso picasso-强大的Android图片下载缓存库
+D0086598`android 中的事件分发和事件拦截
+D0156287`linux iptabls 命令
+D0723370`Android单张图片查看、单指移动、双指缩放、双击最大化或最小化
+D0421108`ListView的复用->购物车,listView的布局复用->聊天窗口
+D0461798`使用阿里云 搭建Ubantu VPN服务器 ----千雅爸爸
+D0008148`转 Android屏幕适配全攻略(最权威的官方适配指导)
+D0030461`仅仅是个人记录：Android 的机型适配： 屏幕适配(包括dpi,dp,sp的概念) 版本适配 硬件适配。 以及如何和美工配合
+D0422737`pptpd vpn的配置
+D0851602`aliyun ECS Ubuntu 14.04 VNC图形桌面配置方法
+D0481549`Windows7内置搜索，同时搜索文件名以及文件里面的内容
+D0901755`view,viewGroup 的onTouchEvent返回值的作用
+D0328768`Git服务器的搭建， 以及Android studio 上克隆git 服务器上的项目
+D0619358`转:Android 发送短信的方法
+D0585145`支持VPN的路由器，小米路由器PPTP的设置，
+D0523258`OkHttpClient
+D0792465`Android Thread第二次Thread.start()报错的疑问
+D0864202`windows xp vpn 设置 和windows 7vpn 设置
+D0328768`Git服务器的搭建， 以及Android studio 上克隆git 服务器上的项目
+D0422737`pptpd vpn的配置
+D0461798`使用阿里云 搭建Ubantu VPN服务器 ----千雅爸爸
+D0570624`使用ViewPager和Photoview实现图片左右滑动和放大缩小
+D0747119`操蛋的百度地图SDK onReceiveLocation收不到回调
+D0086598`android 中的事件分发和事件拦截
+D0523258`OkHttpClient
+D0156287`linux iptabls 命令
+D0864202`windows xp vpn 设置 和windows 7vpn 设置
+D0536546`Android 获取USB设备的类型

@@ -1,0 +1,2 @@
+D0408558`乐观锁与悲观锁 转自http://www.cnblogs.com/guyufei/archive/2011/01/10/1931632.html
+D0869197`maven 3.3.3 for windows 配置

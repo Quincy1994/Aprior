@@ -1,0 +1,5 @@
+D0416212`浅谈.Net三层开发
+D0871487`VirtualBox遇到错误：创建 COM 对象失败.  应用程序将被中断.    被召者 RC:REGDB_E_CLASSNOTREG (0x80040154)
+D0820254`Windows XP 从安装到搭建FTP
+D0416212`浅谈.Net三层开发
+D0871487`VirtualBox遇到错误：创建 COM 对象失败.  应用程序将被中断.    被召者 RC:REGDB_E_CLASSNOTREG (0x80040154)

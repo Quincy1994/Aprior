@@ -1,0 +1,377 @@
+D0425162`Java反射机制和对象序列化
+D0224414`Eclipse断点调试
+D0591823`Android之Bundle传递数据详解与实例及Bundle与SharedPreferences的区别
+D0381403`Android终止无限循环线程和程序退出时销毁线程
+D0747008`日历控件合集
+D0360931`StartUML自动生成代码
+D0293948`Android应用市场发布经验总结
+D0168092`java中构造方法和方法全面解析
+D0703803`Android内存溢出的解决方法
+D0156773`Android的线程（Thread）和服务（Service）的区别
+D0705480`ListView动态加载数据模板（使用代码布局）
+D0347461`android项目混淆打包注意事项
+D0335066`软件开发过程学习笔记（六）之测试报告模板
+D0060398`Android常见异常解决方法
+D0162307`4种必须知道的Android屏幕自适应解决方案
+D0342865`Android UI框架基本概念
+D0368769`Android 编程下 Touch 事件的分发和响应机制
+D0810685`Android更改 PreferenceFragment 的背景颜色
+D0302563`使用AlarmManager启动广播、服务、页面（Android定时器）
+D0603421`Android Studio使用简介
+D0652701`【Android】保存Fragment切换状态
+D0148739`IoC(Inversion of Control,控制反转)模式
+D0393643`Java RTTI与反射（参照Java编程思想与新浪博客）
+D0829585`Android 开发中的日常积累
+D0863130`动画类型
+D0256298`实现顶部轮播，下部listview经典布局的两种方式
+D0801627`安卓Android控件ListView获取item中EditText值
+D0912400`Android通过播放多张图片形成一个动画
+D0824074`如何将win7系统的电脑屏幕改成护眼的豆沙绿
+D0109103`Android之ListView原理学习与优化总结
+D0238646`Android屏幕适配
+D0162312`浅谈手机app测试注意点
+D0142431`Java关键字final、static使用总结
+D0520924`在线HTTP POST/GET接口测试工具 - aTool在线工具
+D0656060`Android开发面试题（二）
+D0024909`“赢在中国·蓝天碧水间”暴露的11位企业家的出身与人性
+D0315005`Java基本类型和引用类型
+D0259890`介绍几款网页数据抓取软件
+D0260529`Java关键字this、super使用总结
+D0232726`JAVA Swt初识
+D0675090`Activity与Fragment数据传递之Fragment之间获取数据
+D0420084`Android沉浸模式，沉浸式顶栏，变色龙状态栏
+D0063701`Android消息处理机制Thread、Handler、Looper
+D0207812`六款值得推荐的android（安卓）开源框架简介
+D0477885`Android获取手机相关信息
+D0439991`Android 热更新实现原理及代码分析
+D0352536`android AsyncTask介绍
+D0641591`Android WebView缓存
+D0725196`Java中的break和continue关键字使用总结
+D0201584`Android布局的优化方案汇总
+D0321362`android fragment和activity的区别
+D0670562`快速搭建Android开发平台笔记
+D0572274`Android Message和obtainMessage的区别
+D0148088`简单工厂模式
+D0198035`View中的draw和onDraw,dispatchDraw的区别
+D0494828`Activity与Fragment数据传递之Fragment从Activity获取数据
+D0183837`Android开发指南-用户界面-风格和主题
+D0051426`apktool反编译详细使用教程
+D0037921`Java中try 与catch的使用
+D0328755`android各种组件的监听器
+D0267309`Android菜单（Menu）小结
+D0251871`Java String的经典问题(new String() ,String )
+D0376879`Android - 文件读写操作 总结
+D0254644`串口通信校验方式（even，odd，space，mark）
+D0146442`学习SerialPort的笔记
+D0133086`Android开发优化之——从代码角度进行优化
+D0453311`Java Foreach语句使用总结
+D0105709`Android 权限大全
+D0115122`Java中的容器讲解
+D0218051`Android应用程序结构
+D0219341`Android 中textview显示富文本信息
+D0175567`Java 接口 实现和继承关系与区别
+D0511032`JAVA中StringBuffer类常用方法详解
+D0376088`Android Afinal使用与总结
+D0900203`Android 实现分享功能的方法
+D0494800`有道词典在谷歌Chrome浏览器中无法取词的解决方法
+D0594007`Android代码资源的国际化
+D0701152`Java操作串口
+D0398418`ios app 实现热更新（无需发新版本实现app添加新功能）
+D0701157`一些Android拨号盘的基本代码
+D0605944`Android状态栏一体化(改变状态栏的背景颜色)开源工程
+D0171478`Android中的5种数据存储方式
+D0246115`软件开发过程学习笔记（五）之测试方案模板
+D0037781`Android 内存溢出问题分析
+D0367808`Android 最火的快速开发框架XUtils
+D0850442`【android动态布局】之【ListView动态加载数据模板（使用xml布局）】
+D0722574`使用无连接的数据报（UDP）进行通信
+D0306657`Android当无线鼠标，通过蓝牙与pc通信，pc端用java写
+D0331551`Android滚轮选择器实现
+D0801862`Activity与Fragment数据传递之Activity从Fragment获取数据
+D0083786`App工程结构搭建：几种常见Android代码架构分析
+D0560481`Java中final、finally和finalize的区别
+D0701948`JAVA中int、String的类型转换
+D0390321`Java串口助手(程序源码)
+D0528887`软件开发过程学习笔记（三）之概要设计说明书模板
+D0200574`Android 异步加载图片分析总结
+D0901458`Android中设置TextView的颜色setTextColor
+D0049842`Android 通知栏Notification的整合 全面学习 （一个DEMO让你完全了解它）
+D0697248`5 个免费的受欢迎的 SQLite 管理工具
+D0078195`android.app.Activity 的介绍
+D0768328`在JAVA代码中控制文本的显示行数
+D0164158`药品查询网的数据库
+D0375804`Android中的Handler机制
+D0347317`Android中保存和恢复Fragment状态的最好方法
+D0928909`JAVA中List转换String，String转换List，Map转换S
+D0503660`为STARUML写的自动生成文档脚本
+D0000131`Andorid的面试题
+D0574055`Android中实现定时器的三种方法
+D0449448`将自己的程序永久写入Android的/system/bin的方法
+D0222278`Android自定义控件
+D0143169`Android--多线程之Handler
+D0324442`Android实现自适应正方形GridView
+D0770073`通过Handler与线程嵌套TimerTask实现循环交替任务
+D0006146`Calendar(示例,出错代码)
+D0182712`android布局layout中的一些属性
+D0780371`Git与Github资料
+D0127132`实现ListView的条目下自动隐藏显示Button的方法
+D0151338`如何重构代码-思路和方法
+D0139302`网上处方药物手册Rxlist 及其药学信息资源
+D0256824`进程与线程的一个简单解释
+D0282712`获得Android设备的唯一序列号
+D0501707`android异步加载图片并缓存到本地实现方法
+D0281887`Java中的StringBuilder类功能详解
+D0049175`Android 处理内存泄露的方法
+D0780823`50款经典 iPhone 开源应用（附代码下载）
+D0662594`软件开发过程学习笔记（四）之详细设计说明书模板
+D0211331`深入Java字符串
+D0136796`ListView异步加载图片实现思路(优化篇)
+D0627648`Android应用(测试/正式)服务器端接口切换方法
+D0199357`Android中ListView异步加载图片错位、重复、闪烁问题分析及解决方案
+D0144689`彻底解决Android 应用方法数不能超过65K的问题
+D0160103`px、dip、sp区别和计算
+D0688741`Android带文字的ImageButton实现
+D0924692`Android读取XML资源
+D0262690`乱评赢在中国之蓝天碧水间系列
+D0331662`性能优化：使用SparseArray代替HashMap<Integer,Object>
+D0851861`Android自定义ProgressDialog样式
+D0815712`Java注释和注释模板
+D0422845`全面解释java中StringBuilder、StringBuffer、String类之间的关系
+D0215141`软件开发过程学习笔记（二）之软件需求模板
+D0153033`Android iphone手机分辨率尺寸比例整理
+D0837215`Android中WebView载入本地HTML代码并实现交互
+D0663856`Android之发送短信和接收验证码
+D0883505`java.sql.SQLException`Io 异常`The Network Adapter could not establish the connec
+D0097383`Java中byte与16进制字符串的互换原理
+D0166049`软件开发过程学习笔记（一）之软件开发流程
+D0242732`Activity与Fragment数据传递之Activity之间获取数据
+D0277467`java枚举类型enum的使用
+D0675748`用Java Swing编写简单的测试小工具界面（源码）
+D0428932`理解oo：继承、多态、重写、重载、接口、抽象类
+D0279366`Android下屏幕适配
+D0293952`JAVA的StringBuffer类
+D0026944`几种常见的Runtime Exception
+D0322395`Java中常用字符串方法总结
+D0143902`Android性能优化之数据库优化
+D0351797`Android 热更新——非侵入AOP框架
+D0697379`Android对话框（Dialog）小结
+D0176961`Android 关于OOM的解决方案
+D0504901`Activity的四种启动模式
+D0133148`使用Junit对Android应用进行单元测试
+D0284824`PC端 java 开发蓝牙所遇到的问题
+D0101204`Android中进程的创建和关闭
+D0206697`Android开发面试题（一）
+D0425162`Java反射机制和对象序列化
+D0162312`浅谈手机app测试注意点
+D0249944`我是如何自学Android，资料分享（2015 版）
+D0424381`Android之JSON格式数据解析
+D0747008`日历控件合集
+D0069181`Android Https相关完全解析 当OkHttp遇到Https
+D0360931`StartUML自动生成代码
+D0148088`简单工厂模式
+D0168092`java中构造方法和方法全面解析
+D0142775`Android Animation动画(很详细)
+D0151338`如何重构代码-思路和方法
+D0742103`FragmentTabHost+TabWidget+FrameLayout布局问题
+D0057995`spring @Entity @Table
+D0705480`ListView动态加载数据模板（使用代码布局）
+D0219341`Android 中textview显示富文本信息
+D0347461`android项目混淆打包注意事项
+D0335066`软件开发过程学习笔记（六）之测试报告模板
+D0060398`Android常见异常解决方法
+D0162307`4种必须知道的Android屏幕自适应解决方案
+D0342865`Android UI框架基本概念
+D0410404`公益课程：《Android智能手表DIY》
+D0271518`Android性能优化之一：ViewStub
+D0810685`Android更改 PreferenceFragment 的背景颜色
+D0652701`【Android】保存Fragment切换状态
+D0148739`IoC(Inversion of Control,控制反转)模式
+D0393643`Java RTTI与反射（参照Java编程思想与新浪博客）
+D0829585`Android 开发中的日常积累
+D0061100`java泛型详解
+D0256298`实现顶部轮播，下部listview经典布局的两种方式
+D0912400`Android通过播放多张图片形成一个动画
+D0109103`Android之ListView原理学习与优化总结
+D0254644`串口通信校验方式（even，odd，space，mark）
+D0501707`android异步加载图片并缓存到本地实现方法
+D0142431`Java关键字final、static使用总结
+D0520924`在线HTTP POST/GET接口测试工具 - aTool在线工具
+D0656060`Android开发面试题（二）
+D0281887`Java中的StringBuilder类功能详解
+D0315005`Java基本类型和引用类型
+D0824074`如何将win7系统的电脑屏幕改成护眼的豆沙绿
+D0260529`Java关键字this、super使用总结
+D0232726`JAVA Swt初识
+D0049842`Android 通知栏Notification的整合 全面学习 （一个DEMO让你完全了解它）
+D0063701`Android消息处理机制Thread、Handler、Looper
+D0207812`六款值得推荐的android（安卓）开源框架简介
+D0477885`Android获取手机相关信息
+D0641591`Android WebView缓存
+D0725196`Java中的break和continue关键字使用总结
+D0201584`Android布局的优化方案汇总
+D0321362`android fragment和activity的区别
+D0670562`快速搭建Android开发平台笔记
+D0113896`Android 打造炫目的圆形菜单  秒秒钟高仿建行圆形菜单
+D0572274`Android Message和obtainMessage的区别
+D0293948`Android应用市场发布经验总结
+D0198035`View中的draw和onDraw,dispatchDraw的区别
+D0494828`Activity与Fragment数据传递之Fragment从Activity获取数据
+D0183837`Android开发指南-用户界面-风格和主题
+D0051426`apktool反编译详细使用教程
+D0081192`Android SQLIte 介绍 及 导入db文件到app的/data目录时手机需要root
+D0037921`Java中try 与catch的使用
+D0328755`android各种组件的监听器
+D0267309`Android菜单（Menu）小结
+D0251871`Java String的经典问题(new String() ,String )
+D0268502`实战iOS应用从32位升级到64位
+D0801627`安卓Android控件ListView获取item中EditText值
+D0238646`Android屏幕适配
+D0453311`Java Foreach语句使用总结
+D0105709`Android 权限大全
+D0616446`ProcessBuilder异常CreateProcess error=2, ϵͳÕҲ»µ½ָ¶
+D0115122`Java中的容器讲解
+D0040150`解放双手——Android自动化测试
+D0511032`JAVA中StringBuffer类常用方法详解
+D0218051`Android应用程序结构
+D0091257`Android 屏幕适配方案
+D0389318`Android slidingmenu详解 优化侧滑
+D0376088`Android Afinal使用与总结
+D0175567`Java 接口 实现和继承关系与区别
+D0900203`Android 实现分享功能的方法
+D0156773`Android的线程（Thread）和服务（Service）的区别
+D0594007`Android代码资源的国际化
+D0291370`Android几种数据存储方式的应用场景
+D0133086`Android开发优化之——从代码角度进行优化
+D0701157`一些Android拨号盘的基本代码
+D0142412`谁让APP工程师产生了泡沫？
+D0605944`Android状态栏一体化(改变状态栏的背景颜色)开源工程
+D0171478`Android中的5种数据存储方式
+D0439991`Android 热更新实现原理及代码分析
+D0037781`Android 内存溢出问题分析
+D0367808`Android 最火的快速开发框架XUtils
+D0850442`【android动态布局】之【ListView动态加载数据模板（使用xml布局）】
+D0722574`使用无连接的数据报（UDP）进行通信
+D0306657`Android当无线鼠标，通过蓝牙与pc通信，pc端用java写
+D0331551`Android滚轮选择器实现
+D0801862`Activity与Fragment数据传递之Activity从Fragment获取数据
+D0083786`App工程结构搭建：几种常见Android代码架构分析
+D0284944`java 字符串缓冲池 String缓冲池
+D0560481`Java中final、finally和finalize的区别
+D0109961`Android组件——使用DrawerLayout仿网易新闻v4.4侧滑菜单
+D0701948`JAVA中int、String的类型转换
+D0390321`Java串口助手(程序源码)
+D0528887`软件开发过程学习笔记（三）之概要设计说明书模板
+D0200574`Android 异步加载图片分析总结
+D0246115`软件开发过程学习笔记（五）之测试方案模板
+D0831508`android 目前遇到的程序崩溃常见原因
+D0901458`Android中设置TextView的颜色setTextColor
+D0675090`Activity与Fragment数据传递之Fragment之间获取数据
+D0697248`5 个免费的受欢迎的 SQLite 管理工具
+D0768328`在JAVA代码中控制文本的显示行数
+D0494800`有道词典在谷歌Chrome浏览器中无法取词的解决方法
+D0347317`Android中保存和恢复Fragment状态的最好方法
+D0928909`JAVA中List转换String，String转换List，Map转换S
+D0000261`Andorid-15k+的面试题
+D0666727`Android中View转换为Bitmap及getDrawingCache=null的解决方法
+D0503660`为STARUML写的自动生成文档脚本
+D0000131`Andorid的面试题
+D0574055`Android中实现定时器的三种方法
+D0449448`将自己的程序永久写入Android的/system/bin的方法
+D0222278`Android自定义控件
+D0330098`android各种组件的监听器
+D0143169`Android--多线程之Handler
+D0324442`Android实现自适应正方形GridView
+D0770073`通过Handler与线程嵌套TimerTask实现循环交替任务
+D0006146`Calendar(示例,出错代码)
+D0182712`android布局layout中的一些属性
+D0398418`ios app 实现热更新（无需发新版本实现app添加新功能）
+D0176961`Android 关于OOM的解决方案
+D0127132`实现ListView的条目下自动隐藏显示Button的方法
+D0703803`Android内存溢出的解决方法
+D0139302`网上处方药物手册Rxlist 及其药学信息资源
+D0256824`进程与线程的一个简单解释
+D0282712`获得Android设备的唯一序列号
+D0198658`Android FoldingLayout 折叠布局 原理及实现（一）
+D0078195`android.app.Activity 的介绍
+D0024909`“赢在中国·蓝天碧水间”暴露的11位企业家的出身与人性
+D0049175`Android 处理内存泄露的方法
+D0493523`自定义日历控件-CalendarView
+D0780823`50款经典 iPhone 开源应用（附代码下载）
+D0236129`2015年终总结，忙碌和无所事事的一年
+D0663856`Android之发送短信和接收验证码
+D0662594`软件开发过程学习笔记（四）之详细设计说明书模板
+D0211331`深入Java字符串
+D0136796`ListView异步加载图片实现思路(优化篇)
+D0627648`Android应用(测试/正式)服务器端接口切换方法
+D0199357`Android中ListView异步加载图片错位、重复、闪烁问题分析及解决方案
+D0096649`XCL-Charts图表库简要教程及常见问题
+D0160103`px、dip、sp区别和计算
+D0688741`Android带文字的ImageButton实现
+D0924692`Android读取XML资源
+D0262690`乱评赢在中国之蓝天碧水间系列
+D0178751`Android自定义控件之日历控件
+D0331662`性能优化：使用SparseArray代替HashMap<Integer,Object>
+D0851861`Android自定义ProgressDialog样式
+D0248204`Android 打造形形色色的进度条  实现可以如此简单
+D0815712`Java注释和注释模板
+D0422845`全面解释java中StringBuilder、StringBuffer、String类之间的关系
+D0155427`【Android开源项目分析】自定义圆形头像CircleImageView的使用和源码分析
+D0431871`Android酷炫实用的开源框架（UI框架）
+D0837215`Android中WebView载入本地HTML代码并实现交互
+D0591823`Android之Bundle传递数据详解与实例及Bundle与SharedPreferences的区别
+D0381403`Android终止无限循环线程和程序退出时销毁线程
+D0097383`Java中byte与16进制字符串的互换原理
+D0166049`软件开发过程学习笔记（一）之软件开发流程
+D0242732`Activity与Fragment数据传递之Activity之间获取数据
+D0277467`java枚举类型enum的使用
+D0675748`用Java Swing编写简单的测试小工具界面（源码）
+D0406171`Android自定义View------带删除功能的EditText
+D0428932`理解oo：继承、多态、重写、重载、接口、抽象类
+D0279366`Android下屏幕适配
+D0293952`JAVA的StringBuffer类
+D0026944`几种常见的Runtime Exception
+D0559721`Android 继承DialogFragment弹出dialog对话框
+D0259890`介绍几款网页数据抓取软件
+D0322395`Java中常用字符串方法总结
+D0143902`Android性能优化之数据库优化
+D0697379`Android对话框（Dialog）小结
+D0008275`Android屏幕适配全攻略(最权威的官方适配指导)
+D0817003`Fragment向Activity中传递数据
+D0701152`Java操作串口
+D0426608`结合Android命名空间，自定义一个横向柱状图
+D0008088`Android源码大放送（实战开发必备）
+D0215141`软件开发过程学习笔记（二）之软件需求模板
+D0138633`Android Fragment 你应该知道的一切
+D0153033`Android iphone手机分辨率尺寸比例整理
+D0133148`使用Junit对Android应用进行单元测试
+D0284824`PC端 java 开发蓝牙所遇到的问题
+D0101204`Android中进程的创建和关闭
+D0206697`Android开发面试题（一）
+D0829585`Android 开发中的日常积累
+D0815712`Java注释和注释模板
+D0824074`如何将win7系统的电脑屏幕改成护眼的豆沙绿
+D0029896`10分钟掌握XML、JSON及其解析
+D0109961`Android组件——使用DrawerLayout仿网易新闻v4.4侧滑菜单
+D0666727`Android中View转换为Bitmap及getDrawingCache=null的解决方法
+D0666928`来，接招！！！ （八个Android项目源码）
+D0422577`Fragment跳转时传递参数及结果回传的方法
+D0178751`Android自定义控件之日历控件
+D0842463`Fragment和activity的之间的数据传递以及页面跳转
+D0431871`Android酷炫实用的开源框架（UI框架）
+D0248204`Android 打造形形色色的进度条  实现可以如此简单
+D0040150`解放双手——Android自动化测试
+D0155427`【Android开源项目分析】自定义圆形头像CircleImageView的使用和源码分析
+D0150081`App竞品技术分析 （2）Html5页面的打开速度
+D0423846`面试题整理（一）
+D0289496`Android中线程的基本用法
+D0096649`XCL-Charts图表库简要教程及常见问题
+D0493523`自定义日历控件-CalendarView
+D0047360`Python 网页爬虫 & 文本处理 & 科学计算 & 机器学习 & 数据挖掘兵器谱
+D0113896`Android 打造炫目的圆形菜单  秒秒钟高仿建行圆形菜单
+D0142775`Android Animation动画(很详细)
+D0000261`Andorid-15k+的面试题
+D0817003`Fragment向Activity中传递数据
+D0061100`java泛型详解
+D0458418`面试之- IntentService的应用
+D0138633`Android Fragment 你应该知道的一切
+D0394661`面试整理（二）

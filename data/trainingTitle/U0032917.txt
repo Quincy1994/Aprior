@@ -1,0 +1,18 @@
+D0629135`xilinx  ise  的planahead的使用1
+D0799040`FPGA深度学习之资料收集
+D0329616`FPGA，altera的opencl之学习疑问
+D0872312`ISE软件的程序加载
+D0142363`FPGA  editor   使用简介1
+D0684516`planahead调试程序
+D0529652`xilinx ise 的planahead的使用2
+D0137688`FPGA机器学习之数据挖掘，图像处理，机器视觉，模式识别，人工智能，机器学习的关系
+D0799040`FPGA深度学习之资料收集
+D0329616`FPGA，altera的opencl之学习疑问
+D0872312`ISE软件的程序加载
+D0142363`FPGA  editor   使用简介1
+D0684516`planahead调试程序
+D0529652`xilinx ise 的planahead的使用2
+D0137688`FPGA机器学习之数据挖掘，图像处理，机器视觉，模式识别，人工智能，机器学习的关系
+D0329616`FPGA，altera的opencl之学习疑问
+D0142363`FPGA  editor   使用简介1
+D0137688`FPGA机器学习之数据挖掘，图像处理，机器视觉，模式识别，人工智能，机器学习的关系

@@ -1,0 +1,36 @@
+D0891921`为轮廓创建可倾斜的边界框和椭圆-- minAreaRect（）和fitEllipse（）
+D0544356`关于头文件和库文件
+D0679272`为程序界面添加滑动条--createTrackbar（）
+D0463270`轮廓提取--findContours（）和drawContours（）
+D0305810`SURF特征点检测--SurfFeatureDetector、SurfDescriptorExtractor和FlannBasedMatcher
+D0924302`轮廓矩-- moments（）、contourArea（）和 arcLength（）
+D0841679`平面物体检测的主要算法流程
+D0908960`多边形测试--pointPolygonTest（）
+D0758935`计算物体的凸包--convexHull()
+D0514294`构造函数方法创建Mat对象
+D0581567`编程流程
+D0835061`定制化创建角点检测子--cornerEigenValsAndVecs（）和cornerMinEigenVal（）
+D0730627`创建包围轮廓的矩形和圆形边界框--boundingRect（）、minEnclosingCircle（）和approxPolyDP（）
+D0572228`亚像素级的角点检测--goodFeaturesToTrack()
+D0279656`深度学习开源工具——caffe介绍
+D0841679`平面物体检测的主要算法流程
+D0151228`K-means聚类算法
+D0175496`BING`Binarized Normed Gradients for Objectness Estimation at 300fps
+D0193566`NTU-Coursera机器学习:过拟合(Overfitting)与正规化(Regularization)
+D0562539`OpenCV2学习笔记（六）：检测图像颜色小程序
+D0191484`OpenCV2学习笔记（一）：图像的基本操作
+D0696667`关于“博客之星”评选活动的意见
+D0508466`【opencv2】对视频的操作
+D0514294`构造函数方法创建Mat对象
+D0466225`LBP某些点说明
+D0342951`《统计学习方法，李航》：7、支持向量机support vector machine（1）
+D0017898`【浅墨著作】《OpenCV3编程入门》内容简介&勘误&配套源代码下载
+D0037134`百度图像搜索探秘
+D0095362`局部图像特征描述 概述
+D0207575`关于程明明老师的BING一点自我看法——加速
+D0149216`Libsvm和Liblinear各自特点和使用经验
+D0018625`图像显著性论文(1-3)
+D0218442`OpenCV2学习笔记（四）：两种图像分割方法比较
+D0730627`创建包围轮廓的矩形和圆形边界框--boundingRect（）、minEnclosingCircle（）和approxPolyDP（）
+D0399851`OpenCV2学习笔记（九）：视频流读取与处理
+D0064118`侃侃自己的IT面试经历

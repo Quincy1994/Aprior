@@ -1,0 +1,30 @@
+D0648509`增量学习
+D0898652`人脸检测2 Opencv Mode的训练
+D0428611`人脸检测 1 杂烩
+D0747124`计算机视觉方面的好的代码，俺会一直捡柴
+D0564661`Apple 为什么在 Mavericks 里把 C++ 标准库从 libstdc++ 改成 libc++？
+D0645731`关于windows下caffe配置中出现的C2015错误的解决办法
+D0457003`Qt5官方demo解析集36——Wiggly Example
+D0117379`第一篇 Object-C快速入门
+D0326630`IT痴汉的工作现状42-Android越用越慢？立场不同，谈何信任！
+D0050958`TalkingData CTO肖文峰：研发工程师，你为啥升不上去？
+D0747124`计算机视觉方面的好的代码，俺会一直捡柴
+D0395966`用Swift开发Mac App(6)
+D0331549`IT痴汉的工作现状35-不要让你擅长的技术限制了你
+D0170245`【转】Caffe Windows版本的编译
+D0428611`人脸检测 1 杂烩
+D0048958`图像卷积与滤波的一些知识点
+D0564389`OpenCV由汉字生成图片（透明）----可以对抗论文查重！！！
+D0721689`解决下载Android Build-tools 19.1.0失败
+D0005380`神经网络训练中的Tricks之高效BP（反向传播算法）
+D0580451`Unity中加入Android项目的Build步骤
+D0270367`BFGS算法
+D0712945`【MFC】单行CEdit文本的“垂直居中”
+D0439280`Caffe —— Deep learning in Practice
+D0648509`增量学习
+D0153256`快速对图像的像素进行操作 opencv 实战
+D0898652`人脸检测2 Opencv Mode的训练
+D0039692`《Master Opencv...读书笔记》非刚性人脸跟踪 II
+D0532815`我写的一个Qt 显示二维码（ QR Code）的控件
+D0604652`【Google内推】2016校园招聘
+D0399091`用Caffe实现人脸特征点检测 资料整理

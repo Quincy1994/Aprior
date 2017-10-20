@@ -1,0 +1,18 @@
+D0781338`ubuntu系统从中文环境改成英文环境
+D0241948`linux下C获取系统时间的方法
+D0696672`ctags的简单使用
+D0578221`qt在开发板上运行的环境编译的搭建
+D0734916`sourceinsight(cp:http://www.linuxidc.com/Linux/2012-07/65603.htm)
+D0262971`实习14天
+D0263353`实习第15天
+D0696672`ctags的简单使用
+D0235509`实习11天
+D0500938`tiny6410与ubuntu14.04串口的设置
+D0235946`autotools使用（自动生成makefile）
+D0781338`ubuntu系统从中文环境改成英文环境
+D0175117`实习17天
+D0241948`linux下C获取系统时间的方法
+D0244330`autotools useful example
+D0235946`autotools使用（自动生成makefile）
+D0203456`在Ubuntu下使用vsftpd搭建FTP服务器
+D0500938`tiny6410与ubuntu14.04串口的设置

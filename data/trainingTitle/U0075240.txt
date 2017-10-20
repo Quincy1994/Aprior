@@ -1,0 +1,127 @@
+D0741209`【云计算虚拟化】docker在ubuntu14.04下的安装
+D0342611`【Caffe实践】损失函数解析
+D0538672`【C++学习】tuple数据结构
+D0471985`【问题解决】IE浏览器主页被hao123 窜改的解决方法
+D0573980`【Caffe实践】 添加自己的网络层
+D0633571`【图像处理】人脸预处理工具FaceTools
+D0744913`【Caffe源码解析】DataLayer
+D0618848`【机器学习实践】Kaggle 之 Face Verification Challenge练手
+D0253679`【Caffe实践】基于Caffe的人脸识别实现
+D0807462`【笔试面试】神马搜索C++程序员电话面试
+D0215942`【深度学习论文笔记】FaceNet`A Unified Embedding for Face Recognition and Clustering
+D0619015`【笔试面试】2015华为软件开发实习生
+D0841695`【Caffe代码解析】Blob
+D0842182`【C++学习】vector
+D0582962`【问题解决】Ctrl+Alt+F1到F6黑屏，无法看到控制台，但Ctrl+Alt+F7能正常切换到图形界面
+D0456738`【C++学习】智能指针-shared_ptr
+D0835551`【C++学习】map
+D0647316`【Caffe实践】 多目标输出探究
+D0857946`【Caffe代码解析】convert_imageset
+D0775571`【Matlab学习】 遍历文件夹下的所有文件
+D0478560`【深度学习论文笔记】Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
+D0234324`【笔试面试】美团网-2016年校招-机器学习和数据挖掘
+D0291006`【机器学习】逻辑回归原理及其实现
+D0249796`【云计算虚拟化】虚拟化学习认识总结
+D0306439`【机器学习】非平衡数据集的机器学习常用处理方法
+D0309698`【笔试面试】美图2015计算机视觉工程师实习生
+D0770210`【算法编程】找出只出现一次的数-singleNumber
+D0374814`【Python学习】Scikit-learn之SVM
+D0745808`【Python学习】下载faceScrub人脸数据库（单线程版本）
+D0574616`【开发工具】linux 下NFS服务安装
+D0702484`【Caffe代码解析】compute_image_mean
+D0416325`【云计算虚拟化】基于docker的caffe环境搭建
+D0925979`【Python学习】下载faceScrub人脸数据库 （多线程版本）
+D0633755`【大数据处理】键值对数据库Leveldb
+D0244276`【Caffe实践】基于Caffe的人脸关键点检测实现
+D0362597`《Python核心编程》数字类型
+D0741209`【云计算虚拟化】docker在ubuntu14.04下的安装
+D0351388`对 CNN facial point detection[CVPR2013]一文的实现
+D0342611`【Caffe实践】损失函数解析
+D0334363`[Python] 专题五.列表基础知识 二维list排序、获取下标和处理txt文本实例
+D0178360`CNN公式推导
+D0279656`深度学习开源工具——caffe介绍
+D0906495`leetCode198-House Robber
+D0063816`深度学习与计算机视觉系列(5)_反向传播与它的直观理解
+D0841695`【Caffe代码解析】Blob
+D0313012`BaiDu校招2016计算机视觉笔试试题
+D0812608`一个libvirt/qemu创建虚拟机错误的解决办法
+D0573980`【Caffe实践】 添加自己的网络层
+D0633571`【图像处理】人脸预处理工具FaceTools
+D0471985`【问题解决】IE浏览器主页被hao123 窜改的解决方法
+D0702416`修改docker镜像，容器存放位置。
+D0618848`【机器学习实践】Kaggle 之 Face Verification Challenge练手
+D0119758`【人脸识别】人脸验证算法Joint Bayesian详解及实现（Python版）
+D0296919`caffe  siamese 网络 对比损失函数
+D0471535`triplet loss 原理以及梯度推导
+D0253679`【Caffe实践】基于Caffe的人脸识别实现
+D0807462`【笔试面试】神马搜索C++程序员电话面试
+D0215942`【深度学习论文笔记】FaceNet`A Unified Embedding for Face Recognition and Clustering
+D0499098`leetcode笔记：Single Number
+D0619015`【笔试面试】2015华为软件开发实习生
+D0842182`【C++学习】vector
+D0073285`《Delving Deep into Rectifiers`Surpassing Human-Level Performance on ImageNet Classification》阅读笔记与实现
+D0222467`Python机器学习库scikit-learn实践
+D0072739`深度学习与计算机视觉系列(2)_图像分类与KNN
+D0091212`利用卷积神经网络（CNN）构造社区问答系统
+D0249641`Docker学习笔记 — Docker私有仓库搭建
+D0694272`LeetCode——House Robber
+D0478173`基于Triplet loss 函数训练人脸识别深度网络
+D0456738`【C++学习】智能指针-shared_ptr
+D0835551`【C++学习】map
+D0249796`【云计算虚拟化】虚拟化学习认识总结
+D0067014`逻辑回归，决策树，支持向量机 选择方案
+D0197579`LSTM简介以及数学推导(FULL BPTT)
+D0857946`【Caffe代码解析】convert_imageset
+D0775571`【Matlab学习】 遍历文件夹下的所有文件
+D0855567`Docker实践7：容器与主机拷贝数据
+D0478560`【深度学习论文笔记】Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
+D0234324`【笔试面试】美团网-2016年校招-机器学习和数据挖掘
+D0108931`【算法】2015-2016 阿里、百度、360、豌豆荚、搜狗面试题部分集锦
+D0177099`【论文笔记】SparkNET`用Spark训练深度神经网络
+D0537346`Caffe中增加新的layer以及Caffe中triplet loss layer的实现
+D0200481`深度学习工具箱CAFFE在64位win7+VS2013环境下编译及运行
+D0291006`【机器学习】逻辑回归原理及其实现
+D0055566`《Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift》阅读笔记与实现
+D0866139`公告：博客Markdown编辑器，带来全新体验
+D0404424`Docker搭建本地私有仓库
+D0353932`在 Mac OS X 系统里使用 Docker
+D0135155`DeepID算法实践
+D0215406`机器学习中的特征空间
+D0725890`七张图解读Java多线程
+D0138516`CSDN-markdown扩展语法说明
+D0306439`【机器学习】非平衡数据集的机器学习常用处理方法
+D0416325`【云计算虚拟化】基于docker的caffe环境搭建
+D0608059`八个最佳Python IDE
+D0048958`图像卷积与滤波的一些知识点
+D0648875`导数与微积分
+D0309698`【笔试面试】美图2015计算机视觉工程师实习生
+D0711531`使用Docker registry镜像创建私有仓库
+D0853627`Python lmdb
+D0839428`cuda-convnet2与caffe对比
+D0770210`【算法编程】找出只出现一次的数-singleNumber
+D0205925`FaceNet--Google的人脸识别
+D0374814`【Python学习】Scikit-learn之SVM
+D0745808`【Python学习】下载faceScrub人脸数据库（单线程版本）
+D0574616`【开发工具】linux 下NFS服务安装
+D0037865`【万字总结】图解堆算法、链表、栈与队列（多图预警）
+D0622840`Caffe Convolutional Layer 记录
+D0702484`【Caffe代码解析】compute_image_mean
+D0018938`深度学习与计算机视觉系列(3)_线性SVM与SoftMax分类器
+D0538672`【C++学习】tuple数据结构
+D0925979`【Python学习】下载faceScrub人脸数据库 （多线程版本）
+D0582962`【问题解决】Ctrl+Alt+F1到F6黑屏，无法看到控制台，但Ctrl+Alt+F7能正常切换到图形界面
+D0633755`【大数据处理】键值对数据库Leveldb
+D0244276`【Caffe实践】基于Caffe的人脸关键点检测实现
+D0807013`VS2015 RC 安装体验
+D0024416`手把手入门神经网络系列(1)_从初等数学的角度初探神经网络
+D0253679`【Caffe实践】基于Caffe的人脸识别实现
+D0342611`【Caffe实践】损失函数解析
+D0478560`【深度学习论文笔记】Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
+D0841695`【Caffe代码解析】Blob
+D0573980`【Caffe实践】 添加自己的网络层
+D0633571`【图像处理】人脸预处理工具FaceTools
+D0925979`【Python学习】下载faceScrub人脸数据库 （多线程版本）
+D0244276`【Caffe实践】基于Caffe的人脸关键点检测实现
+D0647316`【Caffe实践】 多目标输出探究
+D0342611`【Caffe实践】损失函数解析
+D0573980`【Caffe实践】 添加自己的网络层

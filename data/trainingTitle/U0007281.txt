@@ -1,0 +1,26 @@
+D0575172`学习OpenCV_基本数据结构，CvMat，矩阵访问
+D0209415`《计算机是怎样跑起来的》读书笔记
+D0742696`学习OpenCV_例2.5 使用cvPyrDown()创建一个宽度和高度为输入图像一般尺寸的图像
+D0596377`Matlab调用C/C++之设置过程
+D0092986`计算机是怎样跑起来的（读书笔记）
+D0642274`《剑指offer》——1 二维数组中的查找
+D0112051`《计算机是怎样跑起来的》——试着制造一台计算机吧
+D0575172`学习OpenCV_基本数据结构，CvMat，矩阵访问
+D0209415`《计算机是怎样跑起来的》读书笔记
+D0226349`动作识别之STIP (Space-Time Interest Points)（一）
+D0620612`HOF特征
+D0834297`MATLAB conv2卷积的实现
+D0742696`学习OpenCV_例2.5 使用cvPyrDown()创建一个宽度和高度为输入图像一般尺寸的图像
+D0596377`Matlab调用C/C++之设置过程
+D0828227`动作识别之STIP(Space-Time Interest Point)（六）
+D0821579`动作识别之STIP(Space-Time Interest Point)（六）
+D0078376`灰度图像--频域滤波 傅里叶变换之连续周期信号傅里叶级数
+D0370924`灰度图像--图像分割  边缘检测算子 综述
+D0092986`计算机是怎样跑起来的（读书笔记）
+D0205012`动作识别之STIP(Space-Time Interest Point)（二）
+D0514325`Pedestrian Detection`An Evaluation of the State of the Art
+D0642274`《剑指offer》——1 二维数组中的查找
+D0095051`灰度图像--频域滤波 概论
+D0112051`《计算机是怎样跑起来的》——试着制造一台计算机吧
+D0894781`动作识别之STIP(Space-Time Interest point)（七）
+D0279245`灰度图像--频域滤波  傅里叶变换之卷积

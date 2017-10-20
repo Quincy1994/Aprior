@@ -1,0 +1,130 @@
+D0671830`Android知识总结：Universal-Imageloader学习笔记3 显示自定义形状头像
+D0466298`安卓ListView图片异步加载错位的处理
+D0761914`安卓  ListView错位的一种情况 ......ViewHolder  每次都应该为所有控件赋值
+D0877147`Android知识总结：Universal-Imageloader学习笔记1  基本功能与配置
+D0670034`安卓基础总结 intent  activity  页面间传递信息
+D0724120`安卓基础  多媒体相关知识
+D0326008`Android知识总结：Universal-Imageloader学习笔记4 使用Universal-Imageloader管理本地图片
+D0531386`安卓的事件的分发与传递
+D0309998`Android知识点总结：Android选取、拍照与裁剪图片相关流程分析
+D0702774`安卓基础总结 内容提供者
+D0841827`爬楼梯问题
+D0534303`Android知识总结：Universal-Imageloader学习笔记2 主业务流程源码分析
+D0797791`Android自定义控件：下拉菜单的实现与优化
+D0567006`安卓中  广播   服务   及其简单应用范围的一些总结
+D0421860`Android知识点记录：七牛Android SDK调试整理
+D0890045`Android知识点记录：支付宝SDK Ali64异常的一种可能原因
+D0498206`安卓基础总结 网络基础  Connector post get
+D0794385`RelativeLayout执行measure（w,h）方法时，出现NullPointerException的异常情况
+D0603467`android:windowSoftInputMode属性详解
+D0382545`调用安卓相机闪退
+D0538495`Android自定义控件：上拉刷新下拉加载的滑动控件
+D0580819`Android自定义控件：将ViewPager封装自己的TabPager控件
+D0663631`安卓上传本地图片闪退
+D0527302`安卓基础总结 Service相关
+D0095886`计算化学领域的黑科技
+D0118554`今15年创业，享受改变的过程
+D0671830`Android知识总结：Universal-Imageloader学习笔记3 显示自定义形状头像
+D0624544`mysql之my.cnf
+D0317348`Fresco源码解析 - 初始化过程分析
+D0174506`我对Android的理解
+D0058929`[python] 专题七.网络编程之套接字Socket、TCP和UDP通信实例
+D0466298`安卓ListView图片异步加载错位的处理
+D0505372`部分博客中的代码已放到了GitHub上，欢迎大家下载阅读！
+D0761914`安卓  ListView错位的一种情况 ......ViewHolder  每次都应该为所有控件赋值
+D0359432`Volley的Https请求
+D0684553`Error:Execution failed for task ':app:dexDebug'. > com.android.ide.common.process.ProcessException
+D0670034`安卓基础总结 intent  activity  页面间传递信息
+D0227006`Android 实现变色状态栏
+D0098252`FFmpeg源代码简单分析：avio_open2()
+D0617401`Android开发技术前线 (android-tech-frontier) --优质技术文章的聚合项目
+D0124761`面稀土，战码家（二）
+D0005211`浅析如何学好C语言
+D0724120`安卓基础  多媒体相关知识
+D0326008`Android知识总结：Universal-Imageloader学习笔记4 使用Universal-Imageloader管理本地图片
+D0709927`animation 坐标参考系 Animation.RELATIVE_TO_PARENT 与 Animation.RELATIVE_TO_SELF
+D0039946`Android最佳性能实践(一)——合理管理内存
+D0531386`安卓的事件的分发与传递
+D0580819`Android自定义控件：将ViewPager封装自己的TabPager控件
+D0091257`Android 屏幕适配方案
+D0061001`Android属性动画完全解析(中)，ValueAnimator和ObjectAnimator的高级用法
+D0558570`【直播预告】7月19日iOS免费公开课答疑，参与送C币！
+D0034113`Android属性动画完全解析(下)，Interpolator和ViewPropertyAnimator的用法
+D0308348`Android ImageView 不显示JPEG图片 及 Android Studio中如何引用图片资源
+D0779402`android studio生成aar包并在其他工程引用aar包
+D0877147`Android知识总结：Universal-Imageloader学习笔记1  基本功能与配置
+D0603467`android:windowSoftInputMode属性详解
+D0119726`第六届蓝桥杯大赛个人赛省赛（软件类） Java 大学B组
+D0663631`安卓上传本地图片闪退
+D0759735`Android RadioButton 背景图变形问题
+D0029376`Android最佳性能实践(二)——分析内存的使用情况
+D0841827`爬楼梯问题
+D0114050`悬崖勒马之三年编码的反省
+D0534303`Android知识总结：Universal-Imageloader学习笔记2 主业务流程源码分析
+D0499181`程序员必须要会算法吗? 获奖名单公布
+D0360219`生如夏花—三月总结
+D0481837`Android自定义控件之仿美团下拉刷新
+D0571049`Android 常用效果（各种进度条，酷炫loading动画，火箭升空，撒花以及趋势图）
+D0797791`Android自定义控件：下拉菜单的实现与优化
+D0440033`synchronized锁住了什么
+D0567006`安卓中  广播   服务   及其简单应用范围的一些总结
+D0421860`Android知识点记录：七牛Android SDK调试整理
+D0890045`Android知识点记录：支付宝SDK Ali64异常的一种可能原因
+D0498206`安卓基础总结 网络基础  Connector post get
+D0309546`39岁了，我依然要谈梦想
+D0422646`沉浸式状态栏（一）
+D0866139`公告：博客Markdown编辑器，带来全新体验
+D0794385`RelativeLayout执行measure（w,h）方法时，出现NullPointerException的异常情况
+D0112519`程序员如何变身IT讲师
+D0813653`支付宝当前最新版集成2.1.2版本
+D0447007`保持Android代码颜值的一些思考
+D0631415`opencv视频流的读取和处理
+D0653027`关于字符串转化为数字的深度优化两种算法
+D0518781`安卓--oom问题
+D0195160`Android动画精讲一：从setTranslationX谈属性动画和view动画的区别
+D0338731`LeakCanary:检测所有的内存泄露
+D0382545`调用安卓相机闪退
+D0702774`安卓基础总结 内容提供者
+D0316404`Android Studio 引入第三方jar包和lib工程【一】-- 初识maven仓库
+D0012896`程序员是否必须会算法
+D0507257`Volley框架支持HTTPS请求
+D0132437`可能是最难围住的神经猫——寻找必胜路径的算法实现
+D0538495`Android自定义控件：上拉刷新下拉加载的滑动控件
+D0024801`老菜鸟致青春，程序员应该选择java 还是 c#-
+D0524039`Linux下编程------文件与IO（三） 文件共享和fcntl函数
+D0555429`通过蓝牙调试（穿戴设备app） - 开发文档翻译
+D0527302`安卓基础总结 Service相关
+D0309998`Android知识点总结：Android选取、拍照与裁剪图片相关流程分析
+D0124344`为大二软件工程专业大学生解答问题（二）
+D0120099`一个IT小菜鸟的成长之路
+D0371177`【Windows 10 IoT - 2】LED闪烁及动画绘制（树莓派 Pi2）
+D0832416`图像处理中的数学原理详解（Part7） ——哈密尔顿算子
+D0256578`简述fragment（上）
+D0146598`程序员必读书籍及导读指南
+D0043627`Android最佳性能实践(四)——布局优化技巧
+D0143418`如何用15分钟开启高效的一天
+D0076705`浅析嵌入式C优化技巧
+D0663631`安卓上传本地图片闪退
+D0670034`安卓基础总结 intent  activity  页面间传递信息
+D0466298`安卓ListView图片异步加载错位的处理
+D0761914`安卓  ListView错位的一种情况 ......ViewHolder  每次都应该为所有控件赋值
+D0670034`安卓基础总结 intent  activity  页面间传递信息
+D0577346`android studio 中使用aidl
+D0724120`安卓基础  多媒体相关知识
+D0709927`animation 坐标参考系 Animation.RELATIVE_TO_PARENT 与 Animation.RELATIVE_TO_SELF
+D0531386`安卓的事件的分发与传递
+D0309998`Android知识点总结：Android选取、拍照与裁剪图片相关流程分析
+D0702774`安卓基础总结 内容提供者
+D0841827`爬楼梯问题
+D0567006`安卓中  广播   服务   及其简单应用范围的一些总结
+D0421860`Android知识点记录：七牛Android SDK调试整理
+D0890045`Android知识点记录：支付宝SDK Ali64异常的一种可能原因
+D0767215`使用getBackground().setAlpha，导致其他布局背景透明度都改变的问题
+D0498206`安卓基础总结 网络基础  Connector post get
+D0794385`RelativeLayout执行measure（w,h）方法时，出现NullPointerException的异常情况
+D0603467`android:windowSoftInputMode属性详解
+D0382545`调用安卓相机闪退
+D0538495`Android自定义控件：上拉刷新下拉加载的滑动控件
+D0580819`Android自定义控件：将ViewPager封装自己的TabPager控件
+D0663631`安卓上传本地图片闪退
+D0527302`安卓基础总结 Service相关

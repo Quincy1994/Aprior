@@ -1,0 +1,129 @@
+D0420946`作为一名设计师，我是如何在4个月的时间开发出一款app的
+D0275975`iOS 上常用的两个功能：点击屏幕和return退出隐藏键盘和解决虚拟键盘挡住UITextField的方法
+D0372199`static的作用
+D0772970`【IOS开发】如何画1像素的线
+D0717347`ios nsstring(补充 与不同类型之间的转化）
+D0049185`Objective-C 编码建议
+D0094897`iOS 大型项目开发漫谈
+D0718322`苹果证书
+D0427615`WinDebug的一些基本使用命令
+D0016785`苹果App Store审核指南中文翻译（更新）
+D0195753`C++中vector使用详细说明
+D0579443`NSUserDefaults简介及使用
+D0033335`iOS 开发者流程
+D0127122`UIScrollView的使用大全
+D0617688`怎样判断ios app 第一次启动(做欢迎界面）
+D0106426`iOS开发网络篇之文件下载、大文件下载、断点下载
+D0469789`Android的Handler总结
+D0088902`UIApplication sharedApplication详细解释-IOS
+D0562679`libc++abi.dylib`terminate_handler unexpectedly threw an exception错误小结
+D0513835`对于dequeueReusableCellWithIdentifier:的个人理解
+D0047393`iOS中消息的传递机制
+D0168756`IOS 点击空白处隐藏键盘的几种方法
+D0252126`PDB文件：每个开发人员都必须知道的
+D0057114`iOS程序员必须知道的Android要点
+D0167269`iOS9新系统下App Store应用上传新指南
+D0079463`SQL注入原理讲解，很不错！
+D0661815`Mac如何设置多个桌面
+D0444108`DLL中.def文件的使用
+D0321745`iOS archive（归档）的总结
+D0255371`iOS8开发～UI布局（一）初探Size Class
+D0232994`为什么5 x 3 = 5 + 5 + 5 被改注是错误的
+D0101885`iOS Code Signing`解惑
+D0106531`Wireshark图解教程
+D0912745`iOS—修改AFNetworking源文件可接收text/plain的方法
+D0701915`IOS6.0 应用内直接下载程序 不需跳转AppStore
+D0519958`多线程的那点儿事（之C++锁）
+D0166968`http statusCode(状态码) 200、300、400、500序列
+D0230510`Timer和TimerTask详解
+D0198969`UIScrollView详解
+D0852019`Android之ScaleGestureDetector（缩放手势检测）
+D0138834`C++ Virtual详解
+D0254008`提高iOS开发效率的方法和工具
+D0730838`dispatch_async 与 dispatch_get_global_queue
+D0474002`handler机制的原理
+D0648787`OnScrollListener回调分析
+D0556710`Android中visibility属性VISIBLE、INVISIBLE、GONE的区别
+D0770597`wordpress 安装教程
+D0189887`MySQL字段类型详解
+D0078641`C/C++中extern关键字详解
+D0165970`UIBezierPath 的使用介绍
+D0174186`Blocks学习笔记总结
+D0825211`IOS 保存图片至相册
+D0113618`程序员一生必读的书籍
+D0588857`引用传参和指针传参的差别.
+D0471302`iOS开发- UICollectionView详解+实例
+D0776345`IOS中延时执行的几种方式的比较和汇总
+D0401129`[置顶] [iOS] ViewController的生命周期及其加载View的步骤
+D0556615`经典排序算法 - 冒泡排序Bubble sort
+D0156325`C++ const变量使用技巧总结
+D0434324`父类指针指向子类对象的理解
+D0150907`iOS 9学习系列：如何使用ATS提高应用的安全性
+D0657083`KVC 与 KVO 理解
+D0396653`Android应用的自动升级、更新模块的实现完整方案+参考程序
+D0479708`WIRESHARK之SSL解密
+D0030748`iOS 代码实践总结
+D0446991`XCode`如何添加自定义代码片段
+D0158761`CocoaPods安装和使用教程
+D0772970`【IOS开发】如何画1像素的线
+D0717347`ios nsstring(补充 与不同类型之间的转化）
+D0049185`Objective-C 编码建议
+D0416128`Android Studio平台使用GreenDao操作数据库
+D0232994`为什么5 x 3 = 5 + 5 + 5 被改注是错误的
+D0667678`旧项目适配 iOS9 时 .dylib 系统库文件的链接报错的问题处理
+D0718322`苹果证书
+D0232243`送ta一朵独一无二的玫瑰花
+D0657083`KVC 与 KVO 理解
+D0016785`苹果App Store审核指南中文翻译（更新）
+D0413729`iOS6中的Auto Layout：通过代码添加约束
+D0033335`iOS 开发者流程
+D0106426`iOS开发网络篇之文件下载、大文件下载、断点下载
+D0469789`Android的Handler总结
+D0582580`Swift继承(Inheritance)
+D0562679`libc++abi.dylib`terminate_handler unexpectedly threw an exception错误小结
+D0151472`详释(常见UITextView 输入之字数限制)之一－－－固定长度
+D0248204`Android 打造形形色色的进度条  实现可以如此简单
+D0802525`ios 读取图片
+D0047393`iOS中消息的传递机制
+D0903643`C++静态变量和静态成员函数的怪脾气
+D0164817`Autolayout使用小结（一）
+D0057114`iOS程序员必须知道的Android要点
+D0766189`漫谈程序员系列：神奇的四步编程法
+D0661815`Mac如何设置多个桌面
+D0212607`Android framework层JNI的使用浅析
+D0321745`iOS archive（归档）的总结
+D0701323`C语言从认识到熟悉 - 3（格式字符串输入输出）
+D0573212`xcode通过git-tf连接TFS，将本地项目成功上传到TFS服务器
+D0238600`快速排序
+D0094897`iOS 大型项目开发漫谈
+D0101885`iOS Code Signing`解惑
+D0509025`C语言从认识到熟悉 - 2（写一个Helloworld试试手，附带解释）
+D0189235`腾讯反病毒实验室：深度解析AppContainer工作机制
+D0761981`Java传值与传引用
+D0189887`MySQL字段类型详解
+D0166968`http statusCode(状态码) 200、300、400、500序列
+D0197378`30-40岁的程序员们，请把一些账算清楚，为过冬做准备(一)
+D0798441`慕课 php 开发APP接口（三）
+D0095500`我的2014碎碎念—学习篇、实习篇、工作篇、生活篇
+D0461519`Mac下搭建目前最in的hexo博客
+D0648787`OnScrollListener回调分析
+D0150540`Android SurfaceView实战 带你玩转flabby bird （上）
+D0689779`使用代码和storyboard分别创建UITabBarController
+D0770597`wordpress 安装教程
+D0415301`博客从wordpress迁移到Github.io、GitCafe
+D0588857`引用传参和指针传参的差别.
+D0171731`大牛C++编程开发学习建议50条
+D0870760`慕课 php 开发APP接口（一，二）
+D0274226`自定义iOS7导航栏背景,标题和返回按钮文字颜色
+D0279955`Auto Layout和UILabel
+D0215491`【Android开发经验】来来来，同学，咱们讨论一下“只能在UI主线程更新View”这件小事
+D0156325`C++ const变量使用技巧总结
+D0625367`发布IOS产品被拒后如何再上传新发布包
+D0434324`父类指针指向子类对象的理解
+D0150907`iOS 9学习系列：如何使用ATS提高应用的安全性
+D0029588`程序员跳槽神级攻略
+D0396653`Android应用的自动升级、更新模块的实现完整方案+参考程序
+D0030748`iOS 代码实践总结
+D0167269`iOS9新系统下App Store应用上传新指南
+D0049185`Objective-C 编码建议
+D0770597`wordpress 安装教程

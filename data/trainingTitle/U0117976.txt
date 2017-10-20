@@ -1,0 +1,18 @@
+D0177287`Spark修炼之道（进阶篇）——Spark入门到精通：第一节 Spark 1.5.0集群搭建
+D0480228`SparkSQL（Spark-1.4.0)实战系列（一）——DataFrames基础
+D0386964`Machine Learning on Spark——第四节 统计基础（二)
+D0893126`SparkSQL（Spark-1.4.0)实战系列（三）——SparkSQL应用案例
+D0330195`Databricks：2015 Spark调查报告（部分译文）
+D0204275`Spark修炼之道（进阶篇）——Spark入门到精通：第十节 Spark Streaming（一)
+D0508526`Spark修炼之道（进阶篇）——Spark入门到精通：第八节 Spark SQL与DataFrame（一)
+D0182122`Spark修炼之道系列教程预告
+D0143564`Spark修炼之道（进阶篇）——Spark入门到精通：第四节 Spark编程模型（一)
+D0100663`Spark修炼之道（进阶篇）——Spark入门到精通：第二节 Hadoop、Spark生成圈简介
+D0399693`Spark修炼之道（基础篇）——Linux大数据开发基础：第十节：Shell编程入门（二)
+D0322035`Spark修炼之道（基础篇）——Linux大数据开发基础：第九节：Shell编程入门(一)
+D0751595`Spark修炼之道（高级篇）——Spark源码阅读：第一节   Spark应用程序提交流程
+D0766358`SparkSQL（Spark-1.4.0)实战系列（二）——DataFrames进阶
+D0429098`Spark与Mysql(JdbcRDD)整合开发(zh)
+D0599514`Spark修炼之道（基础篇）——Linux大数据开发基础：第十五节：基础正则表达式（一)
+D0028308`Spark入门实战系列--4.Spark运行架构
+D0483172`Machine Learning On Spark——第一节：基础数据结构（一)

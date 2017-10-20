@@ -1,0 +1,225 @@
+D0062538`Serializable和Parcelable应该懂得的几个场景
+D0009656`Android内存优化之OOM全解
+D0425210`ORMLite框架（1）——入门用法
+D0565288`打造Hosts——实现外网资源无缝下载
+D0165752`Volley（1）——基本使用
+D0245407`低门槛入门——图灵机器人开发
+D0079582`Android开发最佳实践
+D0433099`Java注解Annotation详解
+D0000597`程序员面试智力题集锦
+D0728157`网络编程（2）——连接父类URLConnection
+D0378504`序列化手段（2）——Serializable和Parcelable的实现演示
+D0759110`Gson解析（1）——简单对象转化和带泛型的List转化
+D0578777`网上最新的devstack安装教程【一键部署openstack测试环境】
+D0811121`拿来就用——随机数的使用与生成概率
+D0542769`朝花夕拾——看清java实例变量的初始化内幕
+D0668948`【字符串算法】——KMP算法、压缩字符串、字符串镜像、翻转字符串
+D0060037`Java 内存分配全面浅析
+D0682475`朝花夕拾——你了解构造器初始化顺序吗？
+D0503794`【因子算法】——求一个数的因子、质因子、求两个数的公因子
+D0110517`网络编程（5）——HttpURLConnection/HttpClient的区别
+D0578838`Gson解析（2）——Gson注解和GsonBuilder
+D0044392`Android内存优化神器——MAT入门使用
+D0113615`EventBus（2）——源码解析
+D0704034`单例模式——不必多记，只记所需
+D0870055`Gson解析（4）——Map处理数据(下)
+D0156754`周末闲来——2048游戏开发
+D0043368`OKHttp（2）——源码解析
+D0096103`Https(SSL/TLS)原理详解
+D0254494`Android内存优化神器——MAT使用进阶
+D0147322`Remix OS——一个很有魅力的Android系统
+D0277233`ROMLite框架（2）——最佳实践
+D0463323`首次体验Z Launcher—手势搜索增强
+D0694651`ubuntu之路——解决ubuntu+win8双系统循环进入启动界面导致无法启动win8的问题
+D0273210`JackSon——轻松解析Json/XML数据
+D0139719`Android IPC之Messenger解析
+D0412423`程序员修炼之道（2）——别让“破窗”毁了你的项目
+D0128475`OKHttp（1）——基本使用
+D0167531`网络编程（1）——轻松理解网络资源定位
+D0154609`EventBus（1）——基本使用
+D0696014`【二叉树遍历算法】——广/深度优先搜索的实现
+D0136136`Android Studio1.2之完美安装+超强配置
+D0520879`AndroidStudio上的第一个jni程序——NDK入门
+D0311498`朝花夕拾——finally/final/finalize拨云雾见青天
+D0665482`FastJson——生成和解析Json数据
+D0136153`Universal-Image-Loader完全解析（二）--- 图片缓存策略详解
+D0079841`volley（3）——源码分析
+D0345117`greenDao框架使用心得
+D0515067`【质数算法】——判断质数、求小于N的质数、求前N个质数
+D0672486`volley（2）——自定义request
+D0075594`最好最易懂的Git教学——分享“好麻烦部落格”Git教学（2）
+D0103548`Universal-Image-Loader完全解析（三）---源代码解读
+D0767107`Android通用UI开发技术(1)
+D0092259`最好最易懂的Git教学——分享“好麻烦部落格”Git教学（1）
+D0399111`修炼之道——启示篇
+D0654317`朝花夕拾——再看java类变量的初始化内幕
+D0777652`无线调试——免除数据线的干扰
+D0429254`最近微信上很火的小游戏【壹秒】android版——开发分享
+D0311096`序列化手段（1）——parcel例子详解
+D0400928`朝花夕拾——this和super到底是引用还是对象?
+D0451864`如何让VMware上的虚拟机ping通外网（图解教程）
+D0191093`Android的任务和回退栈
+D0552154`Http之Auth的那些事
+D0048225`Fresco（1）——一个新的android图片加载库
+D0383412`最好最易懂的Git教学——分享“好麻烦部落格”Git教学（3）
+D0111207`Java反射机制详解
+D0486223`【二叉树遍历算法】——前/中/后序递归与非递归的实现
+D0124372`网络编程（3）——初探HTTP协议
+D0166588`Fresco（2）——fresco的基本使用
+D0500573`程序员修炼之道（1）——注重不害怕承认无知错误
+D0492615`别让Android Studio的缓存文件占据你的C盘
+D0093772`Universal-Image-Loader完全解析（一）--- 基本介绍及使用
+D0772089`Android数据存储通用策略
+D0657597`Gson解析（5）——实际开发中的特殊需求处理
+D0108379`ACM中Java的使用
+D0226383`Android开发规范示范——开发必学
+D0925461`Gson解析（6）——注册TypeAdapter及处理Enum类型
+D0733655`网络编程（4）——HttpURLConnection/HttpClient基本实现
+D0043368`OKHttp（2）——源码解析
+D0425329`【FastDev4Android框架开发】Android实现沉浸式状态栏(六)
+D0433099`Java注解Annotation详解
+D0078536`Google Volley框架源码走读
+D0766918`Android实战技巧之二十三：Android Studio的NDK开发
+D0159777`Google Volley使用之基础
+D0334821`也谈Volley的二次封装
+D0728157`网络编程（2）——连接父类URLConnection
+D0540119`Android 中tomcat搭建本地服务器
+D0925461`Gson解析（6）——注册TypeAdapter及处理Enum类型
+D0246557`Android事件总线 ( AndroidEventBus ) 框架发布
+D0130459`Android笔记——UI开发
+D0254494`Android内存优化神器——MAT使用进阶
+D0082637`[转]微信、陌陌等著名IM软件设计架构详解
+D0777771`LeakCanary——直白的展现Android中的内存泄露
+D0694651`ubuntu之路——解决ubuntu+win8双系统循环进入启动界面导致无法启动win8的问题
+D0000597`程序员面试智力题集锦
+D0311498`朝花夕拾——finally/final/finalize拨云雾见青天
+D0603855`Google Volley使用之自定义
+D0051820`说说PendingIntent的内部机制
+D0873296`解决fatal error`sys/system_properties.h`No such file or directory compilation terminated.
+D0103548`Universal-Image-Loader完全解析（三）---源代码解读
+D0667643`Fresco源码解析 - 创建一个ImagePipeline（一）
+D0092259`最好最易懂的Git教学——分享“好麻烦部落格”Git教学（1）
+D0353859`使用Eclipse开发Android时在什么时候应该进行clean操作？
+D0373803`Android使用WebView显示网页（图片大小的处理及内容的自适应）
+D0646728`android动画介绍之 自定义Animation动画实现qq抖一抖效果
+D0535305`Fresco最最最简单使用
+D0400928`朝花夕拾——this和super到底是引用还是对象?
+D0479805`Android Studio 下使用NDK
+D0630455`Fresco源码解析 - 本地编译
+D0567767`Fresco源码解析 - Hierarchy / View / Controller
+D0045657`史上最全的程序员求职渠道总结
+D0244136`Android-多线程断点下载详解及源码下载（二）
+D0657597`Gson解析（5）——实际开发中的特殊需求处理
+D0223043`【博客专家】新功能：优秀博文直推极客头条
+D0796670`Android整机源码如何轻松下载？清华大学Android源码镜像
+D0576627`Fresco源码解析 - DraweeView
+D0079582`Android开发最佳实践
+D0167531`网络编程（1）——轻松理解网络资源定位
+D0378504`序列化手段（2）——Serializable和Parcelable的实现演示
+D0542769`朝花夕拾——看清java实例变量的初始化内幕
+D0804394`腾讯 Android 面试题
+D0503794`【因子算法】——求一个数的因子、质因子、求两个数的公因子
+D0414561`面向holder的编程，代码更清爽，管理更简单
+D0682475`朝花夕拾——你了解构造器初始化顺序吗？
+D0777652`无线调试——免除数据线的干扰
+D0096103`Https(SSL/TLS)原理详解
+D0130163`OkHttp使用教程
+D0837259`如何解决Android 5.0中出现的警告：Service Intent must be explicit
+D0342039`少年，你还太弱，请专心练剑
+D0704034`单例模式——不必多记，只记所需
+D0129540`Android Studio-1.2版本设置教程
+D0079841`volley（3）——源码分析
+D0767107`Android通用UI开发技术(1)
+D0075594`最好最易懂的Git教学——分享“好麻烦部落格”Git教学（2）
+D0135335`Android 基于Message的进程间通信 Messenger完全解析
+D0211497`Android打造不一样的EmptyView
+D0260804`【Android开发经验】关于“多线程断点续传下载”功能的一个简单实现和讲解
+D0565288`打造Hosts——实现外网资源无缝下载
+D0486223`【二叉树遍历算法】——前/中/后序递归与非递归的实现
+D0500573`程序员修炼之道（1）——注重不害怕承认无知错误
+D0128475`OKHttp（1）——基本使用
+D0108379`ACM中Java的使用
+D0008088`Android源码大放送（实战开发必备）
+D0733655`网络编程（4）——HttpURLConnection/HttpClient基本实现
+D0245407`低门槛入门——图灵机器人开发
+D0456584`Android-Studio 缓存文件夹配置
+D0044392`Android内存优化神器——MAT入门使用
+D0113615`EventBus（2）——源码解析
+D0149123`2015年阿里实习经历
+D0108688`详述Android插件化原理
+D0277233`ROMLite框架（2）——最佳实践
+D0341429`前端开发APP，从HBuilder开始~
+D0267240`利用国内镜像源下载、编译Android源码
+D0124372`网络编程（3）——初探HTTP协议
+D0147322`Remix OS——一个很有魅力的Android系统
+D0154609`EventBus（1）——基本使用
+D0862173`[Python]Python3.3 xlwt3 安装及使用报错解决办法汇总
+D0136136`Android Studio1.2之完美安装+超强配置
+D0332477`EventBus 利弊与源码解析
+D0665482`FastJson——生成和解析Json数据
+D0383412`最好最易懂的Git教学——分享“好麻烦部落格”Git教学（3）
+D0640156`Android - ViewHolder优化ListView
+D0136153`Universal-Image-Loader完全解析（二）--- 图片缓存策略详解
+D0804715`nova-docker安装使用中遇到的一些问题（juno版）
+D0111207`Java反射机制详解
+D0101007`漫谈程序员系列：咦，你也在混日子啊
+D0552154`Http之Auth的那些事
+D0543184`android 之 Camera
+D0759110`Gson解析（1）——简单对象转化和带泛型的List转化
+D0841978`Android Studio NDK编译Error
+D0346965`进程和线程关系及区别
+D0166588`Fresco（2）——fresco的基本使用
+D0009656`Android内存优化之OOM全解
+D0905410`解决init`sys_prop`permission denied uid:1003  name:service.bootanim.exit问题
+D0247368`Windows App开发之使用通知与动态磁贴
+D0012267`Android ListView工作原理完全解析，带你从源码的角度彻底理解
+D0289440`阿里实习—day one
+D0792769`Android-使用Android studio 进行NDK-JNI开发实例（一）
+D0317348`Fresco源码解析 - 初始化过程分析
+D0471067`详解HttpURLConnection
+D0426832`Fresco源码解析 - DataSource怎样存储数据
+D0685662`黑马ios2期视频，传智播客ios,黑马android最新，云计算最新视频教程
+D0192466`Android源码大放送之material design类型
+D0425210`ORMLite框架（1）——入门用法
+D0668948`【字符串算法】——KMP算法、压缩字符串、字符串镜像、翻转字符串
+D0375986`AndroidSupportDesign之TabLayout使用详解
+D0060037`Java 内存分配全面浅析
+D0283024`SQList
+D0110517`网络编程（5）——HttpURLConnection/HttpClient的区别
+D0244921`Android 自己实现 NavigationView [Design Support Library(1)]
+D0156754`周末闲来——2048游戏开发
+D0345117`greenDao框架使用心得
+D0463323`首次体验Z Launcher—手势搜索增强
+D0273210`JackSon——轻松解析Json/XML数据
+D0139719`Android IPC之Messenger解析
+D0696014`【二叉树遍历算法】——广/深度优先搜索的实现
+D0520879`AndroidStudio上的第一个jni程序——NDK入门
+D0039946`Android最佳性能实践(一)——合理管理内存
+D0250858`回首年少岁月的那个她，真叫人难过又怦然心动
+D0515067`【质数算法】——判断质数、求小于N的质数、求前N个质数
+D0176386`Volley 源码解析
+D0399111`修炼之道——启示篇
+D0108034`20款优秀的Linux 终端仿真器
+D0929176`AndroidStudio 使用技巧:重置Android DDMS 面板
+D0191093`Android的任务和回退栈
+D0048225`Fresco（1）——一个新的android图片加载库
+D0492615`别让Android Studio的缓存文件占据你的C盘
+D0805810`(Kilo)Devstack Kilo版本localrc推荐
+D0772089`Android数据存储通用策略
+D0226383`Android开发规范示范——开发必学
+D0084501`Android DiskLruCache 源码解析 硬盘缓存的绝佳方案
+D0311498`朝花夕拾——finally/final/finalize拨云雾见青天
+D0156754`周末闲来——2048游戏开发
+D0245407`低门槛入门——图灵机器人开发
+D0277233`ROMLite框架（2）——最佳实践
+D0777652`无线调试——免除数据线的干扰
+D0128475`OKHttp（1）——基本使用
+D0654317`朝花夕拾——再看java类变量的初始化内幕
+D0500573`程序员修炼之道（1）——注重不害怕承认无知错误
+D0578777`网上最新的devstack安装教程【一键部署openstack测试环境】
+D0399111`修炼之道——启示篇
+D0124372`网络编程（3）——初探HTTP协议
+D0672486`volley（2）——自定义request
+D0147322`Remix OS——一个很有魅力的Android系统
+D0682475`朝花夕拾——你了解构造器初始化顺序吗？
+D0400928`朝花夕拾——this和super到底是引用还是对象?

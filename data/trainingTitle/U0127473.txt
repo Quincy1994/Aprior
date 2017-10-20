@@ -1,0 +1,2 @@
+D0705158`this class is not key value coding-compliant for the key xx
+D0874391`蓝牙协议

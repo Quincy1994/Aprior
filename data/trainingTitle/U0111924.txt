@@ -1,0 +1,12 @@
+D0349933`Android与SQLite——实现简单登录
+D0428965`Android UI常用实例 如何实现欢迎界面（Splash Screen）
+D0608866`Android调用系统相机照相，并显示在下拉列表上
+D0826744`仿微信/支付宝的密码输入框效果 android
+D0228167`学习编程的七个阶段
+D0235004`最值得关注的10个C开源项目
+D0694533`Android实战简易教程-第四十四枪（Ripple Effect-为控件增加涟漪效果）
+D0098199`基于Android的拍照上传程序开发
+D0349933`Android与SQLite——实现简单登录
+D0233212`（2.1.23）java的枚举enum
+D0645922`CharSequence的getText()与String的getString()
+D0647710`Android中Application的onCreate多次调用问题

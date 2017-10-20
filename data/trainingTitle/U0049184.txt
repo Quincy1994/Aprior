@@ -1,0 +1,226 @@
+D0449077`2014学习总结
+D0840465`算法练习系列—hiho1122二分图最大匹配之匈牙利算法
+D0131915`最大熵模型简记
+D0178360`CNN公式推导
+D0906495`leetCode198-House Robber
+D0503085`leetcode ---双指针+滑动窗口
+D0749438`LeetCode 53/152  Maximum Subarray/Maximum Product Subarray---DP **
+D0793261`leetCode 101/199-Symmetric Tree/Binary Tree Right Side View
+D0125404`Ubuntu14.10+cuda7.0+caffe配置
+D0290175`Trie树
+D0521304`LeetCode42/11 Trapping Rain Water/Container With Most Water/Hist area**
+D0462701`逆序数的几种求法
+D0233986`C++学习笔记一
+D0474442`离散余弦变换(C++实现)
+D0832357`文本查询小例子---涉及多态 句柄类
+D0766219`LeetCode 55/45 Jump Game I/II-----Greedy**
+D0222152`最长回文子串
+D0071463`面试笔试
+D0842413`LeetCode89/60  Gray Code/Permutation Sequence--迭代
+D0351309`LeetCode 8题 --Array+Binary search**
+D0327103`VC维
+D0322914`相似图片搜索原理三(颜色直方图—c++实现)
+D0277166`UFLDL教程笔记及练习答案六（稀疏编码与稀疏编码自编码表达）
+D0206154`相似图片搜索原理一(ahash—c++实现)
+D0144946`算法系列笔记6(动态规划—最长公共子序列/串lcs和最长递增子序列(LIS))
+D0007131`牛客面试常考算法题精讲部分题目c/c++代码
+D0140128`文本语言模型的参数估计-最大似然估计、MAP及贝叶斯估计
+D0634684`DeepLearnToolBox中CNN源码解析
+D0230906`B树
+D0285398`算法系列笔记7(有关图的算法一—搜索，拓扑排序和强连通分支)
+D0141513`奇异值分解及应用(PCA&LSA)
+D0030946`Kd-Tree算法原理和开源实现代码
+D0852943`LeetCode41/19 First Missing Positive/Remove Nth Node From End of List ****
+D0838088`LeetCode12~14 Integer to Roman/Roman to Integer/Longest Common Prefix
+D0902035`LeetCode48/189 Rotate Image/Rotate Array
+D0648158`算法练习系列—hiho1044 状态压缩二(捡垃圾)
+D0039801`概念主题模型简记
+D0912398`LeetCode 62/63/120/64 Unique PathsI/II Triangle/Min sum Path/Rectangle Area－－DP
+D0399358`BP算法与公式推导
+D0800292`leetCode191/201/202/136 -Number of 1 Bits/Bitwise AND of Numbers Range/Happy Number/Single Number
+D0332661`算法练习系列—hiho1039 字符消除
+D0476227`算法系列笔记3(二叉查找树)
+D0629331`LeetCode78/90 subset I/II**
+D0346572`算法系列笔记2(静态表顺序统计-随机选择算法和BFPRT算法)
+D0097300`深度学习笔记1(卷积神经网络)
+D0575058`相似图片搜索原理二(phash—c++实现)
+D0515530`算法系列笔记4(红黑树)
+D0024031`struct 字节对齐详解与大小端模式
+D0143450`算法系列笔记10(有关图的算法三—最大流与二分图)
+D0588475`UFLDL教程练习答案一（稀疏自编码器和矢量化编程实现）
+D0818436`Lire源码解析一
+D0312570`LeetCode1/16/15/18  Two Sum/3Sum/3Sum Closest/4Sum**
+D0463031`LeetCode26/27/80/75 Remove Duplicates from Sorted Array I and II/Remove Element/Set Colors**
+D0916403`leetcode 204/187/205 Count Primes/Repeated DNA Sequences/Isomorphic Strings
+D0525422`UFLDL教程笔记及练习答案四（建立分类用深度学习---栈式自编码神经网络）
+D0374746`NULL, '0',0 '0'的区别及32位和64位类型大小
+D0257941`LeetCode39/40/22/77/17/78/51/46/47/79 10道 Backtracking**
+D0037230`百度图像搜索探秘
+D0277925`算法系列笔记8(有关图的算法二—最短路径问题)
+D0274082`相似图片搜索原理四(内容特征法)
+D0417840`LeetCode121/122/123/188  Best Time to Buy and Sell Stock<股票> I/II/III/IIII----DP+Greedy**
+D0927011`LeetCode69 Sqrt(x)**
+D0018867`C++ 虚函数表解析
+D0105340`贝叶斯网络
+D0392015`UFLDL教程笔记及练习答案五（自编码线性解码器与处理大型图像**卷积与池化）
+D0173624`UFLDL教程笔记及练习答案二（预处理：主成分分析和白化）
+D0482984`UFLDL教程笔记及练习答案三（Softmax回归与自我学习***）
+D0056189`树状数组与线段树
+D0207077`设计模式初识
+D0204709`算法练习系列—hiho1048 状态压缩一(铺地砖)
+D0171145`以图搜图相关资料
+D0078806`【Linux编程】C/C++获取目录下文件或目录及linux中fork（）函数详解（原创！！实例讲解）
+D0813091`算法系列笔记9(字符串匹配)
+D0355385`DeepLearning to digit recognizer in kaggle
+D0130157`算法系列笔记1(排序)
+D0019687`new和malloc的区别及内存管理及char[]与char*区别
+D0398390`算法系列笔记5(扩展数据结构-动态顺序统计和区间树)
+D0173494`最小二乘法和最大似然估计
+D0583652`LeetCode73 Set Matrix Zeroes**
+D0131915`最大熵模型简记
+D0906495`leetCode198-House Robber
+D0503085`leetcode ---双指针+滑动窗口
+D0125404`Ubuntu14.10+cuda7.0+caffe配置
+D0103326`阿里巴巴2014年暑假实习生笔试题+答案详解
+D0399358`BP算法与公式推导
+D0285398`算法系列笔记7(有关图的算法一—搜索，拓扑排序和强连通分支)
+D0322914`相似图片搜索原理三(颜色直方图—c++实现)
+D0381131`2014年终总结
+D0459213`数据流小问题--find the missing elements
+D0541266`2016美团校招笔试题
+D0852943`LeetCode41/19 First Missing Positive/Remove Nth Node From End of List ****
+D0838088`LeetCode12~14 Integer to Roman/Roman to Integer/Longest Common Prefix
+D0750162`跳格子问题——阿里笔试
+D0912398`LeetCode 62/63/120/64 Unique PathsI/II Triangle/Min sum Path/Rectangle Area－－DP
+D0332661`算法练习系列—hiho1039 字符消除
+D0515530`算法系列笔记4(红黑树)
+D0818436`Lire源码解析一
+D0588475`UFLDL教程练习答案一（稀疏自编码器和矢量化编程实现）
+D0338672`#1121 `二分图一•二分图判定
+D0226195`Caffe对MNIST数据进行Train、Test
+D0927011`LeetCode69 Sqrt(x)**
+D0039779`那些年的面试总结
+D0018867`C++ 虚函数表解析
+D0370589`【写文章 奖C币 换好礼】文章上 “程序人生”，拿着C 币换好礼！
+D0355385`DeepLearning to digit recognizer in kaggle
+D0468460`已知两个1~30之间的数字，甲知道两数之和，乙知道两数之积。 。。。。。
+D0443764`[算法系列之二十七]Kruskal最小生成树算法
+D0813091`算法系列笔记9(字符串匹配)
+D0277166`UFLDL教程笔记及练习答案六（稀疏编码与稀疏编码自编码表达）
+D0290453`数据流基本问题--确定频繁元素（一）
+D0144946`算法系列笔记6(动态规划—最长公共子序列/串lcs和最长递增子序列(LIS))
+D0173494`最小二乘法和最大似然估计
+D0216729`hash trick在机器学习中的使用
+D0840465`算法练习系列—hiho1122二分图最大匹配之匈牙利算法
+D0327103`VC维
+D0207077`设计模式初识
+D0186567`我的新书《编程之法：面试和算法心得》终于上市  [内含勘误]
+D0793261`leetCode 101/199-Symmetric Tree/Binary Tree Right Side View
+D0902035`LeetCode48/189 Rotate Image/Rotate Array
+D0222152`最长回文子串
+D0110864`我的2014年总结——奔波的一年
+D0204709`算法练习系列—hiho1048 状态压缩一(铺地砖)
+D0230906`B树
+D0141513`奇异值分解及应用(PCA&LSA)
+D0030946`Kd-Tree算法原理和开源实现代码
+D0002295`未完成的IT路停在回车键---2014年末总结篇
+D0648158`算法练习系列—hiho1044 状态压缩二(捡垃圾)
+D0330784`我的2014
+D0346572`算法系列笔记2(静态表顺序统计-随机选择算法和BFPRT算法)
+D0476227`算法系列笔记3(二叉查找树)
+D0575058`相似图片搜索原理二(phash—c++实现)
+D0290175`Trie树
+D0265251`随机数生成器
+D0842413`LeetCode89/60  Gray Code/Permutation Sequence--迭代
+D0206154`相似图片搜索原理一(ahash—c++实现)
+D0417840`LeetCode121/122/123/188  Best Time to Buy and Sell Stock<股票> I/II/III/IIII----DP+Greedy**
+D0481505`学习礼包派送中，精品好课陪你过大年!
+D0766219`LeetCode 55/45 Jump Game I/II-----Greedy**
+D0482984`UFLDL教程笔记及练习答案三（Softmax回归与自我学习***）
+D0056189`树状数组与线段树
+D0078806`【Linux编程】C/C++获取目录下文件或目录及linux中fork（）函数详解（原创！！实例讲解）
+D0130157`算法系列笔记1(排序)
+D0398390`算法系列笔记5(扩展数据结构-动态顺序统计和区间树)
+D0112957`LDA 线性判别分析
+D0449077`2014学习总结
+D0521304`LeetCode42/11 Trapping Rain Water/Container With Most Water/Hist area**
+D0462701`逆序数的几种求法
+D0233986`C++学习笔记一
+D0474442`离散余弦变换(C++实现)
+D0832357`文本查询小例子---涉及多态 句柄类
+D0916403`leetcode 204/187/205 Count Primes/Repeated DNA Sequences/Isomorphic Strings
+D0007131`牛客面试常考算法题精讲部分题目c/c++代码
+D0356743`【面向社区】极客头条使用体验征文（结束）
+D0039801`概念主题模型简记
+D0629331`LeetCode78/90 subset I/II**
+D0097300`深度学习笔记1(卷积神经网络)
+D0312570`LeetCode1/16/15/18  Two Sum/3Sum/3Sum Closest/4Sum**
+D0525422`UFLDL教程笔记及练习答案四（建立分类用深度学习---栈式自编码神经网络）
+D0037230`百度图像搜索探秘
+D0277925`算法系列笔记8(有关图的算法二—最短路径问题)
+D0579964`深度学习环境搭建（以caffe+cudnn为例，无需root权限）
+D0257941`LeetCode39/40/22/77/17/78/51/46/47/79 10道 Backtracking**
+D0171145`以图搜图相关资料
+D0118554`今15年创业，享受改变的过程
+D0019687`new和malloc的区别及内存管理及char[]与char*区别
+D0119563`《C#高级编程(第9版)——C# 5.0 & .NET 4.5.1》试读试评论
+D0180306`大学三年
+D0178360`CNN公式推导
+D0749438`LeetCode 53/152  Maximum Subarray/Maximum Product Subarray---DP **
+D0190159`各种排序时间空间复杂度稳定性分析
+D0071463`面试笔试
+D0012491`[转]文档去重算法：SimHash和MinHash
+D0076677`Kaggle项目实战1——Digit Recognizer——排名Top10%
+D0634684`DeepLearnToolBox中CNN源码解析
+D0318557`斯坦福大学机器学习——特征选择（Feature selection）
+D0351309`LeetCode 8题 --Array+Binary search**
+D0800292`leetCode191/201/202/136 -Number of 1 Bits/Bitwise AND of Numbers Range/Happy Number/Single Number
+D0143450`算法系列笔记10(有关图的算法三—最大流与二分图)
+D0583652`LeetCode73 Set Matrix Zeroes**
+D0463031`LeetCode26/27/80/75 Remove Duplicates from Sorted Array I and II/Remove Element/Set Colors**
+D0374746`NULL, '0',0 '0'的区别及32位和64位类型大小
+D0140128`文本语言模型的参数估计-最大似然估计、MAP及贝叶斯估计
+D0024031`struct 字节对齐详解与大小端模式
+D0368781`找出数组中只出现1次的数（各种变形）
+D0839428`cuda-convnet2与caffe对比
+D0105340`贝叶斯网络
+D0392015`UFLDL教程笔记及练习答案五（自编码线性解码器与处理大型图像**卷积与池化）
+D0173624`UFLDL教程笔记及练习答案二（预处理：主成分分析和白化）
+D0274082`相似图片搜索原理四(内容特征法)
+D0840465`算法练习系列—hiho1122二分图最大匹配之匈牙利算法
+D0131915`最大熵模型简记
+D0207077`设计模式初识
+D0906495`leetCode198-House Robber
+D0629331`LeetCode78/90 subset I/II**
+D0902035`LeetCode48/189 Rotate Image/Rotate Array
+D0327103`VC维
+D0222152`最长回文子串
+D0285398`算法系列笔记7(有关图的算法一—搜索，拓扑排序和强连通分支)
+D0351309`LeetCode 8题 --Array+Binary search**
+D0322914`相似图片搜索原理三(颜色直方图—c++实现)
+D0204709`算法练习系列—hiho1048 状态压缩一(铺地砖)
+D0230906`B树
+D0141513`奇异值分解及应用(PCA&LSA)
+D0206154`相似图片搜索原理一(ahash—c++实现)
+D0039801`概念主题模型简记
+D0852943`LeetCode41/19 First Missing Positive/Remove Nth Node From End of List ****
+D0912398`LeetCode 62/63/120/64 Unique PathsI/II Triangle/Min sum Path/Rectangle Area－－DP
+D0800292`leetCode191/201/202/136 -Number of 1 Bits/Bitwise AND of Numbers Range/Happy Number/Single Number
+D0071463`面试笔试
+D0476227`算法系列笔记3(二叉查找树)
+D0097300`深度学习笔记1(卷积神经网络)
+D0927011`LeetCode69 Sqrt(x)**
+D0818436`Lire源码解析一
+D0143450`算法系列笔记10(有关图的算法三—最大流与二分图)
+D0290175`Trie树
+D0525422`UFLDL教程笔记及练习答案四（建立分类用深度学习---栈式自编码神经网络）
+D0277925`算法系列笔记8(有关图的算法二—最短路径问题)
+D0417840`LeetCode121/122/123/188  Best Time to Buy and Sell Stock<股票> I/II/III/IIII----DP+Greedy**
+D0257941`LeetCode39/40/22/77/17/78/51/46/47/79 10道 Backtracking**
+D0105340`贝叶斯网络
+D0392015`UFLDL教程笔记及练习答案五（自编码线性解码器与处理大型图像**卷积与池化）
+D0173624`UFLDL教程笔记及练习答案二（预处理：主成分分析和白化）
+D0813091`算法系列笔记9(字符串匹配)
+D0130157`算法系列笔记1(排序)
+D0144946`算法系列笔记6(动态规划—最长公共子序列/串lcs和最长递增子序列(LIS))
+D0173494`最小二乘法和最大似然估计

@@ -1,0 +1,6 @@
+D0057221`Web Service的工作原理
+D0442611`伪静态--urlrewrite
+D0251898`web service的定义
+D0402510`eclipse安装Axis2插件和简单的webservice发布
+D0449261`Jersey框架一：Jersey RESTful WebService框架简介
+D0716723`从头认识java-14.3 多维数组

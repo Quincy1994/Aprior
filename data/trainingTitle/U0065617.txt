@@ -1,0 +1,30 @@
+D0267331`[Python教程]2. Using the Python Interpreter/使用解释器
+D0433370`VHDL设计简单数字时钟
+D0433771`华为OJ-合唱队
+D0147798`[Python教程]3.一份非正式的Python教程
+D0505846`VHDL数据采集
+D0253647`[Python教程]1.Whetting Your Appetite-前言
+D0592822`Linux下快捷键开关触控板
+D0443039`Python 入门指南翻译
+D0556622`灰度直方图
+D0430863`《VxWorks学习笔记》——实时系统
+D0709633`STM32F4使用FreeRTOS的中断
+D0123002`Linux环境开发STM32，从环境到调试
+D0267331`[Python教程]2. Using the Python Interpreter/使用解释器
+D0433370`VHDL设计简单数字时钟
+D0046401`一个多月来的面试总结(阿里, 网易, 腾讯)
+D0505846`VHDL数据采集
+D0315733`《VxWorks学习笔记》——任务属性
+D0443039`Python 入门指南翻译
+D0147798`[Python教程]3.一份非正式的Python教程
+D0819504`Mac OS X版本的sublime text 3安装汇编语言语法支持
+D0393837`3--FreeRTOS常用资源
+D0218763`一个绚丽的loading动效分析与实现！
+D0790820`STM32调试问题
+D0253647`[Python教程]1.Whetting Your Appetite-前言
+D0592822`Linux下快捷键开关触控板
+D0275267`OpenCV进行图像相似度对比的几种办法
+D0375410`FreeRTOS学习笔记——二值型信号量
+D0620952`[CSDN_Markdown]使用LaTeX基本数学公式
+D0433771`华为OJ-合唱队
+D0556622`灰度直方图

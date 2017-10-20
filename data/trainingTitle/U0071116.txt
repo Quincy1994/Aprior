@@ -1,0 +1,21 @@
+D0901949`Python安装nltk使用Ngram
+D0089503`RNN以及LSTM的介绍和公式梳理
+D0019541`Solr部署详解
+D0457854`Lucene（三）评分机制
+D0014306`LibSVM学习详细说明
+D0052833`空间统计（三）聚类分布制图
+D0103353`文本特征属性选择
+D0420604`Python中的Numpy、SciPy、MatPlotLib安装与配置
+D0340715`白话机器学习算法（五）自组织映射SOM
+D0014411`主题模型TopicModel：LDA中的数学模型
+D0065746`Lucene 4.0 原理与代码分析 – 相似度评分算法之向量空间模型（VSM）
+D0115754`我的第一本著作：Spark技术内幕上市！
+D0758079`MLlib算法简介
+D0739736`LSTM推导 源码分析
+D0287377`DeepLearning tutorial（6）易用的深度学习框架Keras简介
+D0618357`NLP的python包：pattern.en
+D0782313`Solr配置中文分词器IK Analyzer详解
+D0116782`LSTM的公式推导详解
+D0044397`京东DNN Lab首席科学家：用深度学习搞定80%的客服工作
+D0719537`计算机视觉方面的数据
+D0020179`谱聚类、Chameleon聚类、PCCA、SOM、Affinity Propagation

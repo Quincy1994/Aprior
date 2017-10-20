@@ -1,0 +1,14 @@
+D0481555`对Azure二次开发，解决资源“独占访问”的问题
+D0395390`开发篇1_如何管理证书（并上传Azure）
+D0226644`Windows Azure的可用性 摘要
+D0473852`搭载Azure的开发环境及相关资源的使用
+D0830140`微信分享 使用weixin js sdk 兼容 旧版本
+D0473852`搭载Azure的开发环境及相关资源的使用
+D0481555`对Azure二次开发，解决资源“独占访问”的问题
+D0395390`开发篇1_如何管理证书（并上传Azure）
+D0661640`半小时教你使用hexo建立一个漂亮的个人博客
+D0802923`[开发工具]_[VS2010]_[安装VS2010的MSDN本地文档]
+D0411213`基于VPN搭建混合云架构需要考虑的网络因素
+D0319532`Concise，一款为hexo设计的简约而漂亮的主题
+D0810050`python 3.4 error`Microsoft Visual C++ 10.0 is required（Unable to find vcvarsall.bat）解决办法，自研亲测可行
+D0089390`hexo搭建个人主页托管于github

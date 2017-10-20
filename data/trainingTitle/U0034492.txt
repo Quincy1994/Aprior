@@ -1,0 +1,11 @@
+D0108975`C  详解C语言中的宏定义
+D0660066`gethostbyname()和gethostbyaddr()函数说明
+D0154866`通信   CSMA/CD工作原理
+D0297172`C++  面向对象程序设计
+D0915843`C++  循环语句
+D0313008`C++  引用
+D0740154`Linux  Linux下如何编译并运行C程序
+D0915843`C++  循环语句
+D0660066`gethostbyname()和gethostbyaddr()函数说明
+D0313008`C++  引用
+D0313008`C++  引用

@@ -1,0 +1,11 @@
+D0257103`Linux文件和目录权限详解
+D0078697`Oracle索引
+D0152840`Oracle同义词
+D0306047`oracle聚簇
+D0201988`Oracle视图
+D0114731`listener.ora 、sqlnet.ora 、tnsnames.ora的关系以及手工配置
+D0748842`oracle包
+D0521051`竖表转宽表
+D0596720`Java Path和classPath
+D0114731`listener.ora 、sqlnet.ora 、tnsnames.ora的关系以及手工配置
+D0078697`Oracle索引

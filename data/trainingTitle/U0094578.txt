@@ -1,0 +1,9 @@
+D0290056`Linux/UNIX安装PostgreSQL,补充配置要求
+D0146255`hadoop 安装环境变量配置检测
+D0098919`E437`terminal capability \
+D0663400`db2,oracle,mysql常用命令比较
+D0672704`Hive合并小文件
+D0056599`淘宝分布式文件系统TFS设计
+D0753035`linux下清理缓存，以释放内存
+D0056599`淘宝分布式文件系统TFS设计
+D0205891`linux sed用法

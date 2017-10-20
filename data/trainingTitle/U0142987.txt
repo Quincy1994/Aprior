@@ -1,0 +1,51 @@
+D0104788`机器学习  Regularization and model selection
+D0072608`Convolutional Neural Networks for Visual Recognition 5
+D0097798`Convolutional Neural Networks for Visual Recognition 1
+D0611597`Convolutional Neural Networks for Visual Recognition 7
+D0591416`Python`scikit-image Blob detection
+D0312601`机器学习 从矩阵和概率的角度解释最小均方误差函数
+D0176593`机器学习 Generative Learning Algorithm (A)
+D0716499`Machine Learning 学习笔记
+D0030244`Convolutional Neural Networks for Visual Recognition 8
+D0162994`机器学习  Logistic Regression
+D0295494`Convolutional Neural Networks for Visual Recognition 3
+D0466823`机器学习 矩阵的基本运算
+D0149583`机器学习 Support Vector Machines 1
+D0166617`机器学习 Support Vector Machines 3
+D0173149`机器学习 Support Vector Machines 2
+D0080655`Convolutional Neural Networks for Visual Recognition 6
+D0656992`机器视觉 之 Gabor Feature
+D0338026`机器学习 线性回归
+D0921337`PhotoShop 图像处理 算法 汇总
+D0121835`机器学习 Generative Learning Algorithm (B)
+D0149232`Convolutional Neural Networks for Visual Recognition 4
+D0126872`Convolutional Neural Networks for Visual Recognition 2
+D0354609`机器学习 F1-Score, recall, precision
+D0104788`机器学习  Regularization and model selection
+D0921337`PhotoShop 图像处理 算法 汇总
+D0097798`Convolutional Neural Networks for Visual Recognition 1
+D0098703`深度学习研究理解8：Understanding Deep Architectures using a Recursive Convolutional Network
+D0611597`Convolutional Neural Networks for Visual Recognition 7
+D0591416`Python`scikit-image Blob detection
+D0312601`机器学习 从矩阵和概率的角度解释最小均方误差函数
+D0176593`机器学习 Generative Learning Algorithm (A)
+D0716499`Machine Learning 学习笔记
+D0030244`Convolutional Neural Networks for Visual Recognition 8
+D0162994`机器学习  Logistic Regression
+D0295494`Convolutional Neural Networks for Visual Recognition 3
+D0634881`【学习笔记】caffe for windows 安装配置
+D0466823`机器学习 矩阵的基本运算
+D0149583`机器学习 Support Vector Machines 1
+D0166617`机器学习 Support Vector Machines 3
+D0525440`图像滤镜艺术---图像滤镜晕影调节算法研究
+D0173149`机器学习 Support Vector Machines 2
+D0080655`Convolutional Neural Networks for Visual Recognition 6
+D0656992`机器视觉 之 Gabor Feature
+D0338026`机器学习 线性回归
+D0072608`Convolutional Neural Networks for Visual Recognition 5
+D0889630`CSDN-Markdown更轻松地记录你的技术博文，感谢CSDN热心博友的分享！
+D0121835`机器学习 Generative Learning Algorithm (B)
+D0149232`Convolutional Neural Networks for Visual Recognition 4
+D0405824`深度学习之caffe安装历险记
+D0354609`机器学习 F1-Score, recall, precision
+D0889630`CSDN-Markdown更轻松地记录你的技术博文，感谢CSDN热心博友的分享！

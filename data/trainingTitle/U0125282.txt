@@ -1,0 +1,21 @@
+D0323912`设计模式之-策略模式
+D0088248`SVM(Support Vector Machine)读书笔记二（支持向量和Kernel方法）
+D0133572`SVM(Support Vector Machine)读书笔记一（最佳分割超平面）
+D0214894`目标检测的图像特征提取之（三）Haar特征
+D0358884`欢迎使用CSDN-markdown编辑器
+D0347122`HDU 1269 迷宫城堡（强连通图的判定）
+D0757656`socket网络编程第一讲
+D0579322`写博客，轻松拿大奖！博客征文第二期：那些年我们一起写过的代码
+D0379167`HBase性能调优之模式设计
+D0323912`设计模式之-策略模式
+D0385904`Spark修炼之道（进阶篇）——Spark入门到精通：第十四节 Spark Streaming 缓存、Checkpoint机制
+D0819708`[编程之美]资格赛 B Palindrome
+D0151028`Ranking SVM 简介
+D0212457`超级课程表原理解析(如何获取网页内容)
+D0338867`cocos2d-x 3.2 之 三消类游戏——万圣大作战 (第三篇)
+D0814582`在C#中调用Python方法
+D0088248`SVM(Support Vector Machine)读书笔记二（支持向量和Kernel方法）
+D0063382`[Python爬虫] 中文编码问题：raw_input输入、文件读取、变量比较等str、unicode、utf-8转换问题
+D0133572`SVM(Support Vector Machine)读书笔记一（最佳分割超平面）
+D0323912`设计模式之-策略模式
+D0133572`SVM(Support Vector Machine)读书笔记一（最佳分割超平面）

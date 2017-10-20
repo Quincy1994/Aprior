@@ -1,0 +1,75 @@
+D0042297`Deep Learning论文笔记之（二）Sparse Filtering稀疏滤波
+D0105840`机器学习中的数学(3)-模型组合(Model Combining)之Boosting与Gradient Boosting
+D0133721`使用LFM（Latent factor model）隐语义模型进行Top-N推荐
+D0107394`从2-3-4树谈到Red-Black Tree（红黑树）
+D0016102`从最大似然到EM算法浅解
+D0057647`机器学习中的算法(1)-决策树模型组合之随机森林与GBDT
+D0124745`正交矩阵、正规矩阵和酉矩阵
+D0056678`Deep Learning（深度学习）学习笔记整理系列之（一）
+D0002326`通俗理解LDA主题模型
+D0339796`BP神经网络模型与学习算法
+D0034208`Deep Learning论文笔记之（七）深度网络高层特征可视化
+D0069590`Deep Learning论文笔记之（五）CNN卷积神经网络代码理解
+D0140335`Deep Learning（深度学习）学习笔记整理系列之（四）
+D0111628`机器学习中的数学(1)-回归(regression)、梯度下降(gradient descent)
+D0054559`基于3D卷积神经网络的人体行为理解（论文笔记）
+D0185663`Deep Learning（深度学习）学习笔记整理系列之（八）
+D0056322`矩阵特征值分解与奇异值分解含义解析及应用
+D0002634`从B树、B+树、B*树谈到R 树
+D0044806`机器学习中的算法(2)-支持向量机(SVM)基础
+D0287189`Gibbs Sampling(三)：补充
+D0301613`KL距离，Kullback-Leibler Divergence
+D0011381`隐马尔可夫模型（HMM）攻略
+D0134976`使用LFM（Latent factor model）隐语义模型进行Top-N推荐
+D0306155`随机梯度下降（Stochastic gradient descent）和 批量梯度下降（Batch gradient descent ）的公式对比、实现对比
+D0090407`机器学习（machine learning）之AdaBoost算法
+D0189448`从堆到优先队列的实现
+D0076590`Gibbs Sampling(二):Gibbs Sampling总结
+D0318638`RMQ算法
+D0140554`Deep Learning（深度学习）学习笔记整理系列之（二）
+D0038275`Deep Learning论文笔记之（四）CNN卷积神经网络推导和实现
+D0098672`Deep Learning论文笔记之（三）单层非监督学习网络分析
+D0078995`机器学习中的相似性度量
+D0051382`个人阅读的Deep Learning方向的paper整理
+D0179714`机器学习算法中如何选取超参数：学习速率、正则项系数、minibatch size
+D0036660`贝叶斯集锦（3）：从MC、MC到MCMC
+D0055859`Deep Learning论文笔记之（六）Multi-Stage多级架构分析
+D0065138`机器学习经典算法详解及Python实现--线性回归（Linear Regression）算法
+D0011180`深度学习概述：从感知机到深度网络
+D0047229`Deep Learning（深度学习）学习笔记整理系列之（三）
+D0031113`教你透彻了解红黑树
+D0279365`Reducing the Dimensionality of Data with Neural Networks
+D0306923`随机梯度下降（Stochastic gradient descent）和 批量梯度下降（Batch gradient descent ）的公式对比、实现对比
+D0014830`Deep Learning（深度学习）学习笔记整理系列之（七）
+D0190674`Deep Learning（深度学习）学习笔记整理系列之（五）
+D0017262`机器学习中的数据清洗与特征处理综述
+D0115675`Gibbs Sampling(一)：随机数产生方法介绍 & Monte Carlo方法
+D0037195`神经网络编程入门
+D0024605`机器学习中的数学(5)-强大的矩阵奇异值分解(SVD)及其应用
+D0255541`程序员面试、算法研究、编程艺术、红黑树、数据挖掘5大系列集锦
+D0036675`贝叶斯集锦（3）：从MC、MC到MCMC
+D0007531`核函数
+D0097616`Deep Learning（深度学习）学习笔记整理系列之（六）
+D0025085`Deep Learning论文笔记之（一）K-means特征学习
+D0090020`机器学习（machine learning）之AdaBoost算法
+D0067238`Deep Learning论文笔记之（八）Deep Learning最新综述
+D0062952`机器学习中的数学(4)-线性判别分析（LDA）, 主成分分析(PCA)
+D0002324`通俗理解LDA主题模型
+D0394225`Windows下Anaconda的安装和简单使用
+D0190674`Deep Learning（深度学习）学习笔记整理系列之（五）
+D0358435`基于内容可变长度分块Content Defined Chunking
+D0057647`机器学习中的算法(1)-决策树模型组合之随机森林与GBDT
+D0617687`程序员必看的书
+D0047229`Deep Learning（深度学习）学习笔记整理系列之（三）
+D0097616`Deep Learning（深度学习）学习笔记整理系列之（六）
+D0140554`Deep Learning（深度学习）学习笔记整理系列之（二）
+D0140335`Deep Learning（深度学习）学习笔记整理系列之（四）
+D0225529`EM最大期望算法
+D0280055`Reducing the Dimensionality of Data with Neural Networks
+D0185663`Deep Learning（深度学习）学习笔记整理系列之（八）
+D0014830`Deep Learning（深度学习）学习笔记整理系列之（七）
+D0133939`链接挖掘算法之PageRank算法和HITS算法
+D0572757`Python获取帮助的3种方式
+D0310226`CBA算法---基于关联规则进行分类的算法
+D0606438`《设计模式》读书笔记_A
+D0280055`Reducing the Dimensionality of Data with Neural Networks

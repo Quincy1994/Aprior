@@ -1,0 +1,36 @@
+D0159071`DICOM：参考dcm4che2扩展fo-dicom(mDCM)中的UserIdentity字段
+D0620609`基于Twemproxy的Redis集群方案
+D0170886`Maven学习（三）：maven私服nexus
+D0632271`redis源码学习（客户端）
+D0201618`redis3.0深入详解（1）
+D0463848`关于jackson的DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES
+D0029588`程序员跳槽神级攻略
+D0785432`java高分局之永久代何去何从？
+D0252392`Redis 3.0介绍及集群说明
+D0270461`Redis3.0.1集群环境搭建
+D0199638`Redis 3.0集群搭建测试（二）
+D0060107`深入了解MyBatis参数
+D0756192`又一次Maven不下载jar问题的解决
+D0913577`cxf 开发webservice 需要的jar
+D0291567`“生动”讲解——深度优先搜索与广度优先搜索
+D0230295`Redis3.0集群crc16算法php实现方法(php取得redis3.0集群中redis数据所在的redis分区插槽,并根据分区插槽取得分区所在redis服务器地址)
+D0560824`java中的监听器(listener)
+D0433652`redis集群动态增加或者删除节点
+D0547564`postgresql 数据库使用遇到的问题
+D0227588`Spring中@Transactional用法深度分析之一
+D0437431`Java学习之自动装箱和自动拆箱源码分析
+D0166921`Redis 3.0集群搭建测试（一）
+D0093081`算法荐书（程序员练功+大众科普）
+D0128933`ITFriend创业败局(三)：技术人员创业，需要尽可能避免，或者需要解决的5个重要问题
+D0889861`使用Jackson2.4解析属性首字母为大写的JSON串
+D0582613`redis3.0.0 集群安装详细步骤
+D0476803`Java入门到精通——基础篇之多线程实现简单的PV操作的进程同步
+D0762899`Redis Twitter Example
+D0271223`Redis 集成Spring（spring-data-redis）
+D0915324`Redisson操作Redis之基础篇
+D0323358`我的Java开发学习之旅------>Java使用Fork/Join框架来并行执行任务
+D0058166`我是如何学习一门新技术的
+D0903039`[精品] 收集的27个java开发常用工具类.基本满足开发需求
+D0109824`基于Maven在Spring中集成CXF Web Service框架
+D0240274`java高分局之JVM命令参数大全（标准选项）
+D0350842`maven私有仓库搭建之sonatype nexus篇

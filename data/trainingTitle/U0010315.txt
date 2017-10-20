@@ -1,0 +1,15 @@
+D0267042`ubuntu创建虚机
+D0476287`virt-install参数说明
+D0250518`RAID0 RAID1 RAID5 RAID10区别
+D0445005`云存储结构模型
+D0327852`HTML 中的块级元素和内联元素
+D0533177`Hadoop2.6深入伪分布安装（CentOS 6.5）
+D0617568`ElasticSearch 安装配置
+D0445005`云存储结构模型
+D0250518`RAID0 RAID1 RAID5 RAID10区别
+D0104810`Flume环境部署和配置详解及案例大全
+D0389719`Hadoop 2.7.1在centos 6.3下配置变量环境并安装配置伪分布式集群
+D0476287`virt-install参数说明
+D0327852`HTML 中的块级元素和内联元素
+D0116640`apache-hadoop-1.2.1、hbase、hive、mahout、nutch、solr安装教程
+D0267042`ubuntu创建虚机

@@ -1,0 +1,7 @@
+D0386076`Hive 安装及使用攻略
+D0050591`Hadoop核心架构HDFS+MapReduce+Hbase+Hive内部机理详解
+D0204419`是男人就下100层【第六层】——高仿豆瓣客户端
+D0555537`mysql root用户没有超级权限或忘记密码 【为root设置密码后，再次登录，就看不到mysql数据库了，原来】
+D0521394`解决方案-DynamicReports输出PDF报表的中文显示问题
+D0659707`Hbase  +   Mapreduce  +  eclipse实例
+D0170204`开发中经常用到的快捷方式

@@ -1,0 +1,13 @@
+D0897195`Tomcat jaas 配置
+D0086550`mysql 优化
+D0016696`Spring MVC 教程,快速入门,深入分析
+D0577779`EJB+JPA CRUD实现
+D0122150`Java使用itext生成PDF报表
+D0124368`LOG4J.PROPERTIES配置详解
+D0840536`EJB部署在JBoss下的datasource配置
+D0006557`15个NoSql数据库
+D0479602`实现JS复制、粘贴，Chrome/Firefox下可用
+D0703017`《linux从入门到精通》刘忆智  （我再次说， 这类书，入门是可以的， 精通则完全是忽悠骗人的）
+D0921761`activeMQ Transport
+D0016696`Spring MVC 教程,快速入门,深入分析
+D0869328`eclipse 异常 Subversion Native Library Not Available解决方案

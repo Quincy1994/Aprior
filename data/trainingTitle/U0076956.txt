@@ -1,0 +1,9 @@
+D0572293`【C++11】新特性——auto的使用
+D0808119`【ZooKeeper Notes 4】可视化ZooKeeper的事务日志
+D0678207`cJSON源码解释（二）--解释输入
+D0007407`字符流stringstream详解
+D0274431`【源码剖析】MemoryPool —— 简单高效的内存池 allocator 实现
+D0496389`机器学习与数据挖掘-K最近邻(KNN)算法的实现（java和python版）
+D0006087`Kafka深度解析
+D0478017`如何离线安装chrome插件
+D0808801`Webbench源代码分析

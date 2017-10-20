@@ -1,0 +1,39 @@
+D0150668`JNI入门学习
+D0242564`SlidingMenu测拉布局使用详解
+D0338728`CSDN的CODE平台使用
+D0819709`Leo仿【DOTA视频站】项目实践【二】---- 优库SDK学习
+D0768871`VideoView申请音频焦点问题
+D0202957`getResponseCode获取URL响应状态码
+D0567602`Leo仿【DOTA视频站】项目实践【五】---- fragment中嵌套viewpage、fragment实现从优酷中下载视频
+D0479730`魅族/锤子/苹果 悬停效果的实现
+D0923083`开关机压力测试APK学习
+D0845429`UNEXPECTED TOP-LEVEL EXCEPTION异常
+D0500111`Leo仿【DOTA视频站】项目实践【四】---- 授权获取优酷access_token
+D0629357`Leo仿【DOTA视频站】项目实践【三】---- 获取DOTA2视频已经XListView实现上拉加载更多、下拉刷新
+D0836152`Android各国语言对照表
+D0667705`Leo仿【DOTA视频站】项目实践【一】----Fragment、Tab实现
+D0004080`深入理解Android之Gradle
+D0580672`Android 调用优酷SDK上传视频
+D0181643`android学习笔记(15)Android消息机制
+D0385915`Linearlayout添加监听事件
+D0144023`一个由内存泄漏引发的血案-Square
+D0629357`Leo仿【DOTA视频站】项目实践【三】---- 获取DOTA2视频已经XListView实现上拉加载更多、下拉刷新
+D0836152`Android各国语言对照表
+D0155520`Android中Listview（八）--下拉刷新ListView
+D0338728`CSDN的CODE平台使用
+D0819709`Leo仿【DOTA视频站】项目实践【二】---- 优库SDK学习
+D0479730`魅族/锤子/苹果 悬停效果的实现
+D0845429`UNEXPECTED TOP-LEVEL EXCEPTION异常
+D0837259`如何解决Android 5.0中出现的警告：Service Intent must be explicit
+D0389334`unity调用android原生接口
+D0242564`SlidingMenu测拉布局使用详解
+D0768871`VideoView申请音频焦点问题
+D0202957`getResponseCode获取URL响应状态码
+D0114150`Android XListView实现原理讲解及分析
+D0667705`Leo仿【DOTA视频站】项目实践【一】----Fragment、Tab实现
+D0359522`ViewOverlay与animation介绍
+D0150668`JNI入门学习
+D0266632`上门洗车APP --- Android客户端开发 之 网络框架封装介绍（二）
+D0811525`(高小德用车)高仿滴滴/快的应用源码
+D0567602`Leo仿【DOTA视频站】项目实践【五】---- fragment中嵌套viewpage、fragment实现从优酷中下载视频
+D0923083`开关机压力测试APK学习

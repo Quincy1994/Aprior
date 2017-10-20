@@ -1,0 +1,23 @@
+D0813711`The first (for-each,数组)
+D0418232`数据库范式
+D0350034`hadoop,jdk在centos上的的安装
+D0732877`The third (构造方法)
+D0903573`Menu和例子中的静态方法
+D0928876`JDK和Hadoop的安装过程
+D0547465`The fifth(static实例)
+D0555385`宿主机和Linux通信
+D0085939`PCA
+D0115437`共轭梯度法,最速下降法和牛顿法
+D0003321`贝叶斯
+D0185855`The forth (final ,对象的可见性)
+D0818800`Linux下配置ssh
+D0208938`The second(static)
+D0813711`The first (for-each,数组)
+D0350034`hadoop,jdk在centos上的的安装
+D0732877`The third (构造方法)
+D0085939`PCA
+D0928876`JDK和Hadoop的安装过程
+D0115437`共轭梯度法,最速下降法和牛顿法
+D0003321`贝叶斯
+D0818800`Linux下配置ssh
+D0208938`The second(static)

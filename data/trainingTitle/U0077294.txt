@@ -1,0 +1,13 @@
+D0261638`VS2013配置Caffe卷积神经网络工具（64位Windows 7）——准备依赖库
+D0344635`ROS 学习系列 --  RViz 实时观测机器人建立导航2D封闭空间地图过程 (SLAM)
+D0131678`（七）立体标定与立体校正 【计算机视觉学习笔记--双目视觉几何框架系列】
+D0196986`TCP send 阻塞与非阻塞
+D0551449`图像处理之基于NCC模板匹配识别
+D0435911`VS2013配置Caffe卷积神经网络工具（64位Windows 7）——建立工程
+D0477858`八、走向三维
+D0540966`Recall(召回率);Precision（准确率）;F1-Meature（综合评价指标）;true positives；false positives;false negatives..
+D0227477`【特征检测】BRISK特征提取算法
+D0500278`Image classification with deep learning常用模型
+D0275267`OpenCV进行图像相似度对比的几种办法
+D0154478`CUDA系列学习（五）GPU基础算法`Reduce, Scan, Histogram
+D0608366`android中自定义的对话框中的EditText无法弹出输入法解决方案

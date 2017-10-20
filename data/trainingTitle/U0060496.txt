@@ -1,0 +1,120 @@
+D0025241`NS2 学习笔记—— AODV协议
+D0317580`6LowPAN——最后一公里接入
+D0234276`更换zigbee设备导致节点地址冲突的流程解析
+D0293866`讲一讲WiFi快连、SmartConfig、SmartConnect
+D0686384`零java基础搞定微信Server_2：Servlet基础
+D0511234`好好读书以后才能回家种田！农业管理系统Granular获420万美元融资，总融资达2770万美元
+D0663510`增强现实(AR)笔记4：ObjectRecognition实操
+D0407093`增强现实(AR)笔记3：使用Vuforia Object Scaner来扫描物体
+D0238968`BB-8机器人在美国亚马逊的买家评价
+D0173697`产品经理如何做好行业研究及竞争对手分析工作
+D0222119`加入ZigBee联盟，共画物联网的未来
+D0540272`关联AssociatedDevList表的操作
+D0771455`ESP8266学习笔记7：保存和读取自定义参数
+D0832585`零java基础搞定微信Server_6:微信公众号的文本消息处理
+D0292693`zigbee的扩频技术了解
+D0049083`IT企业专利工程师之三：计算机技术领域专利挖掘刍议
+D0083459`开源点评：Protocol Buffers介绍
+D0853879`markdown的初体验
+D0428200`ZBOSS_Sniffer用开源方案实现CC2530的抓包
+D0109013`各种License
+D0373335`增强现实(AR)笔记：Vuforia及Unity3D
+D0130044`Servlet中Web.xml的配置
+D0856414`802.15.4的MacPayload最大长度
+D0456856`yeelink平台试玩
+D0602364`增强现实(AR)笔记2：Vuforia+Unity例程ObjectRecognition
+D0920560`Visual C++学习笔记1：一定要注意ANSI和UNICODE的区别
+D0739323`分享一个开源的流程图绘制软件--Diagram Designer
+D0780409`零java基础搞定微信Server_5:启用微信公众号开发模式
+D0434066`零java基础搞定微信Server_3：搭建微信Server本地开发环境
+D0719557`AES五种加密模式（CBC、ECB、CTR、CFB、OCF）
+D0705980`Visual C++学习笔记2：对话框布局操作
+D0261917`增强现实(AR)学习笔记1：Vuforia开发准备
+D0527070`CC1310笔记1：开发准备
+D0381870`栈空间溢出
+D0859665`Jlink克隆版和谐处理
+D0880927`慢慢理解RESTful架构
+D0647020`零java基础搞定微信Server
+D0412078`ESP8266学习笔记8：ESP8266接入机智云
+D0644214`CC254x(cc2540/cc2541)的微信AirSync调试笔记
+D0358805`ns2_aodv的部分代码解读
+D0339928`零java基础搞定微信Server_1：XML基础学习
+D0506253`ESP8266学习笔记6：ESP8266规范wifi连接操作
+D0628037`ESP8266学习笔记2：实现ESP8266的局域网内通信
+D0828601`数据库的初体验
+D0280693`农业数字化怎么做？Insentek从大地探针入手，用动态数据指导施肥灌溉
+D0753042`ESP8266学习笔记4：ESP8266的SmartConfig
+D0251100`映射公网（花生壳、PubYun、No-IP、DynDNS、Ngrok、Tunnel、localtunnel、pagekite）
+D0434460`ESP8266学习笔记1：如何在安信可全功能测试板上实现ESP-01的编译下载和调试
+D0265992`着手智能化灌溉的 CropX 获 900 万美元 A 轮融资，谁在布局农业物联网？
+D0668422`如何避免Zigbee与Wifi的信道重叠
+D0748186`零java基础搞定微信Server_7:微信公众号的自定义菜单
+D0431252`RIME无线抄水表系统的优势
+D0025241`NS2 学习笔记—— AODV协议
+D0753042`ESP8266学习笔记4：ESP8266的SmartConfig
+D0317580`6LowPAN——最后一公里接入
+D0234276`更换zigbee设备导致节点地址冲突的流程解析
+D0293866`讲一讲WiFi快连、SmartConfig、SmartConnect
+D0739323`分享一个开源的流程图绘制软件--Diagram Designer
+D0511234`好好读书以后才能回家种田！农业管理系统Granular获420万美元融资，总融资达2770万美元
+D0490538`CSDN专家精选，微信开发学习路线大有看头！
+D0460029`私家车想开滴滴赚钱的经验
+D0382678`[CSDN_Markdown] Markdown基本语法
+D0669287`可穿戴设备（CC2541）上微信（2）
+D0536407`“扒一扒你遇到过最NB开发项目”有奖征文活动
+D0412078`ESP8266学习笔记8：ESP8266接入机智云
+D0407093`增强现实(AR)笔记3：使用Vuforia Object Scaner来扫描物体
+D0238968`BB-8机器人在美国亚马逊的买家评价
+D0173697`产品经理如何做好行业研究及竞争对手分析工作
+D0222119`加入ZigBee联盟，共画物联网的未来
+D0771455`ESP8266学习笔记7：保存和读取自定义参数
+D0292693`zigbee的扩频技术了解
+D0049083`IT企业专利工程师之三：计算机技术领域专利挖掘刍议
+D0083459`开源点评：Protocol Buffers介绍
+D0853879`markdown的初体验
+D0782275`可穿戴设备（CC2541）上微信（5）
+D0358805`ns2_aodv的部分代码解读
+D0428200`ZBOSS_Sniffer用开源方案实现CC2530的抓包
+D0331372`迟到问题，其实不扣钱的话就不是问题……
+D0109013`各种License
+D0201903`LoRa无线通信设计(二)空空距离测试
+D0373335`增强现实(AR)笔记：Vuforia及Unity3D
+D0820747`HTML5获取地理位置及百度地图展示实例
+D0130044`Servlet中Web.xml的配置
+D0856414`802.15.4的MacPayload最大长度
+D0540272`关联AssociatedDevList表的操作
+D0456856`yeelink平台试玩
+D0602364`增强现实(AR)笔记2：Vuforia+Unity例程ObjectRecognition
+D0920560`Visual C++学习笔记1：一定要注意ANSI和UNICODE的区别
+D0686384`零java基础搞定微信Server_2：Servlet基础
+D0780409`零java基础搞定微信Server_5:启用微信公众号开发模式
+D0017588`向产品宣战——开发者眼中的Android UI Design
+D0434066`零java基础搞定微信Server_3：搭建微信Server本地开发环境
+D0628037`ESP8266学习笔记2：实现ESP8266的局域网内通信
+D0705980`Visual C++学习笔记2：对话框布局操作
+D0280717`Android与Unity交互研究
+D0261917`增强现实(AR)学习笔记1：Vuforia开发准备
+D0828601`数据库的初体验
+D0381870`栈空间溢出
+D0859665`Jlink克隆版和谐处理
+D0880927`慢慢理解RESTful架构
+D0647020`零java基础搞定微信Server
+D0686723`CC2540 一主多从
+D0644214`CC254x(cc2540/cc2541)的微信AirSync调试笔记
+D0748186`零java基础搞定微信Server_7:微信公众号的自定义菜单
+D0339928`零java基础搞定微信Server_1：XML基础学习
+D0506253`ESP8266学习笔记6：ESP8266规范wifi连接操作
+D0871477`可穿戴设备（CC2541）上微信（8）
+D0527070`CC1310笔记1：开发准备
+D0280693`农业数字化怎么做？Insentek从大地探针入手，用动态数据指导施肥灌溉
+D0561232`iOS 画板的实现，具有颜色、线宽、橡皮、撤销和清屏功能
+D0719557`AES五种加密模式（CBC、ECB、CTR、CFB、OCF）
+D0251100`映射公网（花生壳、PubYun、No-IP、DynDNS、Ngrok、Tunnel、localtunnel、pagekite）
+D0431630`可穿戴设备（CC2541）上微信（1）
+D0434460`ESP8266学习笔记1：如何在安信可全功能测试板上实现ESP-01的编译下载和调试
+D0265992`着手智能化灌溉的 CropX 获 900 万美元 A 轮融资，谁在布局农业物联网？
+D0668422`如何避免Zigbee与Wifi的信道重叠
+D0419570`CSDN学院讲师招募，诚邀您加入！
+D0506253`ESP8266学习笔记6：ESP8266规范wifi连接操作
+D0753042`ESP8266学习笔记4：ESP8266的SmartConfig
+D0049216`对不起！我来晚了！——《Android群英传》出版祭

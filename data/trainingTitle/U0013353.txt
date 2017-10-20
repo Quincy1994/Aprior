@@ -1,0 +1,167 @@
+D0217833`手把手教你打造简书风格的精美个人博客
+D0219430`Android研发规范
+D0700549`Android：自定义View实现随滑动由箭头变对勾的指示按钮
+D0503932`Android Studio系列教程六--Gradle多渠道打包
+D0109961`Android组件——使用DrawerLayout仿网易新闻v4.4侧滑菜单
+D0620182`Design Support Library —— TextInputLayout
+D0028420`Gradle学习目录总结
+D0130269`android 6.0 权限管理的学习资料和使用例子
+D0758102`《剑指offer》不用加减乘除做加法
+D0488768`Android图片上传（头像裁切+原图原样）
+D0063212`打造极致Material Design动画风格Button
+D0026302`自定义控件其实很简单7/12
+D0048231`Fresco介绍 - 一个新的android图片加载库
+D0683582`Android开发相关的Blog推荐——跟随大神的脚步才能成长为大神
+D0637662`Python 文件处理的几点注意事项
+D0415817`Android夜间模式实现
+D0057713`衡量android开发者水平的面试问题-android学习之旅（91）
+D0154881`Android设计模式源码解析之ListView观察者模式
+D0120334`【Android开发经验】APP的缓存文件到底应该存在哪？看完这篇文章你应该就自己清楚了
+D0420634`requestAnimationFrame动画控制详解
+D0479805`Android Studio 下使用NDK
+D0430280`安装Ubuntu 16.04后要做的事
+D0329696`Free Image简单使用
+D0131169`Android翻页效果原理实现之曲线的实现
+D0269895`Android IntentService完全解析 当Service遇到Handler
+D0046244`Android四大视图动画图文详解
+D0646929`Camera和百度地图在TabActivity里，互相切换导致显示紊乱问题解决
+D0042012`Chromium多进程架构简要介绍和学习计划
+D0531671`Android开发--瀑布流效果的实现
+D0821446`模仿QQ拖动清除消息提示
+D0162255`玩转Android之Activity详细剖析
+D0100701`Android性能优化之解密ZAKER,网易云阅读等新闻应用的内容缓存加载方式
+D0508207`Gson之TypeAdapter的工作原理分析(1)
+D0272361`学习andriod开发之 异步加载图片--- 使用系统进度条
+D0144943`Android事件总线 ( AndroidEventBus ) 开源库发布
+D0019993`JNI/NDK开发指南（十）——JNI局部引用、全局引用和弱全局引用
+D0370613`《Android群英传》勘误
+D0380888`Android volley 解析（三）之文件上传篇
+D0392074`利用Recycleview水平平移并自动挪动Item位置（仿Instagram效果）
+D0174506`我对Android的理解
+D0114050`悬崖勒马之三年编码的反省
+D0787531`在64位ubuntu15.04中安装android studio 开发环境
+D0903080`Xposed源码剖析——hook具体实现
+D0059684`Android翻页效果原理实现之翻页的尝试
+D0254132`Android之——图片的内存优化
+D0187255`Android开发规范(编码+性能+UI)
+D0549290`电子商务系统的设计与实现(十一)：数据库设计
+D0414561`面向holder的编程，代码更清爽，管理更简单
+D0044825`Toolbar：上位的小三
+D0286541`Android Studio多渠道打包和代码混淆教程
+D0220105`深入浅出RxJava四-在Android中使用响应式编程
+D0305808`使用Material Design 创建App翻译系列---列表和卡片集的创建
+D0123605`我的匆匆2014
+D0133170`为什么我们可以在非UI线程中更新UI
+D0640180`【FastDev4Android框架开发】AndroidAnnnotations注入框架使用之第三方框架集成Otto事件总线(十四)
+D0398088`ViewDragHelper让你处理View拖动时，代码减半!
+D0155268`Android 深入理解Android中的自定义属性
+D0086070`Android RecyclerView 使用完全解析 体验艺术般的控件
+D0400786`高仿墨迹天气下拉拉伸图片
+D0105974`我的2014年总结 - 一些失败的面试经历
+D0299777`Canvas开篇之drawBitmap方法讲解
+D0028060`自定义控件其实很简单2/3
+D0081288`【凯子哥带你做高仿】“煎蛋”Android版的高仿及优化（一）——逆向工程及TcpDump抓包入门
+D0581608`打造AbsListView、RecyclerView的通用Adapter
+D0273999`Android  事件分发
+D0252687`《开源项目系列》 --- 简阅
+D0179620`Activity的launchMode详细分析
+D0476932`实现Android支付宝声波支付时的波纹视图
+D0059516`给Android程序员的一些面试建议
+D0127180`Android中资源管理机制详细分析
+D0028715`Android应用Loaders全面详解及源码浅析
+D0393101`Android源码分析--Zygote进程分析
+D0474345`高效抽取loading，再多的加载页面也不怕
+D0372513`一扫天下——ZXing使用全解析
+D0212486`Android Studio使用技巧系列教程（一）
+D0172146`Android OkHttp完全解析 是时候来了解OkHttp了
+D0266632`上门洗车APP --- Android客户端开发 之 网络框架封装介绍（二）
+D0132506`Android WebView开发问题及优化汇总
+D0844820`开发网站合集
+D0659487`实现一个Material效果的ProgressBar
+D0631329`一个比较有趣的 Android 动画效果
+D0049595`Android中Loader及LoaderManager的使用（附源码下载）
+D0747611`Android studio中正确引入so文件的方法
+D0206420`天罗地网——Python爬虫初初初探
+D0436949`[Android]仿京东手机端类别页
+D0268707`Android 开发 Eclipse 内存调整
+D0025435`Android ListView异步加载图片乱序问题，原因分析及解决方案
+D0127386`2014个人总结
+D0508588`LiteHttp 第十三节：多层缓存机制及用法
+D0148127`教你写Android网络框架之基本架构
+D0008208`Android屏幕适配全攻略(最权威的官方适配指导)
+D0280826`android继续探索Fresco
+D0465386`安卓开发常用网站
+D0163115`Android翻页效果原理实现之模拟扭曲
+D0620932`几篇最近看的Android 插件+打包文章记录
+D0068896`Android View绘制机制
+D0618054`A019-布局之GridLayout
+D0119259`Android基础入门教程——8.3.16 Canvas API详解(Part 1)
+D0591793`android横竖屏切换布局处理及屏幕旋转处理
+D0322734`【Android开发经验】ViewHolder到底用什么修饰？static？final？static final？
+D0476700`Android自定义控件之仿\b京东商城下拉刷新
+D0360395`Android异步加载全解析之IntentService
+D0235189`打造android ORM框架opendroid(四)——优雅的删除数据
+D0197817`android后台服务service全解析(上)--service的使用与本地通信
+D0397337`Android 你应该知道的学习资源 进阶之路贵在坚持
+D0549834`android onNewIntent()方法及说明
+D0633402`【凯子哥带你夯实应用层】使用ActionProvider实现子菜单时遇到的一个坑
+D0189812`Objective-C 与 Swift 混编之路
+D0152026`Android单点触控技术，对图片进行平移，缩放，旋转操作
+D0304780`学习抓包之如何用Charles实现“刷楼”
+D0335656`开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载
+D0796028`AndroidBinder进程间通信系统-android学习之旅（86）
+D0071279`Android最佳性能实践(三)——高性能编码优化
+D0750291`Ubuntu15.04+Wine+QQ6.8成功安装运行
+D0173217`Android异步加载全解析之引入一级缓存
+D0396006`【Android语音合成TTS】国内主流引擎对比
+D0337352`深入浅出Android Support Annotations
+D0431226`Android基础入门教程——2.5.3 AlertDialog(对话框)详解
+D0684190`Android 中使用Lambda表达式
+D0255348`github开源Android资源整理（八）工具库
+D0135762`NineOldAnimations 设计解析
+D0384054`Android基础入门教程——8.3.12 Paint API之—— PathEffect(路径效果)
+D0169124`Android中的TRIM优化
+D0475567`整合大量开源库项目（七）ListView迁移成 RecyclerView
+D0106810`Android L中水波纹点击效果的实现
+D0351387`详细回复某个CSDN网友，对我的文章和技术实力以及CSDN的吐槽
+D0083260`颤抖了吗？九步逆向破解银行安全令牌
+D0069181`Android Https相关完全解析 当OkHttp遇到Https
+D0343064`【API Guides】Android字符串资源的格式化和样式
+D0248204`Android 打造形形色色的进度条  实现可以如此简单
+D0208677`图像滤镜艺术---ZPhotoEngine超级算法库
+D0091257`Android 屏幕适配方案
+D0051669`自定义控件其实很简单1/2
+D0382405`Linux内核源代码情景分析-虚拟文件系统
+D0288497`AndroidEventBus ( 事件总线 ) 的设计与实现
+D0400261`Android不发版也能在线修Bug？——AndFix 框架
+D0337000`Android基础入门教程——1.6 .9(九妹)图片怎么玩
+D0522316`自定义View----点击滑动选择字母列表
+D0472047`android  动画原理源码分析之Animation
+D0039946`Android最佳性能实践(一)——合理管理内存
+D0049838`Android Context完全解析，你所不知道的Context的各种细节
+D0236453`Android4.4制作自有SDK探析
+D0354162`在Ubutu（14.10）的Eclipse启动Tomcat，以及部署问题
+D0640441`Android实战技巧之十四：混淆与反编译
+D0425680`Acticity和Intent精准定义
+D0175359`Android 高清加载巨图方案 拒绝压缩图片
+D0233164`Android开发技巧——实现可复用的ActionSheet菜单
+D0207341`Android中Activity执行restart过程中涉及到的四种数据存储恢复的方法
+D0133621`Android事件分发完全解析之为什么是她
+D0011271`Android应用开发编译框架流程与IDE及Gradle概要
+D0041134`自定义控件其实很简单3/4
+D0011741`Android应用开发之所有动画使用详解
+D0294105`Fragment 生命周期怎么来的？
+D0138633`Android Fragment 你应该知道的一切
+D0263959`一个大公司程序员的牢骚
+D0084501`Android DiskLruCache 源码解析 硬盘缓存的绝佳方案
+D0155627`Android分包MultiDex原理详解
+D0130296`Android事件分发完全解析之事件从何而来
+D0047141`FaceBook推出的Android图片加载库-Fresco
+D0051669`自定义控件其实很简单1/2
+D0360395`Android异步加载全解析之IntentService
+D0032283`Android翻页效果原理实现之引入折线
+D0089868`Android的消息机制之ThreadLocal的工作原理
+D0059684`Android翻页效果原理实现之翻页的尝试
+D0370613`《Android群英传》勘误
+D0059684`Android翻页效果原理实现之翻页的尝试
+D0032283`Android翻页效果原理实现之引入折线

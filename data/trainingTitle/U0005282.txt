@@ -1,0 +1,75 @@
+D0508906`hdu-1869-六度分离（dijkstra）
+D0407979`hdu-1513-Palindrome
+D0577586`hdu-2066-一个人的旅行（dijkstra）
+D0359091`欢迎使用CSDN-markdown编辑器
+D0669957`hdu-1181-变形课
+D0265064`struct  和 typedef struct  区别和用法总结
+D0363378`欢迎使用CSDN-markdown编辑器
+D0870813`邻接表详解
+D0647121`hdu-1596-find the safest road（dijkstra）
+D0656951`NYOJ-757-期末考试
+D0541821`HDU-4552-怪盗基德的挑战书
+D0499574`hdu-2546-饭卡
+D0576089`HDU-1896-Stones
+D0830395`hdu-4883- (Best Coder) TIANKENG’s restaurant
+D0669489`HDU-1251-统计难题（未完待续 还有两种方法还没整理）
+D0591562`NYOJ-448-寻找最大数
+D0686680`HDU-1003- Max Sum （动态规划）
+D0552575`hdu-2112-HDU Today(dijkstra + map）
+D0760140`hpu-1690-CZY的组合数烦恼
+D0504703`POJ-1328-Radar Installation
+D0490903`HDU-1232-畅通工程（未完待续）
+D0798610`HDU-2199-Can you solve this equation
+D0655419`HDU-1272-小希迷宫
+D0674982`hdu-2544-最短路（SPFA）
+D0289486`HDU-2187-悼念512汶川大地震遇难同胞——老人是真饿了
+D0546720`HDU-1233-还是畅通工程
+D0685347`strtok的基本用法
+D0565584`hdu-1874-畅通工程续（dijkstra + SPFA ）
+D0785493`hpu-1690-CZY的组合数烦恼
+D0508906`hdu-1869-六度分离（dijkstra）
+D0448203`HPUACM2014级第三周练习赛解题报告
+D0407979`hdu-1513-Palindrome
+D0577586`hdu-2066-一个人的旅行（dijkstra）
+D0695928`hpuoj1694  打败魔王【BFS】
+D0893809`lightoj1079(数学概率与期望)
+D0289486`HDU-2187-悼念512汶川大地震遇难同胞——老人是真饿了
+D0530524`poj 2251Dungeon Master+hdu 1253 胜利大逃亡(bfs)
+D0669957`hdu-1181-变形课
+D0265064`struct  和 typedef struct  区别和用法总结
+D0697246`HDU 1091 空心三角形
+D0870813`邻接表详解
+D0736022`hd2553 N皇后问题
+D0748373`HDOJ 题目2089 不要62（数位DP，重刷）
+D0643288`1501110919-蓝桥杯-算法训练 字串统计
+D0685347`strtok的基本用法
+D0656951`NYOJ-757-期末考试
+D0541821`HDU-4552-怪盗基德的挑战书
+D0499574`hdu-2546-饭卡
+D0576089`HDU-1896-Stones
+D0830395`hdu-4883- (Best Coder) TIANKENG’s restaurant
+D0733480`CZY的工程
+D0669489`HDU-1251-统计难题（未完待续 还有两种方法还没整理）
+D0591562`NYOJ-448-寻找最大数
+D0686680`HDU-1003- Max Sum （动态规划）
+D0552575`hdu-2112-HDU Today(dijkstra + map）
+D0662555`HDOJ 畅通工程再续(最小生成树--prime)
+D0760140`hpu-1690-CZY的组合数烦恼
+D0504703`POJ-1328-Radar Installation
+D0876238`nyoj 44 子串和 【DP】
+D0758171`nyoj  757  期末考试【优先队列】【快排】
+D0655419`HDU-1272-小希迷宫
+D0490903`HDU-1232-畅通工程（未完待续）
+D0049216`对不起！我来晚了！——《Android群英传》出版祭
+D0798610`HDU-2199-Can you solve this equation
+D0742648`LightOJ - 1079 Just another Robbery 概率 ＋ dp
+D0674982`hdu-2544-最短路（SPFA）
+D0528826`河南理工大学oj 1704 祈福天津
+D0546720`HDU-1233-还是畅通工程
+D0647121`hdu-1596-find the safest road（dijkstra）
+D0565584`hdu-1874-畅通工程续（dijkstra + SPFA ）
+D0785493`hpu-1690-CZY的组合数烦恼
+D0891663`并查集的“并优化”（leader合并）和“查优化”（路径压缩）
+D0669489`HDU-1251-统计难题（未完待续 还有两种方法还没整理）
+D0841886`HDU3117 Fibonacci Numbers 【通项公式】
+D0432274`不要62（数位DP）

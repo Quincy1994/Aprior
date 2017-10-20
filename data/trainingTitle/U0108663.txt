@@ -1,0 +1,4 @@
+D0413511`python实现SlopeOne
+D0584713`KNIMI数据挖掘建模与分析系列_001_利用KNIMI做演员关系网络分析
+D0009271`阿里腾讯实习生题目
+D0413511`python实现SlopeOne

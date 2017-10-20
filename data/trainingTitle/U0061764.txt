@@ -1,0 +1,70 @@
+D0395635`解决Eclipse的Content assist空格键 \
+D0621535`android学习之线程和消息处理
+D0476204`Android学习之发送短信和接收验证码
+D0678535`HorizontalListView的应用：Listview中完美嵌套HorizontalListView
+D0505503`JAVA学习笔记-面向对象
+D0703312`Android Studio离线安装gradle（亲测可用）
+D0427430`Android之Fragment的基本使用
+D0198915`Android Drawable 那些不为人知的高效用法
+D0911877`Android问题集锦之三十四：android studio导入项目下载gradle-x.x.x-all.zip
+D0174506`我对Android的理解
+D0422577`Fragment跳转时传递参数及结果回传的方法
+D0262459`Android内存泄露分析简要思路
+D0017213`【凯子哥带你学Framework】Activity启动过程全解析
+D0192466`Android源码大放送之material design类型
+D0089403`Android仿微信图片上传，可以选择多张图片，缩放预览，拍照上传等
+D0505503`JAVA学习笔记-面向对象
+D0069181`Android Https相关完全解析 当OkHttp遇到Https
+D0015708`Android中Canvas绘图基础详解（附源码下载）
+D0672527`Android Studio 注释模板
+D0863065`安装GenyMotion时出现的错误解决
+D0254162`Android 数据库框架ormlite 使用精要
+D0177922`你所不知道的Activity转场动画——ActivityOptions
+D0081921`Fragment详解之六——如何监听fragment中的回退事件与怎样保存fragment状态
+D0293486`PullScrollView详解（六）——延伸拓展（listview中getScrollY()一直等于0、ScrollView中的overScrollBy）
+D0576638`关于自定义TextView排版分散对齐的思路
+D0248529`Android Studio(AS)-->导入项目
+D0395635`解决Eclipse的Content assist空格键 \
+D0011743`Android中自定义视图View之---前奏篇
+D0051669`自定义控件其实很简单1/2
+D0888110`eclipse 中使用genymotion ;
+D0195802`Android 不规则封闭区域填充 手指秒变油漆桶
+D0678535`HorizontalListView的应用：Listview中完美嵌套HorizontalListView
+D0599004`Android studio 自动导入(全部)包 import
+D0884492`在AndroidStudio中创建java应用
+D0138633`Android Fragment 你应该知道的一切
+D0022482`Android属性动画完全解析(上)，初识属性动画的基本用法
+D0057430`Android属性动画完全解析(中)，ValueAnimator和ObjectAnimator的高级用法
+D0299393`android之View坐标系（view获取自身坐标的方法和点击事件中坐标的获取）
+D0186253`Android Context 上下文 你必须知道的一切
+D0639914`强烈推荐android studio用的几个插件
+D0113560`Android TagFlowLayout完全解析 一款针对Tag的布局
+D0389318`Android slidingmenu详解 优化侧滑
+D0476204`Android学习之发送短信和接收验证码
+D0285522`胖虎谈ImageLoader框架(一)
+D0054566`夯实JAVA基本之一 —— 泛型详解(1):基本使用
+D0113896`Android 打造炫目的圆形菜单  秒秒钟高仿建行圆形菜单
+D0397337`Android 你应该知道的学习资源 进阶之路贵在坚持
+D0188190`PhotoView开源项目剖析
+D0427430`Android之Fragment的基本使用
+D0162977`ContentProvider数据库共享之——概述
+D0721274`Android实战简易教程-第三十九枪（第三方短信验证平台Mob和验证码自动填入功能结合实例）
+D0053258`Android学习路线指南
+D0831926`云之讯语音、短信验证码实现
+D0031273`夯实JAVA基本之二 —— 反射（1）：基本类周边信息获取
+D0156252`胖虎谈ImageLoader框架(四)
+D0621535`android学习之线程和消息处理
+D0116200`Fragment详解之五——Fragment间参数传递
+D0039379`PullScrollView详解（二）——Animation、Layout与下拉回弹
+D0286892`Android ListView 侧滑效果实现(滑动展开、滑动删除)
+D0301299`打造你的开发神器——介绍Android Studio上的几个插件
+D0099979`Android 自定义控件 优雅实现元素间的分割线 （支持3.0以下）
+D0146074`Volley 图片加载相关源码解析
+D0358419`Android Studio 1.4带来的福利
+D0130296`Android事件分发完全解析之事件从何而来
+D0832430`Error:Execution failed for task ':app:compileDebugAidl'. > aidl is missing（Android Studio编译错误）
+D0032283`Android翻页效果原理实现之引入折线
+D0703312`Android Studio离线安装gradle（亲测可用）
+D0274627`Android 自定义控件玩转字体变色  打造炫酷ViewPager指示器
+D0268572`Android studio 导入github工程
+D0043627`Android最佳性能实践(四)——布局优化技巧

@@ -1,0 +1,11 @@
+D0002256`SVM-支持向量机算法概述
+D0451372`BP误差反传神经网络
+D0202342`修改MFC标题栏上的图标和修改MFC窗口标题
+D0080760`静态分割窗口与多视图实例
+D0262013`界面布局动态调整
+D0115380`Bilateral Filtering(双边滤波) for SSAO
+D0665515`pycharm ImportError`No module named caffe
+D0245045`如何快糙好猛地在Windows下编译CAFFE并使用其matlab和python接口
+D0329525`基于GraphCuts图割算法的图像分割----OpenCV代码与实现
+D0451372`BP误差反传神经网络
+D0686032`caffe示例实现之7Flask web服务器上的图像分类demo

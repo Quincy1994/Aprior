@@ -1,0 +1,14 @@
+D0792536`仿微信/支付宝的密码输入框效果 android
+D0681181`支持群聊+语音聊天+高仿QQ源码下载 （android前端+JAVA后台+spark<windows版聊天>）方便集成到自己系统
+D0890670`Android-自定义Actionbar左侧覆盖不全的bug修复
+D0826744`仿微信/支付宝的密码输入框效果 android
+D0785162`Android仿qq聊天记录待定与删除功能效果
+D0431871`Android酷炫实用的开源框架（UI框架）
+D0164914`Android自定义View——自定义搜索框（SearchView）
+D0434005`Android联动选择时间和地址
+D0866269`Android添加新版本支持包V7后自定义ActionBar左侧有空白，不能玩全填充问题解决
+D0667498`Android UI设计`分享一个仿QQ聊天消息提示可以拖拉气泡
+D0580968`Android apk中安装另一个apk
+D0662275`Android实战技巧之二十八：启动另一个App/apk中的Activity
+D0102898`Android AutoLayout全新的适配方式 堪称适配终结者
+D0747611`Android studio中正确引入so文件的方法

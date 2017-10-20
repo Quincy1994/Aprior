@@ -1,0 +1,19 @@
+D0040060`机器学习时代：深度学习的讲座
+D0115561`Caffe到底训练出了个什么东西：caffemodel解析
+D0036563`Watson之心：DeepQA
+D0225540`深度学习 caffe 建自己的数据库 训练一个自创卷积神经网络 过程总结
+D0266816`Caffe中的优化方法：SGD、ADAGRAD、NAG，loss的计算
+D0329353`caffe的基本数据结构
+D0002637`Nature：深度学习的现在和未来：DeepLearning、无监督学习、NLP
+D0002281`从入门到精通：SVM支持向量机
+D0006856`深度学习的革命（研究现状综述）
+D0137458`Caffe2——cifar10数据集创建lmdb或leveldb类型的数据
+D0002637`Nature：深度学习的现在和未来：DeepLearning、无监督学习、NLP
+D0225540`深度学习 caffe 建自己的数据库 训练一个自创卷积神经网络 过程总结
+D0839428`cuda-convnet2与caffe对比
+D0266816`Caffe中的优化方法：SGD、ADAGRAD、NAG，loss的计算
+D0235785`设计模式C++实现（1）——工厂模式
+D0245045`如何快糙好猛地在Windows下编译CAFFE并使用其matlab和python接口
+D0294302`常用人脸数据库
+D0678403`sklearn特征选择和分类模型
+D0232352`利用随机前馈神经网络生成图像观察网络复杂度

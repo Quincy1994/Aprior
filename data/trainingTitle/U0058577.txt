@@ -1,0 +1,16 @@
+D0153095`自动测试如何选择自动化测试框架_机器擅长回归测试，人类善于寻找Bug _Pekka Klärck
+D0560567`自动化测试框架的目标定义
+D0874309`定期清理 2周前 指定目录 指定层级 指定后缀 的文件
+D0699464`robot framework用SSHLibrary发送ctrl-c 等控制字符(control character)到远端 ssh server（如linux server）的表格代码
+D0499986`xp APPIUM 安装初探
+D0499986`xp APPIUM 安装初探
+D0147863`Spring概述
+D0298919`使用Appium进行多设备的集群分布式UI自动化测试
+D0560567`自动化测试框架的目标定义
+D0699464`robot framework用SSHLibrary发送ctrl-c 等控制字符(control character)到远端 ssh server（如linux server）的表格代码
+D0148247`C语言读写文件
+D0029588`程序员跳槽神级攻略
+D0875666`小技巧：如何不用翻墙来使用命令行的Appium控制
+D0153095`自动测试如何选择自动化测试框架_机器擅长回归测试，人类善于寻找Bug _Pekka Klärck
+D0527899`树莓派自动启动设置
+D0874309`定期清理 2周前 指定目录 指定层级 指定后缀 的文件

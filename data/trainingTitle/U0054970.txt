@@ -1,0 +1,10 @@
+D0158401`apk，task，进程区别
+D0105974`我的2014年总结 - 一些失败的面试经历
+D0757281`三、Fresco——在代码中使用Drawees
+D0535305`Fresco最最最简单使用
+D0245760`Android windowSoftInputMode软键盘显示和隐藏的监听和实现
+D0394114`java中的SecureRandom在linux中的实现
+D0158401`apk，task，进程区别
+D0404436`将修正好的Xlistview镶嵌进项目中
+D0904313`android微信支付
+D0020683`【凯子哥带你夯实应用层】Android的Google官方设计指南（上）

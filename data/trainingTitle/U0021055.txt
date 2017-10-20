@@ -1,0 +1,17 @@
+D0918526`Android常用工具代码块（持续更新）
+D0000853`Java面试题全集（上）
+D0248204`Android 打造形形色色的进度条  实现可以如此简单
+D0549918`android使用inSampleSize、inScaled、inDensity、inTargetDensity对图片进行缩放
+D0910916`Android问题集锦之二十八：You need to use a Theme.AppCompat theme (or descendant) with this activity.
+D0199149`android使用inSampleSize、inScaled、inDensity、inTargetDensity对图片进行缩放
+D0907596`LeetCode-Number of 1 Bits
+D0212607`Android framework层JNI的使用浅析
+D0005356`当在浏览器中输入Google.com并且按下回车之后发生了什么？(超详细)
+D0003375`GitHub上史上最全的Android开源项目分类汇总
+D0419005`Android百度地图导航部分报JNI相关错误
+D0138633`Android Fragment 你应该知道的一切
+D0452726`Android之Dialog详解
+D0918526`Android常用工具代码块（持续更新）
+D0089403`Android仿微信图片上传，可以选择多张图片，缩放预览，拍照上传等
+D0148818`Android组件——使用DrawerLayout仿网易新闻v4.4侧滑菜单
+D0008741`Java面试题全集（中）

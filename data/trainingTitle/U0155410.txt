@@ -1,0 +1,298 @@
+D0440315`OpenCV Python教程（1、图像的载入、显示和保存）
+D0134158`浅谈算法和数据结构`八 平衡查找树之2-3树
+D0127069`浅说机器学习中“迭代法”
+D0005397`Python]网络爬虫
+D0200270`GMM-HMM语音识别模型 原理篇
+D0002209`一步步教你Hadoop多节点集群安装配置
+D0063562`鸟类及动物声音辨识方法原理进展境况转自知乎
+D0605164`Hadoop中的一些基本操作
+D0081825`python urllib2详解及实例
+D0024202`Spark开发指南（0.8.1中文版）
+D0577064`hadoop2.6.0的eclipse插件编译和设置
+D0016160`从最大似然到EM算法浅解
+D0450580`五大常用算法之四：回溯法
+D0112389`CNN训练Cifar-10技巧
+D0076817`浅谈算法和数据结构`一 栈和队列
+D0135141`每天进步一点点——五分钟理解一致性哈希算法(consistent hashing)
+D0412571`用Theano学习Deep Learning（三）：卷积神经网络
+D0242858`SVD奇异值分解
+D0318329`漫谈 Clustering (番外篇)`Vector Quantization
+D0038623`推荐！国外程序员整理的机器学习资源大全
+D0616310`用BeautifulSoup解析Html格式的Json字符串（处理新浪微博解析不到关注情况）
+D0063293`线性判别分析（LDA）, 主成分分析(PCA)
+D0109685`目标检测的图像特征提取之（一）HOG特征
+D0294025`概率图模型（PGM）学习笔记（一）动机与概述
+D0290355`AdaBoost--从原理到实现
+D0004478`Beautiful Soup 4.2.0 文档
+D0834209`Numpy之文件存取
+D0126203`浅说机器学习中“迭代法”
+D0086948`ReLu(Rectified Linear Units)激活函数
+D0234881`Scala学习数组/映射/元组
+D0079944`漫谈 Clustering (3)`Gaussian Mixture Model
+D0055051`浅谈算法和数据结构`十一 哈希表
+D0240720`Python模拟新浪微博登录转载，是我的那篇资料来源
+D0060616`对线性回归，logistic回归和一般回归的认识
+D0173393`五大常用算法之二：动态规划算法
+D0737099`总结一下用caffe跑图片数据的研究流程接上篇
+D0216165`大牛学习爬虫经验，转自知乎
+D0531274`编写爬虫遇到的问题总结
+D0180651`Python的中文处理
+D0093933`如何生成随机数（上）
+D0388458`CUDA系列学习（三）GPU设计与结构QA & coding练习
+D0175105`概率图模型（PGM）学习笔记（四）-贝叶斯网络-伯努利贝叶斯-多项式贝叶斯
+D0389348`Caffe模型定义
+D0355247`手把手教你cuda5.5与VS2010的编译环境搭建
+D0064680`Haar特征与积分图
+D0214565`KNN(k-nearest neighbor algorithm)--从原理到实现
+D0686978`Linux 14.04 CUDA  theano安装
+D0056842`浅谈算法和数据结构`四 快速排序
+D0114582`AdaBoost中利用Haar特征进行人脸识别算法分析与总结2——级联分类器与检测过程
+D0087017`卷积神经网络
+D0028811`最大熵模型中的数学推导
+D0089252`Hadoop 集群 傻瓜式搭建手记 （一） 软件准备
+D0403454`【面向代码】学习 Deep Learning（四） Stacked Auto-Encoders(SAE)
+D0018784`谷歌大脑科学家 Caffe缔造者 贾扬清 微信讲座完整版
+D0102419`CUDA(六). 从并行排序方法理解并行化思维——冒泡、归并、双调排序的GPU实现
+D0146049`CUDA系列学习（二）CUDA memory & variables - different memory and variable types
+D0213162`怎么在Caffe中配置每一个层的结构
+D0216174`漫谈 Clustering (番外篇)`Expectation Maximization
+D0191663`OpenNI XnSkeletonJointOrientation 簡單分析
+D0159604`OpenCV-Python教程（11、轮廓检测）
+D0161454`OpenCV-Python教程（5、初级滤波内容）
+D0127960`浅谈算法和数据结构`五 优先级队列与堆排序
+D0276712`五大常用算法之三：贪心算法
+D0339282`概率图模型（PGM）学习笔记（五）——模板模型
+D0242111`cookielib和urllib2模块相结合模拟网站登录
+D0577510`Windows8.1 64bit环境下搭建深度学习平台之CUDA安装与配置
+D0384618`TF-IDF与余弦相似性的应用（三）：自动摘要
+D0139927`MapReduce实现大矩阵乘法
+D0354040`关于SVM参数c&g选取的总结帖[matlab-libsvm]
+D0149936`LIBSVM使用方法及参数设置
+D0574461`hadoop常用命令
+D0008767`标准库：urllib/urllib2
+D0615335`基于IDEA使用Spark API开放Spark程序（1）
+D0185088`OpenCV-Python教程（10、直方图均衡化）
+D0558285`libsvm python Linux Ubuntu下编程操作实践
+D0525733`SVM --从“原理”到实现
+D0064059`Deciding the Number of Clusterings
+D0126618`浅谈算法和数据结构`三 合并排序
+D0516327`语音识别基本原理介绍------dnn-hmm续
+D0276151`高斯混合模型学习笔记
+D0124004`漫谈 Clustering (2)`k-medoids
+D0119031`漫谈 Clustering (5)`Hierarchical Clustering
+D0541794`模板匹配中差值的平方和（SSD）与互相关准则的关系
+D0008400`A*算法入门
+D0097068`漫谈 Clustering (1)`k-means
+D0230288`CUDA系列学习（四）Parallel Task类型 与 Memory Allocation
+D0217851`协方差矩阵、相关矩阵的详细说明
+D0236711`【面向代码】学习 Deep Learning（一）Neural Network
+D0002320`从K近邻算法、距离度量谈到KD树、SIFT+BBF算法
+D0221547`CUDA系列学习（一）An Introduction to GPU and CUDA
+D0085810`hadoop2.2完全分布式最新高可靠安装文档
+D0460371`人脸特征点定位——ASM和AAM算法
+D0030470`透過 OpenNI / NITE 分析人體骨架（上）
+D0115637`KMP算法--转
+D0026973`机器学习算法与Python实践之（七）逻辑回归（Logistic Regression）
+D0403387`OpenCV之Python学习笔记
+D0090333`浅谈算法和数据结构`十 平衡查找树之B树
+D0251231`OpenCV Python教程（3、直方图的计算与显示）
+D0020097`Regularized Gaussian Covariance Estimation
+D0194847`一. 图模型（graphical model, GM)的表示
+D0402019`决策树--从原理到实现
+D0329938`TF-IDF与余弦相似性的应用（二）：找出相似文章
+D0053578`线性判别分析（Linear Discriminant Analysis）（一）
+D0509027`随机抽样方法正太分布 MC, MCMC, Gibbs采样 原理&实现（in R）
+D0314468`OpenCV-Python教程（9、使用霍夫变换检测直线）
+D0254628`【面向代码】学习 Deep Learning（三）Convolution Neural Network(CNN)
+D0201620`大白话解析模拟退火算法
+D0010576`SIFT算法详解
+D0073785`第九章三续：SIFT算法的应用--目标识别之Bag-of-words模型
+D0136259`概率图模型（PGM）学习笔记（三）模式推断与概率图流
+D0050109`图像卷积与滤波的一些知识点
+D0161813`五大常用算法之一：分治算法
+D0544966`使用CAFFE训练自己的数据集并单张图片测试的方法
+D0051786`腾讯、网易、新浪新闻网站爬虫编写记录及评论格式分析
+D0212030`目标检测的图像特征提取之（三）Haar特征
+D0237828`浅谈算法和数据结构`六 符号表及其基本实现
+D0290316`【OpenCV】直方图应用：直方图均衡化，直方图匹配，对比直方图
+D0310667`线性判别分析LDA解析2
+D0227233`语音识别基本原理介绍--gmm-hmm中训练的完整版
+D0104264`用 ElementTree 在 Python 中解析 XML
+D0156728`最优化问题中，牛顿法为什么比梯度下降法求解需要的迭代次数更少？
+D0152023`CUDA系列学习（五）GPU基础算法`Reduce, Scan, Histogram
+D0137131`目标检测的图像特征提取之（二）LBP特征
+D0448481`OpenCV-Python教程（7、Laplacian算子）
+D0170389`LDA 线性判别分析
+D0094957`线性判别分析(Linear Discriminant Analysis, LDA）算法分析
+D0039321`利用图片指纹检测高相似度图片--相似图片搜索的原理
+D0347654`语音识别系统原理介绍----gmm-hmm
+D0002004`堪称最好的A*算法
+D0195610`TF-IDF与余弦相似性的应用（一）：自动提取关键词
+D0629766`反向传播BP算法
+D0094186`浅谈算法和数据结构`九 平衡查找树之红黑树
+D0427925`caffe的finetuning是如何更新网络参数的？
+D0112763`正则化方法：L1和L2 regularization、数据集扩增、dropout
+D0169126`MATLAB模式识别基本操作函数解析
+D0067905`生成模型与判别模型
+D0085380`浅谈算法和数据结构`二 基本排序算法
+D0582935`史上最简单的上传文件到linux系统方法
+D0523242`64位WIN7上成功安装theano,并运行了g++, GPU
+D0082514`Suffix Tree
+D0353014`【面向代码】学习 Deep Learning（二）Deep Belief Nets(DBNs)
+D0356975`OpenCV Python教程（2、图像元素的访问、通道分离与合并）
+D0065390`语音信号处理之（四）梅尔频率倒谱系数（MFCC）
+D0105728`人脸识别之特征脸方法（Eigenface）PCA方法
+D0156540`浅谈算法和数据结构`七 二叉查找树
+D0165761`浅谈算法和数据结构`十二 无向图相关算法基础
+D0157130`语音识别系统原理介绍---从gmm-hmm到dnn-hmm
+D0096697`常用的OpenCV函数速查
+D0011432`隐马尔可夫模型（HMM）攻略
+D0130284`Linux下的Libsvm使用历程录
+D0071870`Spark 0.9.1 MLLib 机器学习库简介
+D0269635`Graphical Model（概率图模型）的浅见
+D0488502`python模拟登录的实现
+D0142988`相似图片搜索的原理
+D0180945`机器学习算法中如何选取超参数：学习速率、正则项系数、minibatch size
+D0275019`五大常用算法之五：分支限界法
+D0703479`Hadoop在master查看live nodes为0解决方案
+D0193361`Just Say It！——DNN在语音识别系统中的应用
+D0007773`机器学习(Machine Learning)&深度学习(Deep Learning)资料
+D0246091`MATLAB神经网络工具箱学习
+D0191747`【机器学习算法实现】主成分分析(PCA)——基于python+numpy
+D0188583`OpenCV-Python教程（4、形态学处理）
+D0046222`漫谈 Clustering (4)`Spectral Clustering
+D0420213`OpenCV-Python教程（6、Sobel算子）
+D0018432`透過 OpenNI / NITE 分析人體骨架（下）
+D0199929`GMM-HMM语音识别模型 原理篇
+D0115319`计算机视觉领域的一些牛人博客，超有实力的研究机构等的网站链接---个人整理
+D0519609`概率图模型（PGM）学习笔记（二）贝叶斯网络-语义学与因子分解
+D0166174`漫谈 Clustering (番外篇)`Dimensionality Reduction
+D0235951`字符串匹配的Boyer-Moore算法
+D0066651`PCA方法从原理到实现
+D0443836`OpenCV-Python教程（8、Canny边缘检测）
+D0040287`DNN与微软同声传译系统背后的故事
+D0134158`浅谈算法和数据结构`八 平衡查找树之2-3树
+D0200270`GMM-HMM语音识别模型 原理篇
+D0589676`caffe安装系列——安装NVIDIA显卡驱动
+D0063562`鸟类及动物声音辨识方法原理进展境况转自知乎
+D0807229`optirun执行错误的解决办法
+D0378010`ubuntu14.04安装cuda
+D0221508`CUDA系列学习（一）An Introduction to GPU and CUDA
+D0018639`谷歌大脑科学家 Caffe缔造者 贾扬清 微信讲座完整版
+D0016160`从最大似然到EM算法浅解
+D0087017`卷积神经网络
+D0112389`CNN训练Cifar-10技巧
+D0076817`浅谈算法和数据结构`一 栈和队列
+D0242111`cookielib和urllib2模块相结合模拟网站登录
+D0528856`基于Theano的深度学习(Deep Learning)框架Keras学习随笔-10-回调
+D0412571`用Theano学习Deep Learning（三）：卷积神经网络
+D0242858`SVD奇异值分解
+D0318329`漫谈 Clustering (番外篇)`Vector Quantization
+D0708278`python实现并行爬虫
+D0616310`用BeautifulSoup解析Html格式的Json字符串（处理新浪微博解析不到关注情况）
+D0063293`线性判别分析（LDA）, 主成分分析(PCA)
+D0294025`概率图模型（PGM）学习笔记（一）动机与概述
+D0352889`python模块以及导入出现ImportError`No module named 'xxx'问题
+D0834209`Numpy之文件存取
+D0227233`语音识别基本原理介绍--gmm-hmm中训练的完整版
+D0892573`Ubuntu14.04  64 位系统 安装 Cuda 6.5
+D0086948`ReLu(Rectified Linear Units)激活函数
+D0135155`DeepID算法实践
+D0079944`漫谈 Clustering (3)`Gaussian Mixture Model
+D0055051`浅谈算法和数据结构`十一 哈希表
+D0240720`Python模拟新浪微博登录转载，是我的那篇资料来源
+D0216000`Ubuntu-安装-cuda7.0-单显卡-超详细教程
+D0060616`对线性回归，logistic回归和一般回归的认识
+D0778128`CXXNET 安装教程
+D0093933`如何生成随机数（上）
+D0388458`CUDA系列学习（三）GPU设计与结构QA & coding练习
+D0175105`概率图模型（PGM）学习笔记（四）-贝叶斯网络-伯努利贝叶斯-多项式贝叶斯
+D0750874`caffe安装系列——安装GCC4.7和G++4.7并降级
+D0191747`【机器学习算法实现】主成分分析(PCA)——基于python+numpy
+D0483147`在Raspberry Pi上安装openni2_camera
+D0355247`手把手教你cuda5.5与VS2010的编译环境搭建
+D0186567`我的新书《编程之法：面试和算法心得》终于上市  [内含勘误]
+D0502310`theano中训练方法和模型的一些写法
+D0686978`Linux 14.04 CUDA  theano安装
+D0056842`浅谈算法和数据结构`四 快速排序
+D0103677`人脸识别之特征脸方法（Eigenface）
+D0089252`Hadoop 集群 傻瓜式搭建手记 （一） 软件准备
+D0018784`谷歌大脑科学家 Caffe缔造者 贾扬清 微信讲座完整版
+D0146049`CUDA系列学习（二）CUDA memory & variables - different memory and variable types
+D0026973`机器学习算法与Python实践之（七）逻辑回归（Logistic Regression）
+D0216174`漫谈 Clustering (番外篇)`Expectation Maximization
+D0154238`Neural Network Toolbox使用笔记1：数据拟合
+D0638996`python+Eclipse+pydev环境搭建
+D0339282`概率图模型（PGM）学习笔记（五）——模板模型
+D0577510`Windows8.1 64bit环境下搭建深度学习平台之CUDA安装与配置
+D0090333`浅谈算法和数据结构`十 平衡查找树之B树
+D0149936`LIBSVM使用方法及参数设置
+D0558285`libsvm python Linux Ubuntu下编程操作实践
+D0064059`Deciding the Number of Clusterings
+D0516327`语音识别基本原理介绍------dnn-hmm续
+D0113025`正则化方法：L1和L2 regularization、数据集扩增、dropout
+D0094957`线性判别分析(Linear Discriminant Analysis, LDA）算法分析
+D0124004`漫谈 Clustering (2)`k-medoids
+D0101183`CUDA(六). 从并行排序方法理解并行化思维——冒泡、归并、双调排序的GPU实现
+D0156540`浅谈算法和数据结构`七 二叉查找树
+D0541794`模板匹配中差值的平方和（SSD）与互相关准则的关系
+D0097068`漫谈 Clustering (1)`k-means
+D0230288`CUDA系列学习（四）Parallel Task类型 与 Memory Allocation
+D0217851`协方差矩阵、相关矩阵的详细说明
+D0650171`python多线程threading
+D0002320`从K近邻算法、距离度量谈到KD树、SIFT+BBF算法
+D0221547`CUDA系列学习（一）An Introduction to GPU and CUDA
+D0213162`怎么在Caffe中配置每一个层的结构
+D0110521`caffe安装系列——综述
+D0020097`Regularized Gaussian Covariance Estimation
+D0229150`CUDA系列学习（四）Parallel Task类型 与 Memory Allocation
+D0053578`线性判别分析（Linear Discriminant Analysis）（一）
+D0194847`一. 图模型（graphical model, GM)的表示
+D0170245`【转】Caffe Windows版本的编译
+D0500278`Image classification with deep learning常用模型
+D0212195`基于Theano的深度学习(Deep Learning)框架Keras学习随笔-13-卷积层
+D0201620`大白话解析模拟退火算法
+D0010576`SIFT算法详解
+D0523242`64位WIN7上成功安装theano,并运行了g++, GPU
+D0136259`概率图模型（PGM）学习笔记（三）模式推断与概率图流
+D0259415`WebRTC VideoEngine综合应用示例（一）——视频通话的基本流程
+D0050109`图像卷积与滤波的一些知识点
+D0005763`自学成才秘籍！机器学习&深度学习经典资料汇总
+D0544966`使用CAFFE训练自己的数据集并单张图片测试的方法
+D0212030`目标检测的图像特征提取之（三）Haar特征
+D0237828`浅谈算法和数据结构`六 符号表及其基本实现
+D0290316`【OpenCV】直方图应用：直方图均衡化，直方图匹配，对比直方图
+D0214565`KNN(k-nearest neighbor algorithm)--从原理到实现
+D0509027`随机抽样方法正太分布 MC, MCMC, Gibbs采样 原理&实现（in R）
+D0156728`最优化问题中，牛顿法为什么比梯度下降法求解需要的迭代次数更少？
+D0385809`Caffe修炼之路--模型定义
+D0145610`CUDA系列学习（二）CUDA memory & variables - different memory and variable types
+D0291419`基于Theano的深度学习(Deep Learning)框架Keras学习随笔-11-数据集
+D0137131`目标检测的图像特征提取之（二）LBP特征
+D0170389`LDA 线性判别分析
+D0347654`语音识别系统原理介绍----gmm-hmm
+D0073028`标签传播算法（Label Propagation）及Python实现
+D0629766`反向传播BP算法
+D0094186`浅谈算法和数据结构`九 平衡查找树之红黑树
+D0427925`caffe的finetuning是如何更新网络参数的？
+D0112763`正则化方法：L1和L2 regularization、数据集扩增、dropout
+D0169126`MATLAB模式识别基本操作函数解析
+D0067905`生成模型与判别模型
+D0065390`语音信号处理之（四）梅尔频率倒谱系数（MFCC）
+D0119031`漫谈 Clustering (5)`Hierarchical Clustering
+D0165761`浅谈算法和数据结构`十二 无向图相关算法基础
+D0157130`语音识别系统原理介绍---从gmm-hmm到dnn-hmm
+D0048958`图像卷积与滤波的一些知识点
+D0005380`神经网络训练中的Tricks之高效BP（反向传播算法）
+D0488502`python模拟登录的实现
+D0525733`SVM --从“原理”到实现
+D0195610`TF-IDF与余弦相似性的应用（一）：自动提取关键词
+D0310667`线性判别分析LDA解析2
+D0007773`机器学习(Machine Learning)&深度学习(Deep Learning)资料
+D0246091`MATLAB神经网络工具箱学习
+D0103647`朴素贝叶斯理论推导与三种常见模型
+D0519609`概率图模型（PGM）学习笔记（二）贝叶斯网络-语义学与因子分解
+D0166174`漫谈 Clustering (番外篇)`Dimensionality Reduction
+D0235951`字符串匹配的Boyer-Moore算法
+D0081825`python urllib2详解及实例
+D0066651`PCA方法从原理到实现

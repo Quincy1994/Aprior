@@ -1,0 +1,10 @@
+D0554626`STM8L151G6U6 之实现低功耗
+D0789858`STM8L101F3P6低功耗
+D0747652`STM8L151在STVD/IAR下重定向printf函数
+D0190420`Linux input子系统分析之二：深入剖析input_handler、input_core、input_device
+D0069811`如何快速理解一个全新的嵌入式操作系统
+D0155471`Protocol buffer序列化及其在微信蓝牙协议中的应用
+D0554626`STM8L151G6U6 之实现低功耗
+D0129076`蜂鸣器电路中有大内容
+D0747652`STM8L151在STVD/IAR下重定向printf函数
+D0789858`STM8L101F3P6低功耗

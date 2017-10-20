@@ -1,0 +1,2 @@
+D0734659`Ubuntu下NDK_MODULE_PATH设置
+D0779235`ubuntu 10.04运行cocos2d-x 3.x

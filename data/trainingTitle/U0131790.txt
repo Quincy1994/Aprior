@@ -1,0 +1,57 @@
+D0533719`http://blog.csdn.net/huangyanbin123/article/details/38943575
+D0820740`android studio常用的设置及常用快捷键
+D0606754`Android studio中出现非法字符时的部分解决方法
+D0353426`最强开发资源平台大合集
+D0177227`Android针对不同屏幕分辨率的4种布局适应方法
+D0911877`Android问题集锦之三十四：android studio导入项目下载gradle-x.x.x-all.zip
+D0087552`疯狂Java学习笔记（62）------------线程初识
+D0663325`安卓Button控件OnClickListener的三种实现方式
+D0034962`Android Studio入门到精通
+D0433338`以非gradle方式将 Eclipse 项目导入Android Studio
+D0545175`android studio中导入第三方jar包和第三方库文件的方法
+D0358642`Android 手机上获取物理唯一标识码
+D0579086`Android UI 实现表格布局
+D0417738`Android开发—引入开源项目(gradle)
+D0745583`Android Studio生成签名后的APK
+D0207446`Android 自定义可拖拽ListView，思想最重要。
+D0549149`Android UI - 实现广告Banner轮播效果
+D0918689`Android中下载图片展示到界面点击放大
+D0853950`Android studio构建类似Eclipse的文件目录结构
+D0001095`ART运行时垃圾收集（GC）过程分析
+D0248529`Android Studio(AS)-->导入项目
+D0139419`Android 打造编译时注解解析框架   这只是一个开始
+D0031318`Android Framework 学习
+D0155268`Android 深入理解Android中的自定义属性
+D0086070`Android RecyclerView 使用完全解析 体验艺术般的控件
+D0782134`Android Studio(AS)-->drawable与mipmap (官网解释)
+D0215365`Android Studio系列教程四--Gradle基础
+D0535298`Android Studio使用jni、so库
+D0112195`Android Studio导入项目的几种方法
+D0576455`Picasso开源图片加载利器使用初探
+D0820740`android studio常用的设置及常用快捷键
+D0146074`Volley 图片加载相关源码解析
+D0849578`Gradle Build速度加快终极方法
+D0599588`android中最好的瀑布流控件PinterestLikeAdapterView
+D0014182`hadoop2提交到Yarn： Mapreduce执行过程分析
+D0205627`Android笔记（七）活动的生命周期
+D0225449`android网络应用开发完全解析
+D0484629`Android View刷新机制
+D0423577`Andbase应用开发框架
+D0902041`Android中Handler的基本用法
+D0233587`Android应用进程间通信之Messenger信使使用及源码浅析
+D0102898`Android AutoLayout全新的适配方式 堪称适配终结者
+D0151495`Android 自定义控件 轻松实现360软件详情页
+D0720275`Android实战技巧之十二：Android Studio导入第三方类库、jar包和so库
+D0846381`关于AndroidStudio中引用MipMap图片资源无法预览的问题研究
+D0047141`FaceBook推出的Android图片加载库-Fresco
+D0483248`android 网络编程之网络通信几种方式实例分享
+D0131356`新一批创业者入局 谁来挖掘其身上的金矿
+D0576591`Android Studio使用心得
+D0138633`Android Fragment 你应该知道的一切
+D0303271`【免费算法课】硅谷工程师直播面试技巧！
+D0311510`Android实战技巧之十一：Android Studio和Gradle
+D0084501`Android DiskLruCache 源码解析 硬盘缓存的绝佳方案
+D0495294`自定义CoordinatorLayout的Behavior实现知乎和简书快速返回效果
+D0001095`ART运行时垃圾收集（GC）过程分析
+D0091257`Android 屏幕适配方案
+D0274627`Android 自定义控件玩转字体变色  打造炫酷ViewPager指示器

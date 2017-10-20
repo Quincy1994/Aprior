@@ -1,0 +1,8 @@
+D0776702`postgresql数据库迁移到oracle
+D0224599`postgtresql语言SQL函数学习整理
+D0776702`postgresql数据库迁移到oracle
+D0321689`完整Debian7配置LAMP（Apache/MySQL/PHP）环境及搭建建站
+D0217042`IT运维的五大基础知识
+D0611219`LNMP环境搭建——Nginx篇
+D0159879`Linux命令行编辑常见的快捷键(实用, 通用)
+D0611873`在RHEL6中配置YUM源

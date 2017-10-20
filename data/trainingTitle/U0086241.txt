@@ -1,0 +1,62 @@
+D0877275`How many integers can you find（容斥+dfs)
+D0720037`CodeForces 555A  Case of Matryoshkas 娃娃组装
+D0833671`HDU 2046 骨牌铺方格(简单递推）
+D0285924`浙大OJ网址及ACM题目分类
+D0033486`HD  OJ  题目分类
+D0701049`ZOJ 3469 Food Delivery
+D0552637`ZOJ 1654   Place the Robots(放置机器人）------最大独立集
+D0925574`CodeForces 553A Kyoya and Colored Balls （排列组合）
+D0656562`HDU 1394 Minimum Inversion Number（线段树：单点更新，求逆序数）
+D0863348`CF 45C Dancing Lessons（优先队列）
+D0307350`HDU 1166 敌兵布阵（线段树：点更新，区间求和）
+D0859837`POJ 1384 POJ 1384 Piggy-Bank(完全背包)
+D0880434`Wireless Network
+D0909453`ZOJ 1425 Crossed Matchings(动态规划）
+D0744759`POJ 3468 A Simple Problem with Integers
+D0730160`hdu4465 Candy(快速排列组合+概率)
+D0709767`Information Sharing
+D0830564`CodeForces 555C Case of Chocolate(STL:map的使用）
+D0705732`CodeForces 553B  Kyoya and Permutation(找规律）
+D0686350`POJ 2155 Matrix
+D0826155`POJ 3685  Matrix(二分套二分）
+D0644147`http://acm.hdu.edu.cn/showproblem.php?pid=1203(背包问题）
+D0819153`Ligh OJ 1370 Party All the Time （欧拉函数 +素数打表）
+D0703289`ZOJ 3699  Dakar Rally（贪心）
+D0847710`Gym 100676F Palindrome（并差集）
+D0633244`HDU 1754 I Hate It（线段树：单点更新，求区间最大值）
+D0877275`How many integers can you find（容斥+dfs)
+D0693059`codeforces #310  555C C. Case of Chocolate(set的应用)
+D0719963`zoj 3469 Food Delivery(区间dp)
+D0805680`ZOJ Problem Set - 2338 The Towers of Hanoi Revisited DFS+预处理
+D0833671`HDU 2046 骨牌铺方格(简单递推）
+D0285924`浙大OJ网址及ACM题目分类
+D0642742`HDU 1203 I NEED A OFFER!
+D0844098`Zoj 3469 Food Delivery (DP
+D0033486`HD  OJ  题目分类
+D0723585`Codeforces Round #310 (Div. 1)  C. Case of Chocolate stl应用
+D0838327`Hello Kiki（hdu3579+不互质的中国剩余定理）
+D0709619`Codeforces #310 div2 C. Case of Matryoshkas
+D0889937`ZOJ 3469 Food Delivery -- 区间dp
+D0740965`CodeForces 45C Dancing Lessons
+D0781172`Codeforces554D:Kyoya and Permutation
+D0593340`HDU 2068 RPG的错排
+D0710415`Codeforces Round #309 (Div. 1)  B. Kyoya and Permutation 找规律
+D0588393`ZOJ 3888 Twelves Monkeys (优先队列+预处理)
+D0499181`程序员必须要会算法吗? 获奖名单公布
+D0735002`POJ3468 A Simple Problem with Integers 线段树|树状数组BIT（区间增减，求和）
+D0820761`POJ 3311 Hie with the Pie (Floyd + 状压dp 简单TSP问题)
+D0880434`Wireless Network
+D0741499`ZOJ 3827  Beauty of Array
+D0824618`Codeforces 555C. Case of Chocolate （SET应用）
+D0744759`POJ 3468 A Simple Problem with Integers
+D0709767`Information Sharing
+D0830564`CodeForces 555C Case of Chocolate(STL:map的使用）
+D0705732`CodeForces 553B  Kyoya and Permutation(找规律）
+D0686350`POJ 2155 Matrix
+D0644147`http://acm.hdu.edu.cn/showproblem.php?pid=1203(背包问题）
+D0809375`POJ 3468 A Simple Problem with Integers
+D0822984`CodeForces 556C   Case of Matryoshkas 娃娃组装
+D0607044`codeforces #310 B B. Case of Fugitive(贪心)
+D0584826`poj 3311 Hie with the Pie 【状态dp + 最短路floyd】
+D0749459`HDU 2046 骨牌铺方格
+D0633244`HDU 1754 I Hate It（线段树：单点更新，求区间最大值）

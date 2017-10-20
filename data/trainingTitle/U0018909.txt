@@ -1,0 +1,18 @@
+D0335531`usb host controller
+D0304911`define和typedef的区别，typedef struct的用法
+D0287849`platform总线
+D0165732`platform总线、设备与驱动
+D0838749`ioctl错误引出的open和fopen的区别
+D0029970`usb的一些基本知识
+D0066540`usb鼠标驱动
+D0029490`嵌入式软件工程师题目
+D0665949`include h 和include 。c的区别
+D0039404`socket，tcp IP
+D0181239`select()函数以及FD_ZERO、FD_SET、FD_CLR、FD_ISSET
+D0006998`usb驱动开发知识
+D0304911`define和typedef的区别，typedef struct的用法
+D0029970`usb的一些基本知识
+D0838749`ioctl错误引出的open和fopen的区别
+D0029490`嵌入式软件工程师题目
+D0665949`include h 和include 。c的区别
+D0039404`socket，tcp IP

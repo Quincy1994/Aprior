@@ -1,0 +1,31 @@
+D0207934`IBM MQTT协议基本资料
+D0470721`i.MX6 DDR 参数设置
+D0801106`AllJoyn中文教程
+D0081116`AllJoyn教程 - AllJoyn 总线
+D0267012`AllJoyn教程 - AllJoyn架构
+D0091755`AllJoyn教程 - AllJoyn基本组件概念
+D0470721`i.MX6 DDR 参数设置
+D0267012`AllJoyn教程 - AllJoyn架构
+D0015637`漫谈程序员系列：薪资，你是我不能言说的伤
+D0397410`GIT版本控制 — GIT与SVN的相互转换 (三)
+D0440448`使能MT7620的第二个SPI接口(cs1)——兼谈pinmux与pinctrl驱动
+D0877900`Error`couldn't connect to server 127.0.0.1:27017 src/mongo/shell/mongo.js
+D0905814`利用adb对android手机进行远程截图/截屏
+D0172987`Android基础笔记（七）-页面跳转和数据传递
+D0628195`让MT7620完美支持32M SPI Flash(W25Q256) — 兼谈设备驱动中的shutdown方法
+D0246807`Android Camera HAL V3 Vendor Tag及V1，V3参数转换
+D0081116`AllJoyn教程 - AllJoyn 总线
+D0113793`漫谈程序员系列：千奇百怪的程序员
+D0088775`跟hoowa学做智能路由(五)：熟悉OpenWRT
+D0545303`（待研究2--暂存）ALLJOYN 在linux（ubuntu）下的编译与使用
+D0628755`一种在cygwin中替代cygwin软件进行单独软件独立升级的方法和命令（附有sudo apt-get upgrade  软件大全）
+D0332177`物联网协议比较 MQTT CoAP RESTful/HTTP XMPP
+D0744672`【AllJoyn框架-07】Linux平台下用eclipse c++ 编译AllJoyn程序
+D0207934`IBM MQTT协议基本资料
+D0327954`Android4.4 wpa_supplicant深入分析之初识wpa_supplicant
+D0047776`漫谈程序员系列：那些害死程序员的细节
+D0801106`AllJoyn中文教程
+D0830350`-sysroot 在编译时的作用
+D0171732`Android基础笔记（四）-数据存储和界面展现
+D0632243`FireWRT(MT7621)远程视频监控-1
+D0091755`AllJoyn教程 - AllJoyn基本组件概念

@@ -1,0 +1,79 @@
+D0363861`欢迎使用CSDN-markdown编辑器
+D0767525`Metric learning 度量学习
+D0486732`CAFFE提取特征并可视化
+D0501688`Partial Least Squares Regression 偏最小二乘法回归
+D0385642`Raspberry Pi B+ 实验
+D0304182`[笔记] Week 1`Social Perceptions and Misperceptions
+D0491825`[备份] 手机密码方案数
+D0834258`Markdown Test
+D0274565`Canonical Correlation Analysis 典型相关分析
+D0367914`[笔记] 最优化方法 - 最优性条件
+D0840517`[备份] ubuntu压缩命令总结
+D0251381`Migrate to Hexo
+D0846491`[Android开发] Android Handler的处理方式
+D0231992`K-Nearest Neighbor algorithm K最邻近结点算法
+D0079858`Non-negative Matrix Factorization 非负矩阵分解
+D0514288`[笔记] Week 2`The Psychology of Self-Presentation and Persuasion
+D0182743`cafebabe.cc/nazo解答笔记
+D0862704`[C#开发] ASP.NET发布到Azure VM
+D0564603`【直播预告】7月18日3D游戏引擎免费公开课答疑，参与送C币！
+D0231992`K-Nearest Neighbor algorithm K最邻近结点算法
+D0736946`BZOJ 2400 Optimal Marks 最小割
+D0787618`Markdown之表格table的处理
+D0079858`Non-negative Matrix Factorization 非负矩阵分解
+D0573261`CSDN-markdown编辑器使用LaTex数学公式
+D0098703`深度学习研究理解8：Understanding Deep Architectures using a Recursive Convolutional Network
+D0077495`深度学习论文理解3：Flexible, high performance convolutional neural networks for image classification
+D0182743`cafebabe.cc/nazo解答笔记
+D0069754`文本聚类算法介绍
+D0617219`Machine Learning - XVII. Large Scale Machine Learning大规模机器学习 (Week 10)
+D0692269`ACM-BestCoder Round #33
+D0905420`BZOJ 4032 HEOI2015 最短不公共子串 后缀自动机+序列自动机+BFS
+D0306773`[CSDN_Markdown] 使用CSDN Markdown编辑器
+D0862704`[C#开发] ASP.NET发布到Azure VM
+D0413350`ubuntu 下 cuda 6.5 安装以及caffe 配置
+D0127846`Android Looper和Handler详解
+D0669862`bzoj 2243 染色 树链剖分 好题！
+D0518615`python多线程读取同一个文件
+D0370589`【写文章 奖C币 换好礼】文章上 “程序人生”，拿着C 币换好礼！
+D0255295`DeepFace--Facebook的人脸识别
+D0304182`[笔记] Week 1`Social Perceptions and Misperceptions
+D0266544`[BZOJ 2731][HNOI 2012]三角形覆盖问题(计算几何+扫描线暴力)
+D0367914`[笔记] 最优化方法 - 最优性条件
+D0840517`[备份] ubuntu压缩命令总结
+D0565645`运行Fast R-CNN的代码
+D0906740`Android Studio 1.3 到来了，马上来升级
+D0817022`计算之道 （置换的玩笑）搜索
+D0363861`欢迎使用CSDN-markdown编辑器
+D0511793`[采矿]POJ List & 题解 13.30%
+D0352889`python模块以及导入出现ImportError`No module named 'xxx'问题
+D0111874`深度学习研究理解7：Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+D0628440`Google Code Jam 2015 QR
+D0479880`Java实现比较版本号
+D0491825`[备份] 手机密码方案数
+D0460274`深度学习教程_DeepLearning 0.1 documentation中文翻译
+D0866139`公告：博客Markdown编辑器，带来全新体验
+D0705436`[LeetCode] Best Time to Buy and Sell Stock IV
+D0846491`[Android开发] Android Handler的处理方式
+D0876602`caffe python visualization程序解析
+D0853627`Python lmdb
+D0777469`poj 1160 Post Office（邮局问题）
+D0102299`去噪自编码器_DeepLearning 0.1 documentation中文翻译
+D0359086`欢迎使用CSDN-markdown编辑器
+D0038123`深度学习研究理解6:OverFeat:Integrated Recognition, Localization and Detection using Convolutional Networks
+D0767525`Metric learning 度量学习
+D0486732`CAFFE提取特征并可视化
+D0501688`Partial Least Squares Regression 偏最小二乘法回归
+D0073285`《Delving Deep into Rectifiers`Surpassing Human-Level Performance on ImageNet Classification》阅读笔记与实现
+D0245045`如何快糙好猛地在Windows下编译CAFFE并使用其matlab和python接口
+D0722004`UVA 12170 Easy Climb(dp+单调队列优化)
+D0471452`Ubuntu通过源码编译安装Octave 4.0
+D0834258`Markdown Test
+D0274565`Canonical Correlation Analysis 典型相关分析
+D0251381`Migrate to Hexo
+D0584376`Android中include标签的使用及注意事项
+D0077543`深度学习研究理解9：Convolutional Neural Networks at Constrained Time Cost
+D0783058`caffe python批量抽取图像特征
+D0514288`[笔记] Week 2`The Psychology of Self-Presentation and Persuasion
+D0558570`【直播预告】7月19日iOS免费公开课答疑，参与送C币！
+D0540684`一个有趣的网站

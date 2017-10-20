@@ -1,0 +1,22 @@
+D0678210`Android中操作文件
+D0527962`内容提供者ContentProvider共享数据，监控短信，操作联系人
+D0156146`jdbc事务
+D0604114`ContentProvider 内容提供者 共享数据
+D0746037`Spring中ApplicationContextAware实现获取bean的工具类,在servlet中通过servletContext获取application
+D0500684`Android中对SharedPreferences配置文件进行读写
+D0239114`Android中的数据库SQLite
+D0746447`log4j.xml实现每天创建一个log文件
+D0810971`java发送邮件
+D0321088`Linux下分区详解之-Parted
+D0564062`java代码实现证书生成客户端证书 实现ssl双向认证
+D0432434`spring 监听器　IntrospectorCleanupListener 防止内存泄露
+D0607607`注解@PostConstruct与@PreDestroy讲解及实例
+D0156146`jdbc事务
+D0370589`【写文章 奖C币 换好礼】文章上 “程序人生”，拿着C 币换好礼！
+D0396267`Spring动态多数据源实例Demo
+D0212729`搭建SpringMVC+Hibernate4+Spring3+Ajax+Maven项目
+D0321088`Linux下分区详解之-Parted
+D0239114`Android中的数据库SQLite
+D0026327`漫谈程序员系列：怎么告别“混日子”
+D0607607`注解@PostConstruct与@PreDestroy讲解及实例
+D0038876`架构设计：负载均衡层设计方案（8）——负载均衡层总结上篇

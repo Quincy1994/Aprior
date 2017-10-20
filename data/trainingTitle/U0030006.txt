@@ -1,0 +1,3 @@
+D0899223`Mac 环境下下配置opencv ＋python
+D0883577`零基础学python-目录
+D0385809`Caffe修炼之路--模型定义
